@@ -1,0 +1,13 @@
+## Interface: 110100
+## Interface-Classic: 11506
+## Interface-Wrath: 30403
+## Interface-Cata: 40402
+## Author: KittenBall
+## Version: 20250305230774
+## Notes: Bigfoot chat emoji, which developed by Bigfoot (178), original author: Terry
+## Notes-zhCN: 大脚聊天表情，由178.com开发。原作者：Terry
+## DefaultState: enabled
+## Dependencies: Emoji-Core
+
+Emoji-Bigfoot_EN.lua
+Emoji-Bigfoot_ZH.lua

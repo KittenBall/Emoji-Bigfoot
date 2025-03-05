@@ -461,16 +461,17 @@ local pack = {
 		Name = "天使",
 		Shortcodes = {
 			"天使",
+		},
 		Keywords = {
 			"天使",
 			"安琪儿",
-		},
 		},
 	},
 	["angry"] = {
 		Name = "生气",
 		Shortcodes = {
 			"生气",
+		},
 		Keywords = {
 			"动火",
 			"动肝火",
@@ -481,12 +482,12 @@ local pack = {
 			"上火",
 			"挂火",
 		},
-		},
 	},
 	["biglaugh"] = {
 		Name = "大笑",
 		Shortcodes = {
 			"大笑",
+		},
 		Keywords = {
 			"大笑",
 			"绝倒",
@@ -497,12 +498,12 @@ local pack = {
 			"哈哈大笑",
 			"仰天大笑",
 		},
-		},
 	},
 	["clap"] = {
 		Name = "鼓掌",
 		Shortcodes = {
 			"鼓掌",
+		},
 		Keywords = {
 			"拍手",
 			"拍巴掌",
@@ -513,12 +514,12 @@ local pack = {
 			"拍击",
 			"缶掌",
 		},
-		},
 	},
 	["cool"] = {
 		Name = "酷",
 		Shortcodes = {
 			"酷",
+		},
 		Keywords = {
 			"非常",
 			"异常",
@@ -529,12 +530,12 @@ local pack = {
 			"十二分",
 			"万分",
 		},
-		},
 	},
 	["cry"] = {
 		Name = "哭",
 		Shortcodes = {
 			"哭",
+		},
 		Keywords = {
 			"哭",
 			"啼哭",
@@ -543,12 +544,12 @@ local pack = {
 			"哭哭啼啼",
 			"哭丧着脸",
 		},
-		},
 	},
 	["cute"] = {
 		Name = "可爱",
 		Shortcodes = {
 			"可爱",
+		},
 		Keywords = {
 			"可爱",
 			"喜人",
@@ -559,12 +560,12 @@ local pack = {
 			"可喜",
 			"可人",
 		},
-		},
 	},
 	["despise"] = {
 		Name = "鄙视",
 		Shortcodes = {
 			"鄙视",
+		},
 		Keywords = {
 			"鄙视",
 			"蔑视",
@@ -575,12 +576,12 @@ local pack = {
 			"看轻",
 			"鄙薄",
 		},
-		},
 	},
 	["dreamsmile"] = {
 		Name = "美梦",
 		Shortcodes = {
 			"美梦",
+		},
 		Keywords = {
 			"幻想",
 			"空想",
@@ -591,12 +592,12 @@ local pack = {
 			"美梦",
 			"春梦",
 		},
-		},
 	},
 	["embarrass"] = {
 		Name = "尴尬",
 		Shortcodes = {
 			"尴尬",
+		},
 		Keywords = {
 			"尴尬",
 			"狼狈",
@@ -607,12 +608,12 @@ local pack = {
 			"两难",
 			"窘",
 		},
-		},
 	},
 	["evil"] = {
 		Name = "邪恶",
 		Shortcodes = {
 			"邪恶",
+		},
 		Keywords = {
 			"凶恶",
 			"凶狠",
@@ -623,12 +624,12 @@ local pack = {
 			"凶悍",
 			"邪恶",
 		},
-		},
 	},
 	["excited"] = {
 		Name = "兴奋",
 		Shortcodes = {
 			"兴奋",
+		},
 		Keywords = {
 			"提神",
 			"兴奋",
@@ -636,12 +637,12 @@ local pack = {
 			"鼓劲",
 			"条件刺激",
 		},
-		},
 	},
 	["faint"] = {
 		Name = "晕",
 		Shortcodes = {
 			"晕",
+		},
 		Keywords = {
 			"头昏",
 			"昏",
@@ -652,12 +653,12 @@ local pack = {
 			"头晕",
 			"眩晕",
 		},
-		},
 	},
 	["fight"] = {
 		Name = "打架",
 		Shortcodes = {
 			"打架",
+		},
 		Keywords = {
 			"打架",
 			"对打",
@@ -668,22 +669,22 @@ local pack = {
 			"动手",
 			"动武",
 		},
-		},
 	},
 	["flu"] = {
 		Name = "流感",
 		Shortcodes = {
 			"流感",
+		},
 		Keywords = {
 			"流行性感冒",
 			"流感",
-		},
 		},
 	},
 	["freeze"] = {
 		Name = "呆",
 		Shortcodes = {
 			"呆",
+		},
 		Keywords = {
 			"发呆",
 			"发愣",
@@ -694,12 +695,12 @@ local pack = {
 			"呆",
 			"愣",
 		},
-		},
 	},
 	["frown"] = {
 		Name = "皱眉",
 		Shortcodes = {
 			"皱眉",
+		},
 		Keywords = {
 			"皱眉",
 			"皱眉头",
@@ -708,12 +709,12 @@ local pack = {
 			"愁眉不展",
 			"皱眉",
 		},
-		},
 	},
 	["greet"] = {
 		Name = "致敬",
 		Shortcodes = {
 			"致敬",
+		},
 		Keywords = {
 			"请安",
 			"问安",
@@ -723,15 +724,14 @@ local pack = {
 			"致意",
 			"致敬",
 		},
-		},
 	},
 	["grimace"] = {
 		Name = "鬼脸",
 		Shortcodes = {
 			"鬼脸",
+		},
 		Keywords = {
 			"鬼脸",
-		},
 		},
 	},
 	["growl"] = {
@@ -744,6 +744,7 @@ local pack = {
 		Name = "开心",
 		Shortcodes = {
 			"开心",
+		},
 		Keywords = {
 			"开玩笑",
 			"调笑",
@@ -754,12 +755,12 @@ local pack = {
 			"谑",
 			"打哈哈",
 		},
-		},
 	},
 	["heart"] = {
 		Name = "心",
 		Shortcodes = {
 			"心",
+		},
 		Keywords = {
 			"内心",
 			"心里",
@@ -770,12 +771,12 @@ local pack = {
 			"心坎",
 			"心房",
 		},
-		},
 	},
 	["horror"] = {
 		Name = "恐惧",
 		Shortcodes = {
 			"恐惧",
+		},
 		Keywords = {
 			"害怕",
 			"惧怕",
@@ -786,12 +787,12 @@ local pack = {
 			"畏惧",
 			"恐惧",
 		},
-		},
 	},
 	["ill"] = {
 		Name = "生病",
 		Shortcodes = {
 			"生病",
+		},
 		Keywords = {
 			"生病",
 			"害病",
@@ -802,30 +803,29 @@ local pack = {
 			"受病",
 			"染病",
 		},
-		},
 	},
 	["innocent"] = {
 		Name = "无辜",
 		Shortcodes = {
 			"无辜",
+		},
 		Keywords = {
 			"无辜",
 			"俎上肉",
 			"被冤枉者",
-		},
 		},
 	},
 	["kongfu"] = {
 		Name = "功夫",
 		Shortcodes = {
 			"功夫",
+		},
 		Keywords = {
 			"功夫",
 			"功力",
 			"功",
 			"素养",
 			"造诣",
-		},
 		},
 	},
 	["love"] = {
@@ -844,6 +844,7 @@ local pack = {
 		Name = "化妆",
 		Shortcodes = {
 			"化妆",
+		},
 		Keywords = {
 			"打扮",
 			"装扮",
@@ -851,7 +852,6 @@ local pack = {
 			"化妆",
 			"美容",
 			"美发",
-		},
 		},
 	},
 	["mario"] = {
@@ -864,6 +864,7 @@ local pack = {
 		Name = "沉思",
 		Shortcodes = {
 			"沉思",
+		},
 		Keywords = {
 			"思考",
 			"思量",
@@ -874,12 +875,12 @@ local pack = {
 			"思维",
 			"思想",
 		},
-		},
 	},
 	["miserable"] = {
 		Name = "可怜",
 		Shortcodes = {
 			"可怜",
+		},
 		Keywords = {
 			"非常",
 			"异常",
@@ -890,24 +891,24 @@ local pack = {
 			"十二分",
 			"万分",
 		},
-		},
 	},
 	["okay"] = {
 		Name = "好",
 		Shortcodes = {
 			"好",
+		},
 		Keywords = {
 			"哼",
 			"吓",
 			"好",
 			"呔",
 		},
-		},
 	},
 	["pretty"] = {
 		Name = "漂亮",
 		Shortcodes = {
 			"漂亮",
+		},
 		Keywords = {
 			"好",
 			"优",
@@ -918,12 +919,12 @@ local pack = {
 			"崭",
 			"美",
 		},
-		},
 	},
 	["puke"] = {
 		Name = "吐",
 		Shortcodes = {
 			"吐",
+		},
 		Keywords = {
 			"吐",
 			"呕吐",
@@ -931,23 +932,23 @@ local pack = {
 			"呕",
 			"吣",
 		},
-		},
 	},
 	["shake"] = {
 		Name = "握手",
 		Shortcodes = {
 			"握手",
+		},
 		Keywords = {
 			"握手",
 			"拉手",
 			"抓手",
-		},
 		},
 	},
 	["shout"] = {
 		Name = "喊",
 		Shortcodes = {
 			"喊",
+		},
 		Keywords = {
 			"喊",
 			"呼",
@@ -957,7 +958,6 @@ local pack = {
 			"喊叫",
 			"叫喊",
 			"呼喊",
-		},
 		},
 	},
 	["silent"] = {
@@ -970,6 +970,7 @@ local pack = {
 		Name = "害羞",
 		Shortcodes = {
 			"害羞",
+		},
 		Keywords = {
 			"害臊",
 			"害羞",
@@ -980,12 +981,12 @@ local pack = {
 			"羞涩",
 			"羞怯",
 		},
-		},
 	},
 	["sleep"] = {
 		Name = "睡觉",
 		Shortcodes = {
 			"睡觉",
+		},
 		Keywords = {
 			"睡觉",
 			"睡",
@@ -996,12 +997,12 @@ local pack = {
 			"就寝",
 			"歇息",
 		},
-		},
 	},
 	["smile"] = {
 		Name = "微笑",
 		Shortcodes = {
 			"微笑",
+		},
 		Keywords = {
 			"微笑",
 			"莞尔",
@@ -1012,12 +1013,12 @@ local pack = {
 			"满面笑容",
 			"面带微笑",
 		},
-		},
 	},
 	["suprise"] = {
 		Name = "吃惊",
 		Shortcodes = {
 			"吃惊",
+		},
 		Keywords = {
 			"受惊",
 			"吃惊",
@@ -1027,12 +1028,12 @@ local pack = {
 			"大吃一惊",
 			"惶惶然",
 		},
-		},
 	},
 	["surrender"] = {
 		Name = "失败",
 		Shortcodes = {
 			"失败",
+		},
 		Keywords = {
 			"失败",
 			"挫败",
@@ -1043,12 +1044,12 @@ local pack = {
 			"跌交",
 			"败",
 		},
-		},
 	},
 	["sweat"] = {
 		Name = "流汗",
 		Shortcodes = {
 			"流汗",
+		},
 		Keywords = {
 			"出汗",
 			"流汗",
@@ -1059,12 +1060,12 @@ local pack = {
 			"挥汗如雨",
 			"满头大汗",
 		},
-		},
 	},
 	["tear"] = {
 		Name = "流泪",
 		Shortcodes = {
 			"流泪",
+		},
 		Keywords = {
 			"流泪",
 			"挥泪",
@@ -1074,12 +1075,12 @@ local pack = {
 			"落泪",
 			"潸然泪下",
 		},
-		},
 	},
 	["tears"] = {
 		Name = "悲剧",
 		Shortcodes = {
 			"悲剧",
+		},
 		Keywords = {
 			"正剧",
 			"悲剧",
@@ -1090,12 +1091,12 @@ local pack = {
 			"传奇",
 			"曲剧",
 		},
-		},
 	},
 	["think"] = {
 		Name = "想",
 		Shortcodes = {
 			"想",
+		},
 		Keywords = {
 			"怀念",
 			"思念",
@@ -1105,7 +1106,6 @@ local pack = {
 			"眷念",
 			"纪念",
 			"叨念",
-		},
 		},
 	},
 	["titter"] = {
@@ -1118,6 +1118,7 @@ local pack = {
 		Name = "猥琐",
 		Shortcodes = {
 			"猥琐",
+		},
 		Keywords = {
 			"庸俗",
 			"粗俗",
@@ -1128,12 +1129,12 @@ local pack = {
 			"俗",
 			"粗鄙",
 		},
-		},
 	},
 	["victory"] = {
 		Name = "胜利",
 		Shortcodes = {
 			"胜利",
+		},
 		Keywords = {
 			"胜利",
 			"取胜",
@@ -1144,31 +1145,30 @@ local pack = {
 			"告捷",
 			"大捷",
 		},
-		},
 	},
 	["volunteer"] = {
 		Name = "雷锋",
 		Shortcodes = {
 			"雷锋",
+		},
 		Keywords = {
 			"李逵",
 			"武松",
 			"李大钊",
 			"雷锋",
 		},
-		},
 	},
 	["wronged"] = {
 		Name = "委屈",
 		Shortcodes = {
 			"委屈",
+		},
 		Keywords = {
 			"抱屈",
 			"抱委屈",
 			"闹情绪",
 			"委屈",
 			"错怪",
-		},
 		},
 	},
 

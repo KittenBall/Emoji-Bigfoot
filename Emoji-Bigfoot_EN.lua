@@ -461,6 +461,7 @@ local pack = {
 		Name = "angel",
 		Shortcodes = {
 			"angel",
+		},
 		Keywords = {
 			"angel",
 			"saint",
@@ -470,19 +471,18 @@ local pack = {
 			"Angel",
 			"Angel Falls",
 		},
-		},
 	},
 	["angry"] = {
 		Name = "angry",
 		Shortcodes = {
 			"angry",
+		},
 		Keywords = {
 			"angry",
 			"furious",
 			"raging",
 			"tempestuous",
 			"wild",
-		},
 		},
 	},
 	["biglaugh"] = {
@@ -495,6 +495,7 @@ local pack = {
 		Name = "clap",
 		Shortcodes = {
 			"clap",
+		},
 		Keywords = {
 			"bang",
 			"clap",
@@ -508,12 +509,12 @@ local pack = {
 			"spat",
 			"acclaim",
 		},
-		},
 	},
 	["cool"] = {
 		Name = "cool",
 		Shortcodes = {
 			"cool",
+		},
 		Keywords = {
 			"cool",
 			"aplomb",
@@ -532,12 +533,12 @@ local pack = {
 			"okay",
 			"hunky-dory",
 		},
-		},
 	},
 	["cry"] = {
 		Name = "cry",
 		Shortcodes = {
 			"cry",
+		},
 		Keywords = {
 			"cry",
 			"outcry",
@@ -560,29 +561,28 @@ local pack = {
 			"call out",
 			"blazon out",
 		},
-		},
 	},
 	["cute"] = {
 		Name = "cute",
 		Shortcodes = {
 			"cute",
+		},
 		Keywords = {
 			"cunning",
 			"cute",
 			"precious",
-		},
 		},
 	},
 	["despise"] = {
 		Name = "despise",
 		Shortcodes = {
 			"despise",
+		},
 		Keywords = {
 			"contemn",
 			"despise",
 			"scorn",
 			"disdain",
-		},
 		},
 	},
 	["dreamsmile"] = {
@@ -595,6 +595,7 @@ local pack = {
 		Name = "embarrass",
 		Shortcodes = {
 			"embarrass",
+		},
 		Keywords = {
 			"embarrass",
 			"abash",
@@ -605,12 +606,12 @@ local pack = {
 			"stymie",
 			"stymy",
 		},
-		},
 	},
 	["evil"] = {
 		Name = "evil",
 		Shortcodes = {
 			"evil",
+		},
 		Keywords = {
 			"evil",
 			"immorality",
@@ -622,12 +623,12 @@ local pack = {
 			"malevolent",
 			"malign",
 		},
-		},
 	},
 	["excited"] = {
 		Name = "excited",
 		Shortcodes = {
 			"excited",
+		},
 		Keywords = {
 			"aroused",
 			"emotional",
@@ -639,12 +640,12 @@ local pack = {
 			"unrestrained",
 			"activated",
 		},
-		},
 	},
 	["faint"] = {
 		Name = "faint",
 		Shortcodes = {
 			"faint",
+		},
 		Keywords = {
 			"faint",
 			"swoon",
@@ -666,12 +667,12 @@ local pack = {
 			"timid",
 			"faint-hearted",
 		},
-		},
 	},
 	["fight"] = {
 		Name = "fight",
 		Shortcodes = {
 			"fight",
+		},
 		Keywords = {
 			"battle",
 			"conflict",
@@ -693,23 +694,23 @@ local pack = {
 			"push",
 			"agitate",
 		},
-		},
 	},
 	["flu"] = {
 		Name = "flu",
 		Shortcodes = {
 			"flu",
+		},
 		Keywords = {
 			"influenza",
 			"flu",
 			"grippe",
-		},
 		},
 	},
 	["freeze"] = {
 		Name = "freeze",
 		Shortcodes = {
 			"freeze",
+		},
 		Keywords = {
 			"freeze",
 			"freezing",
@@ -723,12 +724,12 @@ local pack = {
 			"immobilize",
 			"immobilise",
 		},
-		},
 	},
 	["frown"] = {
 		Name = "frown",
 		Shortcodes = {
 			"frown",
+		},
 		Keywords = {
 			"frown",
 			"scowl",
@@ -736,59 +737,59 @@ local pack = {
 			"lour",
 			"lower",
 		},
-		},
 	},
 	["greet"] = {
 		Name = "greet",
 		Shortcodes = {
 			"greet",
+		},
 		Keywords = {
 			"greet",
 			"recognize",
 			"recognise",
-		},
 		},
 	},
 	["grimace"] = {
 		Name = "grimace",
 		Shortcodes = {
 			"grimace",
+		},
 		Keywords = {
 			"grimace",
 			"face",
 			"make a face",
 			"pull a face",
 		},
-		},
 	},
 	["growl"] = {
 		Name = "growl",
 		Shortcodes = {
 			"growl",
+		},
 		Keywords = {
 			"growl",
 			"growling",
 			"grumble",
 			"rumble",
 		},
-		},
 	},
 	["happy"] = {
 		Name = "happy",
 		Shortcodes = {
 			"happy",
+		},
 		Keywords = {
 			"happy",
 			"felicitous",
 			"glad",
 			"well-chosen",
 		},
-		},
 	},
 	["heart"] = {
 		Name = "heart",
 		Shortcodes = {
 			"heart",
+		},
 		Keywords = {
 			"heart",
 			"bosom",
@@ -823,24 +824,24 @@ local pack = {
 			"warmheartedness",
 			"philia",
 		},
-		},
 	},
 	["horror"] = {
 		Name = "horror",
 		Shortcodes = {
 			"horror",
+		},
 		Keywords = {
 			"horror",
 			"repugnance",
 			"repulsion",
 			"revulsion",
 		},
-		},
 	},
 	["ill"] = {
 		Name = "ill",
 		Shortcodes = {
 			"ill",
+		},
 		Keywords = {
 			"ailment",
 			"complaint",
@@ -851,12 +852,12 @@ local pack = {
 			"badly",
 			"poorly",
 		},
-		},
 	},
 	["innocent"] = {
 		Name = "innocent",
 		Shortcodes = {
 			"innocent",
+		},
 		Keywords = {
 			"innocent",
 			"inexperienced person",
@@ -872,7 +873,6 @@ local pack = {
 			"devoid",
 			"free",
 		},
-		},
 	},
 	["kongfu"] = {
 		Name = "kongfu",
@@ -884,6 +884,7 @@ local pack = {
 		Name = "love",
 		Shortcodes = {
 			"love",
+		},
 		Keywords = {
 			"love",
 			"passion",
@@ -922,12 +923,12 @@ local pack = {
 			"get it on",
 			"bonk",
 		},
-		},
 	},
 	["mail"] = {
 		Name = "mail",
 		Shortcodes = {
 			"mail",
+		},
 		Keywords = {
 			"mail",
 			"mail service",
@@ -942,12 +943,12 @@ local pack = {
 			"get off",
 			"send",
 		},
-		},
 	},
 	["makeup"] = {
 		Name = "makeup",
 		Shortcodes = {
 			"makeup",
+		},
 		Keywords = {
 			"makeup",
 			"make-up",
@@ -955,7 +956,6 @@ local pack = {
 			"constitution",
 			"composition",
 			"physical composition",
-		},
 		},
 	},
 	["mario"] = {
@@ -968,6 +968,7 @@ local pack = {
 		Name = "meditate",
 		Shortcodes = {
 			"meditate",
+		},
 		Keywords = {
 			"chew over",
 			"think over",
@@ -983,12 +984,12 @@ local pack = {
 			"speculate",
 			"study",
 		},
-		},
 	},
 	["miserable"] = {
 		Name = "miserable",
 		Shortcodes = {
 			"miserable",
+		},
 		Keywords = {
 			"miserable",
 			"suffering",
@@ -1011,12 +1012,12 @@ local pack = {
 			"measly",
 			"paltry",
 		},
-		},
 	},
 	["okay"] = {
 		Name = "okay",
 		Shortcodes = {
 			"okay",
+		},
 		Keywords = {
 			"O.K.",
 			"OK",
@@ -1033,12 +1034,12 @@ local pack = {
 			"cool",
 			"alright",
 		},
-		},
 	},
 	["pretty"] = {
 		Name = "pretty",
 		Shortcodes = {
 			"pretty",
+		},
 		Keywords = {
 			"pretty",
 			"reasonably",
@@ -1049,12 +1050,12 @@ local pack = {
 			"middling",
 			"passably",
 		},
-		},
 	},
 	["puke"] = {
 		Name = "puke",
 		Shortcodes = {
 			"puke",
+		},
 		Keywords = {
 			"rotter",
 			"dirty dog",
@@ -1089,12 +1090,12 @@ local pack = {
 			"regurgitate",
 			"throw up",
 		},
-		},
 	},
 	["shake"] = {
 		Name = "shake",
 		Shortcodes = {
 			"shake",
+		},
 		Keywords = {
 			"shingle",
 			"shake",
@@ -1121,12 +1122,12 @@ local pack = {
 			"throw off",
 			"escape from",
 		},
-		},
 	},
 	["shout"] = {
 		Name = "shout",
 		Shortcodes = {
 			"shout",
+		},
 		Keywords = {
 			"cry",
 			"outcry",
@@ -1146,12 +1147,12 @@ local pack = {
 			"clapperclaw",
 			"blackguard",
 		},
-		},
 	},
 	["silent"] = {
 		Name = "silent",
 		Shortcodes = {
 			"silent",
+		},
 		Keywords = {
 			"silent",
 			"soundless",
@@ -1163,24 +1164,24 @@ local pack = {
 			"dumb",
 			"mute",
 		},
-		},
 	},
 	["shy"] = {
 		Name = "shy",
 		Shortcodes = {
 			"shy",
+		},
 		Keywords = {
 			"shy",
 			"diffident",
 			"timid",
 			"unsure",
 		},
-		},
 	},
 	["sleep"] = {
 		Name = "sleep",
 		Shortcodes = {
 			"sleep",
+		},
 		Keywords = {
 			"sleep",
 			"slumber",
@@ -1194,18 +1195,17 @@ local pack = {
 			"log Z's",
 			"catch some Z's",
 		},
-		},
 	},
 	["smile"] = {
 		Name = "smile",
 		Shortcodes = {
 			"smile",
+		},
 		Keywords = {
 			"smile",
 			"smiling",
 			"grin",
 			"grinning",
-		},
 		},
 	},
 	["suprise"] = {
@@ -1218,6 +1218,7 @@ local pack = {
 		Name = "surrender",
 		Shortcodes = {
 			"surrender",
+		},
 		Keywords = {
 			"resignation",
 			"surrender",
@@ -1229,12 +1230,12 @@ local pack = {
 			"cede",
 			"deliver",
 		},
-		},
 	},
 	["sweat"] = {
 		Name = "sweat",
 		Shortcodes = {
 			"sweat",
+		},
 		Keywords = {
 			"perspiration",
 			"sweat",
@@ -1250,12 +1251,12 @@ local pack = {
 			"sudate",
 			"perspire",
 		},
-		},
 	},
 	["tear"] = {
 		Name = "tear",
 		Shortcodes = {
 			"tear",
+		},
 		Keywords = {
 			"tear",
 			"teardrop",
@@ -1278,23 +1279,23 @@ local pack = {
 			"deplumate",
 			"displume",
 		},
-		},
 	},
 	["tears"] = {
 		Name = "tears",
 		Shortcodes = {
 			"tears",
+		},
 		Keywords = {
 			"crying",
 			"weeping",
 			"tears",
-		},
 		},
 	},
 	["think"] = {
 		Name = "think",
 		Shortcodes = {
 			"think",
+		},
 		Keywords = {
 			"think",
 			"believe",
@@ -1316,22 +1317,22 @@ local pack = {
 			"intend",
 			"mean",
 		},
-		},
 	},
 	["titter"] = {
 		Name = "titter",
 		Shortcodes = {
 			"titter",
+		},
 		Keywords = {
 			"titter",
 			"giggle",
-		},
 		},
 	},
 	["ugly"] = {
 		Name = "ugly",
 		Shortcodes = {
 			"ugly",
+		},
 		Keywords = {
 			"ugly",
 			"surly",
@@ -1346,22 +1347,22 @@ local pack = {
 			"horrifying",
 			"horrible",
 		},
-		},
 	},
 	["victory"] = {
 		Name = "victory",
 		Shortcodes = {
 			"victory",
+		},
 		Keywords = {
 			"victory",
 			"triumph",
-		},
 		},
 	},
 	["volunteer"] = {
 		Name = "volunteer",
 		Shortcodes = {
 			"volunteer",
+		},
 		Keywords = {
 			"volunteer",
 			"military volunteer",
@@ -1371,7 +1372,6 @@ local pack = {
 			"Volunteer",
 			"offer",
 			"unpaid",
-		},
 		},
 	},
 	["wronged"] = {

@@ -1,0 +1,8 @@
+package-as: Emoji-Bigfoot
+
+enable-toc-creation: true
+
+ignore:
+  - README.md
+  - .vscode
+  - .gitattributes

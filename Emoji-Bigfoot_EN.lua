@@ -1874,7 +1874,7 @@ local pack = {
 		"intend",
 		"mail service",
 		"snap",
-		KeywordListCount = 492
+		KeywordCount = 492
 	},
 
 	KeywordIndexes = {

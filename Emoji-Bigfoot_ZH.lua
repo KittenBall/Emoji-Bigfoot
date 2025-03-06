@@ -1473,7 +1473,7 @@ local pack = {
 		"潸然泪下",
 		"怀念",
 		"仰天大笑",
-		KeywordListCount = 300
+		KeywordCount = 300
 	},
 
 	KeywordIndexes = {

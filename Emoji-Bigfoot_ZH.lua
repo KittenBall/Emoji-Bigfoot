@@ -3,6 +3,7 @@ local addonName, addon = ...
 if GetLocale() ~= "zhCN" then return end
 
 local pack = {
+	ID = "Bigfoot",
 	Name = "大脚表情",
 	Icon = "Interface\\addOns\\Emoji-Bigfoot\\Icons\\icon.png",
 	IconDir = "Interface\\addOns\\Emoji-Bigfoot\\Icons\\",

@@ -8,110 +8,110 @@ local pack = {
 	Icon = "Interface\\addOns\\Emoji-Bigfoot\\Icons\\icon.png",
 	IconDir = "Interface\\addOns\\Emoji-Bigfoot\\Icons\\",
 	Icons = {
-		-- emoji: angel
-		["angel"] = "angel.png",
-		-- emoji: angry
-		["angry"] = "angry.png",
-		-- emoji: biglaugh
-		["biglaugh"] = "biglaugh.png",
-		-- emoji: clap
-		["clap"] = "clap.png",
-		-- emoji: cool
-		["cool"] = "cool.png",
-		-- emoji: cry
-		["cry"] = "cry.png",
-		-- emoji: cute
-		["cute"] = "cute.png",
-		-- emoji: despise
-		["despise"] = "despise.png",
-		-- emoji: dreamsmile
-		["dreamsmile"] = "dreamsmile.png",
-		-- emoji: embarrass
-		["embarrass"] = "embarrass.png",
-		-- emoji: evil
-		["evil"] = "evil.png",
-		-- emoji: excited
-		["excited"] = "excited.png",
-		-- emoji: faint
-		["faint"] = "faint.png",
-		-- emoji: fight
-		["fight"] = "fight.png",
-		-- emoji: flu
-		["flu"] = "flu.png",
-		-- emoji: freeze
-		["freeze"] = "freeze.png",
-		-- emoji: frown
-		["frown"] = "frown.png",
-		-- emoji: greet
-		["greet"] = "greet.png",
-		-- emoji: grimace
-		["grimace"] = "grimace.png",
-		-- emoji: growl
-		["growl"] = "growl.png",
-		-- emoji: happy
-		["happy"] = "happy.png",
-		-- emoji: heart
-		["heart"] = "heart.png",
-		-- emoji: horror
-		["horror"] = "horror.png",
-		-- emoji: ill
-		["ill"] = "ill.png",
-		-- emoji: innocent
-		["innocent"] = "innocent.png",
-		-- emoji: kongfu
-		["kongfu"] = "kongfu.png",
-		-- emoji: love
-		["love"] = "love.png",
-		-- emoji: mail
-		["mail"] = "mail.png",
-		-- emoji: makeup
-		["makeup"] = "makeup.png",
-		-- emoji: mario
-		["mario"] = "mario.png",
-		-- emoji: meditate
-		["meditate"] = "meditate.png",
-		-- emoji: miserable
-		["miserable"] = "miserable.png",
-		-- emoji: okay
-		["okay"] = "okay.png",
-		-- emoji: pretty
-		["pretty"] = "pretty.png",
-		-- emoji: puke
-		["puke"] = "puke.png",
-		-- emoji: shake
-		["shake"] = "shake.png",
-		-- emoji: shout
-		["shout"] = "shout.png",
-		-- emoji: silent
-		["silent"] = "shuuuu.png",
-		-- emoji: shy
-		["shy"] = "shy.png",
-		-- emoji: sleep
-		["sleep"] = "sleep.png",
-		-- emoji: smile
-		["smile"] = "smile.png",
-		-- emoji: suprise
-		["suprise"] = "suprise.png",
-		-- emoji: surrender
-		["surrender"] = "surrender.png",
-		-- emoji: sweat
-		["sweat"] = "sweat.png",
-		-- emoji: tear
-		["tear"] = "tear.png",
-		-- emoji: tears
-		["tears"] = "tears.png",
-		-- emoji: think
-		["think"] = "think.png",
-		-- emoji: titter
-		["titter"] = "titter.png",
-		-- emoji: ugly
-		["ugly"] = "ugly.png",
-		-- emoji: victory
-		["victory"] = "victory.png",
-		-- emoji: volunteer
-		["volunteer"] = "volunteer.png",
-		-- emoji: wronged
-		["wronged"] = "wronged.png",
+		-- emoji: Bigfoot_angel
+		["Bigfoot_angel"] = "angel.png",
+		-- emoji: Bigfoot_angry
+		["Bigfoot_angry"] = "angry.png",
+		-- emoji: Bigfoot_biglaugh
+		["Bigfoot_biglaugh"] = "biglaugh.png",
+		-- emoji: Bigfoot_clap
+		["Bigfoot_clap"] = "clap.png",
+		-- emoji: Bigfoot_cool
+		["Bigfoot_cool"] = "cool.png",
+		-- emoji: Bigfoot_cry
+		["Bigfoot_cry"] = "cry.png",
+		-- emoji: Bigfoot_cute
+		["Bigfoot_cute"] = "cute.png",
+		-- emoji: Bigfoot_despise
+		["Bigfoot_despise"] = "despise.png",
+		-- emoji: Bigfoot_dreamsmile
+		["Bigfoot_dreamsmile"] = "dreamsmile.png",
+		-- emoji: Bigfoot_embarrass
+		["Bigfoot_embarrass"] = "embarrass.png",
+		-- emoji: Bigfoot_evil
+		["Bigfoot_evil"] = "evil.png",
+		-- emoji: Bigfoot_excited
+		["Bigfoot_excited"] = "excited.png",
+		-- emoji: Bigfoot_faint
+		["Bigfoot_faint"] = "faint.png",
+		-- emoji: Bigfoot_fight
+		["Bigfoot_fight"] = "fight.png",
+		-- emoji: Bigfoot_flu
+		["Bigfoot_flu"] = "flu.png",
+		-- emoji: Bigfoot_freeze
+		["Bigfoot_freeze"] = "freeze.png",
+		-- emoji: Bigfoot_frown
+		["Bigfoot_frown"] = "frown.png",
+		-- emoji: Bigfoot_greet
+		["Bigfoot_greet"] = "greet.png",
+		-- emoji: Bigfoot_grimace
+		["Bigfoot_grimace"] = "grimace.png",
+		-- emoji: Bigfoot_growl
+		["Bigfoot_growl"] = "growl.png",
+		-- emoji: Bigfoot_happy
+		["Bigfoot_happy"] = "happy.png",
+		-- emoji: Bigfoot_heart
+		["Bigfoot_heart"] = "heart.png",
+		-- emoji: Bigfoot_horror
+		["Bigfoot_horror"] = "horror.png",
+		-- emoji: Bigfoot_ill
+		["Bigfoot_ill"] = "ill.png",
+		-- emoji: Bigfoot_innocent
+		["Bigfoot_innocent"] = "innocent.png",
+		-- emoji: Bigfoot_kongfu
+		["Bigfoot_kongfu"] = "kongfu.png",
+		-- emoji: Bigfoot_love
+		["Bigfoot_love"] = "love.png",
+		-- emoji: Bigfoot_mail
+		["Bigfoot_mail"] = "mail.png",
+		-- emoji: Bigfoot_makeup
+		["Bigfoot_makeup"] = "makeup.png",
+		-- emoji: Bigfoot_mario
+		["Bigfoot_mario"] = "mario.png",
+		-- emoji: Bigfoot_meditate
+		["Bigfoot_meditate"] = "meditate.png",
+		-- emoji: Bigfoot_miserable
+		["Bigfoot_miserable"] = "miserable.png",
+		-- emoji: Bigfoot_okay
+		["Bigfoot_okay"] = "okay.png",
+		-- emoji: Bigfoot_pretty
+		["Bigfoot_pretty"] = "pretty.png",
+		-- emoji: Bigfoot_puke
+		["Bigfoot_puke"] = "puke.png",
+		-- emoji: Bigfoot_shake
+		["Bigfoot_shake"] = "shake.png",
+		-- emoji: Bigfoot_shout
+		["Bigfoot_shout"] = "shout.png",
+		-- emoji: Bigfoot_silent
+		["Bigfoot_silent"] = "shuuuu.png",
+		-- emoji: Bigfoot_shy
+		["Bigfoot_shy"] = "shy.png",
+		-- emoji: Bigfoot_sleep
+		["Bigfoot_sleep"] = "sleep.png",
+		-- emoji: Bigfoot_smile
+		["Bigfoot_smile"] = "smile.png",
+		-- emoji: Bigfoot_suprise
+		["Bigfoot_suprise"] = "suprise.png",
+		-- emoji: Bigfoot_surrender
+		["Bigfoot_surrender"] = "surrender.png",
+		-- emoji: Bigfoot_sweat
+		["Bigfoot_sweat"] = "sweat.png",
+		-- emoji: Bigfoot_tear
+		["Bigfoot_tear"] = "tear.png",
+		-- emoji: Bigfoot_tears
+		["Bigfoot_tears"] = "tears.png",
+		-- emoji: Bigfoot_think
+		["Bigfoot_think"] = "think.png",
+		-- emoji: Bigfoot_titter
+		["Bigfoot_titter"] = "titter.png",
+		-- emoji: Bigfoot_ugly
+		["Bigfoot_ugly"] = "ugly.png",
+		-- emoji: Bigfoot_victory
+		["Bigfoot_victory"] = "victory.png",
+		-- emoji: Bigfoot_volunteer
+		["Bigfoot_volunteer"] = "volunteer.png",
+		-- emoji: Bigfoot_wronged
+		["Bigfoot_wronged"] = "wronged.png",
 	},
 
 	GroupInfo = {
@@ -122,58 +122,58 @@ local pack = {
 			EmojiCount = 52,
 			{
 				EmojiCount = 52,
-				"angel",
-				"angry",
-				"biglaugh",
-				"clap",
-				"cool",
-				"cry",
-				"cute",
-				"despise",
-				"dreamsmile",
-				"embarrass",
-				"evil",
-				"excited",
-				"faint",
-				"fight",
-				"flu",
-				"freeze",
-				"frown",
-				"greet",
-				"grimace",
-				"growl",
-				"happy",
-				"heart",
-				"horror",
-				"ill",
-				"innocent",
-				"kongfu",
-				"love",
-				"mail",
-				"makeup",
-				"mario",
-				"meditate",
-				"miserable",
-				"okay",
-				"pretty",
-				"puke",
-				"shake",
-				"shout",
-				"silent",
-				"shy",
-				"sleep",
-				"smile",
-				"suprise",
-				"surrender",
-				"sweat",
-				"tear",
-				"tears",
-				"think",
-				"titter",
-				"ugly",
-				"victory",
-				"volunteer",
-				"wronged",
+				"Bigfoot_angel",
+				"Bigfoot_angry",
+				"Bigfoot_biglaugh",
+				"Bigfoot_clap",
+				"Bigfoot_cool",
+				"Bigfoot_cry",
+				"Bigfoot_cute",
+				"Bigfoot_despise",
+				"Bigfoot_dreamsmile",
+				"Bigfoot_embarrass",
+				"Bigfoot_evil",
+				"Bigfoot_excited",
+				"Bigfoot_faint",
+				"Bigfoot_fight",
+				"Bigfoot_flu",
+				"Bigfoot_freeze",
+				"Bigfoot_frown",
+				"Bigfoot_greet",
+				"Bigfoot_grimace",
+				"Bigfoot_growl",
+				"Bigfoot_happy",
+				"Bigfoot_heart",
+				"Bigfoot_horror",
+				"Bigfoot_ill",
+				"Bigfoot_innocent",
+				"Bigfoot_kongfu",
+				"Bigfoot_love",
+				"Bigfoot_mail",
+				"Bigfoot_makeup",
+				"Bigfoot_mario",
+				"Bigfoot_meditate",
+				"Bigfoot_miserable",
+				"Bigfoot_okay",
+				"Bigfoot_pretty",
+				"Bigfoot_puke",
+				"Bigfoot_shake",
+				"Bigfoot_shout",
+				"Bigfoot_silent",
+				"Bigfoot_shy",
+				"Bigfoot_sleep",
+				"Bigfoot_smile",
+				"Bigfoot_suprise",
+				"Bigfoot_surrender",
+				"Bigfoot_sweat",
+				"Bigfoot_tear",
+				"Bigfoot_tears",
+				"Bigfoot_think",
+				"Bigfoot_titter",
+				"Bigfoot_ugly",
+				"Bigfoot_victory",
+				"Bigfoot_volunteer",
+				"Bigfoot_wronged",
 			},
 
 		},
@@ -183,220 +183,220 @@ local pack = {
 	-- ========================  key to shortcode =========================
 	-- ====================================================================
 	KeyToShortcode = {
-		-- emoji:angel
-		["angel"] = "天使",
-		-- emoji:angry
-		["angry"] = "生气",
-		-- emoji:biglaugh
-		["biglaugh"] = "大笑",
-		-- emoji:clap
-		["clap"] = "鼓掌",
-		-- emoji:cool
-		["cool"] = "酷",
-		-- emoji:cry
-		["cry"] = "哭",
-		-- emoji:cute
-		["cute"] = "可爱",
-		-- emoji:despise
-		["despise"] = "鄙视",
-		-- emoji:dreamsmile
-		["dreamsmile"] = "美梦",
-		-- emoji:embarrass
-		["embarrass"] = "尴尬",
-		-- emoji:evil
-		["evil"] = "邪恶",
-		-- emoji:excited
-		["excited"] = "兴奋",
-		-- emoji:faint
-		["faint"] = "晕",
-		-- emoji:fight
-		["fight"] = "打架",
-		-- emoji:flu
-		["flu"] = "流感",
-		-- emoji:freeze
-		["freeze"] = "呆",
-		-- emoji:frown
-		["frown"] = "皱眉",
-		-- emoji:greet
-		["greet"] = "致敬",
-		-- emoji:grimace
-		["grimace"] = "鬼脸",
-		-- emoji:growl
-		["growl"] = "龇牙",
-		-- emoji:happy
-		["happy"] = "开心",
-		-- emoji:heart
-		["heart"] = "心",
-		-- emoji:horror
-		["horror"] = "恐惧",
-		-- emoji:ill
-		["ill"] = "生病",
-		-- emoji:innocent
-		["innocent"] = "无辜",
-		-- emoji:kongfu
-		["kongfu"] = "功夫",
-		-- emoji:love
-		["love"] = "花痴",
-		-- emoji:mail
-		["mail"] = "邮件",
-		-- emoji:makeup
-		["makeup"] = "化妆",
-		-- emoji:mario
-		["mario"] = "马里奥",
-		-- emoji:meditate
-		["meditate"] = "沉思",
-		-- emoji:miserable
-		["miserable"] = "可怜",
-		-- emoji:okay
-		["okay"] = "好",
-		-- emoji:pretty
-		["pretty"] = "漂亮",
-		-- emoji:puke
-		["puke"] = "吐",
-		-- emoji:shake
-		["shake"] = "握手",
-		-- emoji:shout
-		["shout"] = "喊",
-		-- emoji:silent
-		["silent"] = "闭嘴",
-		-- emoji:shy
-		["shy"] = "害羞",
-		-- emoji:sleep
-		["sleep"] = "睡觉",
-		-- emoji:smile
-		["smile"] = "微笑",
-		-- emoji:suprise
-		["suprise"] = "吃惊",
-		-- emoji:surrender
-		["surrender"] = "失败",
-		-- emoji:sweat
-		["sweat"] = "流汗",
-		-- emoji:tear
-		["tear"] = "流泪",
-		-- emoji:tears
-		["tears"] = "悲剧",
-		-- emoji:think
-		["think"] = "想",
-		-- emoji:titter
-		["titter"] = "偷笑",
-		-- emoji:ugly
-		["ugly"] = "猥琐",
-		-- emoji:victory
-		["victory"] = "胜利",
-		-- emoji:volunteer
-		["volunteer"] = "雷锋",
-		-- emoji:wronged
-		["wronged"] = "委屈",
+		-- emoji:Bigfoot_angel
+		["Bigfoot_angel"] = "天使",
+		-- emoji:Bigfoot_angry
+		["Bigfoot_angry"] = "生气",
+		-- emoji:Bigfoot_biglaugh
+		["Bigfoot_biglaugh"] = "大笑",
+		-- emoji:Bigfoot_clap
+		["Bigfoot_clap"] = "鼓掌",
+		-- emoji:Bigfoot_cool
+		["Bigfoot_cool"] = "酷",
+		-- emoji:Bigfoot_cry
+		["Bigfoot_cry"] = "哭",
+		-- emoji:Bigfoot_cute
+		["Bigfoot_cute"] = "可爱",
+		-- emoji:Bigfoot_despise
+		["Bigfoot_despise"] = "鄙视",
+		-- emoji:Bigfoot_dreamsmile
+		["Bigfoot_dreamsmile"] = "美梦",
+		-- emoji:Bigfoot_embarrass
+		["Bigfoot_embarrass"] = "尴尬",
+		-- emoji:Bigfoot_evil
+		["Bigfoot_evil"] = "邪恶",
+		-- emoji:Bigfoot_excited
+		["Bigfoot_excited"] = "兴奋",
+		-- emoji:Bigfoot_faint
+		["Bigfoot_faint"] = "晕",
+		-- emoji:Bigfoot_fight
+		["Bigfoot_fight"] = "打架",
+		-- emoji:Bigfoot_flu
+		["Bigfoot_flu"] = "流感",
+		-- emoji:Bigfoot_freeze
+		["Bigfoot_freeze"] = "呆",
+		-- emoji:Bigfoot_frown
+		["Bigfoot_frown"] = "皱眉",
+		-- emoji:Bigfoot_greet
+		["Bigfoot_greet"] = "致敬",
+		-- emoji:Bigfoot_grimace
+		["Bigfoot_grimace"] = "鬼脸",
+		-- emoji:Bigfoot_growl
+		["Bigfoot_growl"] = "龇牙",
+		-- emoji:Bigfoot_happy
+		["Bigfoot_happy"] = "开心",
+		-- emoji:Bigfoot_heart
+		["Bigfoot_heart"] = "心",
+		-- emoji:Bigfoot_horror
+		["Bigfoot_horror"] = "恐惧",
+		-- emoji:Bigfoot_ill
+		["Bigfoot_ill"] = "生病",
+		-- emoji:Bigfoot_innocent
+		["Bigfoot_innocent"] = "无辜",
+		-- emoji:Bigfoot_kongfu
+		["Bigfoot_kongfu"] = "功夫",
+		-- emoji:Bigfoot_love
+		["Bigfoot_love"] = "花痴",
+		-- emoji:Bigfoot_mail
+		["Bigfoot_mail"] = "邮件",
+		-- emoji:Bigfoot_makeup
+		["Bigfoot_makeup"] = "化妆",
+		-- emoji:Bigfoot_mario
+		["Bigfoot_mario"] = "马里奥",
+		-- emoji:Bigfoot_meditate
+		["Bigfoot_meditate"] = "沉思",
+		-- emoji:Bigfoot_miserable
+		["Bigfoot_miserable"] = "可怜",
+		-- emoji:Bigfoot_okay
+		["Bigfoot_okay"] = "好",
+		-- emoji:Bigfoot_pretty
+		["Bigfoot_pretty"] = "漂亮",
+		-- emoji:Bigfoot_puke
+		["Bigfoot_puke"] = "吐",
+		-- emoji:Bigfoot_shake
+		["Bigfoot_shake"] = "握手",
+		-- emoji:Bigfoot_shout
+		["Bigfoot_shout"] = "喊",
+		-- emoji:Bigfoot_silent
+		["Bigfoot_silent"] = "闭嘴",
+		-- emoji:Bigfoot_shy
+		["Bigfoot_shy"] = "害羞",
+		-- emoji:Bigfoot_sleep
+		["Bigfoot_sleep"] = "睡觉",
+		-- emoji:Bigfoot_smile
+		["Bigfoot_smile"] = "微笑",
+		-- emoji:Bigfoot_suprise
+		["Bigfoot_suprise"] = "吃惊",
+		-- emoji:Bigfoot_surrender
+		["Bigfoot_surrender"] = "失败",
+		-- emoji:Bigfoot_sweat
+		["Bigfoot_sweat"] = "流汗",
+		-- emoji:Bigfoot_tear
+		["Bigfoot_tear"] = "流泪",
+		-- emoji:Bigfoot_tears
+		["Bigfoot_tears"] = "悲剧",
+		-- emoji:Bigfoot_think
+		["Bigfoot_think"] = "想",
+		-- emoji:Bigfoot_titter
+		["Bigfoot_titter"] = "偷笑",
+		-- emoji:Bigfoot_ugly
+		["Bigfoot_ugly"] = "猥琐",
+		-- emoji:Bigfoot_victory
+		["Bigfoot_victory"] = "胜利",
+		-- emoji:Bigfoot_volunteer
+		["Bigfoot_volunteer"] = "雷锋",
+		-- emoji:Bigfoot_wronged
+		["Bigfoot_wronged"] = "委屈",
 	},
 
 	-- ====================================================================
 	-- ======================= short code(s) to key =======================
 	-- ====================================================================
 	ShortcodesToKey = {
-		-- emoji:angel
-		["天使"] = "angel",
-		-- emoji:angry
-		["生气"] = "angry",
-		-- emoji:biglaugh
-		["大笑"] = "biglaugh",
-		-- emoji:clap
-		["鼓掌"] = "clap",
-		-- emoji:cool
-		["酷"] = "cool",
-		-- emoji:cry
-		["哭"] = "cry",
-		-- emoji:cute
-		["可爱"] = "cute",
-		-- emoji:despise
-		["鄙视"] = "despise",
-		-- emoji:dreamsmile
-		["美梦"] = "dreamsmile",
-		-- emoji:embarrass
-		["尴尬"] = "embarrass",
-		-- emoji:evil
-		["邪恶"] = "evil",
-		-- emoji:excited
-		["兴奋"] = "excited",
-		-- emoji:faint
-		["晕"] = "faint",
-		-- emoji:fight
-		["打架"] = "fight",
-		-- emoji:flu
-		["流感"] = "flu",
-		-- emoji:freeze
-		["呆"] = "freeze",
-		-- emoji:frown
-		["皱眉"] = "frown",
-		-- emoji:greet
-		["致敬"] = "greet",
-		-- emoji:grimace
-		["鬼脸"] = "grimace",
-		-- emoji:growl
-		["龇牙"] = "growl",
-		-- emoji:happy
-		["开心"] = "happy",
-		-- emoji:heart
-		["心"] = "heart",
-		-- emoji:horror
-		["恐惧"] = "horror",
-		-- emoji:ill
-		["生病"] = "ill",
-		-- emoji:innocent
-		["无辜"] = "innocent",
-		-- emoji:kongfu
-		["功夫"] = "kongfu",
-		-- emoji:love
-		["花痴"] = "love",
-		-- emoji:mail
-		["邮件"] = "mail",
-		-- emoji:makeup
-		["化妆"] = "makeup",
-		-- emoji:mario
-		["马里奥"] = "mario",
-		-- emoji:meditate
-		["沉思"] = "meditate",
-		-- emoji:miserable
-		["可怜"] = "miserable",
-		-- emoji:okay
-		["好"] = "okay",
-		-- emoji:pretty
-		["漂亮"] = "pretty",
-		-- emoji:puke
-		["吐"] = "puke",
-		-- emoji:shake
-		["握手"] = "shake",
-		-- emoji:shout
-		["喊"] = "shout",
-		-- emoji:silent
-		["闭嘴"] = "silent",
-		-- emoji:shy
-		["害羞"] = "shy",
-		-- emoji:sleep
-		["睡觉"] = "sleep",
-		-- emoji:smile
-		["微笑"] = "smile",
-		-- emoji:suprise
-		["吃惊"] = "suprise",
-		-- emoji:surrender
-		["失败"] = "surrender",
-		-- emoji:sweat
-		["流汗"] = "sweat",
-		-- emoji:tear
-		["流泪"] = "tear",
-		-- emoji:tears
-		["悲剧"] = "tears",
-		-- emoji:think
-		["想"] = "think",
-		-- emoji:titter
-		["偷笑"] = "titter",
-		-- emoji:ugly
-		["猥琐"] = "ugly",
-		-- emoji:victory
-		["胜利"] = "victory",
-		-- emoji:volunteer
-		["雷锋"] = "volunteer",
-		-- emoji:wronged
-		["委屈"] = "wronged",
+		-- emoji:Bigfoot_angel
+		["天使"] = "Bigfoot_angel",
+		-- emoji:Bigfoot_angry
+		["生气"] = "Bigfoot_angry",
+		-- emoji:Bigfoot_biglaugh
+		["大笑"] = "Bigfoot_biglaugh",
+		-- emoji:Bigfoot_clap
+		["鼓掌"] = "Bigfoot_clap",
+		-- emoji:Bigfoot_cool
+		["酷"] = "Bigfoot_cool",
+		-- emoji:Bigfoot_cry
+		["哭"] = "Bigfoot_cry",
+		-- emoji:Bigfoot_cute
+		["可爱"] = "Bigfoot_cute",
+		-- emoji:Bigfoot_despise
+		["鄙视"] = "Bigfoot_despise",
+		-- emoji:Bigfoot_dreamsmile
+		["美梦"] = "Bigfoot_dreamsmile",
+		-- emoji:Bigfoot_embarrass
+		["尴尬"] = "Bigfoot_embarrass",
+		-- emoji:Bigfoot_evil
+		["邪恶"] = "Bigfoot_evil",
+		-- emoji:Bigfoot_excited
+		["兴奋"] = "Bigfoot_excited",
+		-- emoji:Bigfoot_faint
+		["晕"] = "Bigfoot_faint",
+		-- emoji:Bigfoot_fight
+		["打架"] = "Bigfoot_fight",
+		-- emoji:Bigfoot_flu
+		["流感"] = "Bigfoot_flu",
+		-- emoji:Bigfoot_freeze
+		["呆"] = "Bigfoot_freeze",
+		-- emoji:Bigfoot_frown
+		["皱眉"] = "Bigfoot_frown",
+		-- emoji:Bigfoot_greet
+		["致敬"] = "Bigfoot_greet",
+		-- emoji:Bigfoot_grimace
+		["鬼脸"] = "Bigfoot_grimace",
+		-- emoji:Bigfoot_growl
+		["龇牙"] = "Bigfoot_growl",
+		-- emoji:Bigfoot_happy
+		["开心"] = "Bigfoot_happy",
+		-- emoji:Bigfoot_heart
+		["心"] = "Bigfoot_heart",
+		-- emoji:Bigfoot_horror
+		["恐惧"] = "Bigfoot_horror",
+		-- emoji:Bigfoot_ill
+		["生病"] = "Bigfoot_ill",
+		-- emoji:Bigfoot_innocent
+		["无辜"] = "Bigfoot_innocent",
+		-- emoji:Bigfoot_kongfu
+		["功夫"] = "Bigfoot_kongfu",
+		-- emoji:Bigfoot_love
+		["花痴"] = "Bigfoot_love",
+		-- emoji:Bigfoot_mail
+		["邮件"] = "Bigfoot_mail",
+		-- emoji:Bigfoot_makeup
+		["化妆"] = "Bigfoot_makeup",
+		-- emoji:Bigfoot_mario
+		["马里奥"] = "Bigfoot_mario",
+		-- emoji:Bigfoot_meditate
+		["沉思"] = "Bigfoot_meditate",
+		-- emoji:Bigfoot_miserable
+		["可怜"] = "Bigfoot_miserable",
+		-- emoji:Bigfoot_okay
+		["好"] = "Bigfoot_okay",
+		-- emoji:Bigfoot_pretty
+		["漂亮"] = "Bigfoot_pretty",
+		-- emoji:Bigfoot_puke
+		["吐"] = "Bigfoot_puke",
+		-- emoji:Bigfoot_shake
+		["握手"] = "Bigfoot_shake",
+		-- emoji:Bigfoot_shout
+		["喊"] = "Bigfoot_shout",
+		-- emoji:Bigfoot_silent
+		["闭嘴"] = "Bigfoot_silent",
+		-- emoji:Bigfoot_shy
+		["害羞"] = "Bigfoot_shy",
+		-- emoji:Bigfoot_sleep
+		["睡觉"] = "Bigfoot_sleep",
+		-- emoji:Bigfoot_smile
+		["微笑"] = "Bigfoot_smile",
+		-- emoji:Bigfoot_suprise
+		["吃惊"] = "Bigfoot_suprise",
+		-- emoji:Bigfoot_surrender
+		["失败"] = "Bigfoot_surrender",
+		-- emoji:Bigfoot_sweat
+		["流汗"] = "Bigfoot_sweat",
+		-- emoji:Bigfoot_tear
+		["流泪"] = "Bigfoot_tear",
+		-- emoji:Bigfoot_tears
+		["悲剧"] = "Bigfoot_tears",
+		-- emoji:Bigfoot_think
+		["想"] = "Bigfoot_think",
+		-- emoji:Bigfoot_titter
+		["偷笑"] = "Bigfoot_titter",
+		-- emoji:Bigfoot_ugly
+		["猥琐"] = "Bigfoot_ugly",
+		-- emoji:Bigfoot_victory
+		["胜利"] = "Bigfoot_victory",
+		-- emoji:Bigfoot_volunteer
+		["雷锋"] = "Bigfoot_volunteer",
+		-- emoji:Bigfoot_wronged
+		["委屈"] = "Bigfoot_wronged",
 	},
 
 	-- ====================================================================
@@ -458,7 +458,7 @@ local pack = {
 		ShortcodeCount = 52,
 	},
 
-	["angel"] = {
+	["Bigfoot_angel"] = {
 		Name = "天使",
 		Shortcodes = {
 			"天使",
@@ -468,7 +468,7 @@ local pack = {
 			"安琪儿",
 		},
 	},
-	["angry"] = {
+	["Bigfoot_angry"] = {
 		Name = "生气",
 		Shortcodes = {
 			"生气",
@@ -484,7 +484,7 @@ local pack = {
 			"挂火",
 		},
 	},
-	["biglaugh"] = {
+	["Bigfoot_biglaugh"] = {
 		Name = "大笑",
 		Shortcodes = {
 			"大笑",
@@ -500,7 +500,7 @@ local pack = {
 			"仰天大笑",
 		},
 	},
-	["clap"] = {
+	["Bigfoot_clap"] = {
 		Name = "鼓掌",
 		Shortcodes = {
 			"鼓掌",
@@ -516,7 +516,7 @@ local pack = {
 			"缶掌",
 		},
 	},
-	["cool"] = {
+	["Bigfoot_cool"] = {
 		Name = "酷",
 		Shortcodes = {
 			"酷",
@@ -532,7 +532,7 @@ local pack = {
 			"万分",
 		},
 	},
-	["cry"] = {
+	["Bigfoot_cry"] = {
 		Name = "哭",
 		Shortcodes = {
 			"哭",
@@ -546,7 +546,7 @@ local pack = {
 			"哭丧着脸",
 		},
 	},
-	["cute"] = {
+	["Bigfoot_cute"] = {
 		Name = "可爱",
 		Shortcodes = {
 			"可爱",
@@ -562,7 +562,7 @@ local pack = {
 			"可人",
 		},
 	},
-	["despise"] = {
+	["Bigfoot_despise"] = {
 		Name = "鄙视",
 		Shortcodes = {
 			"鄙视",
@@ -578,7 +578,7 @@ local pack = {
 			"鄙薄",
 		},
 	},
-	["dreamsmile"] = {
+	["Bigfoot_dreamsmile"] = {
 		Name = "美梦",
 		Shortcodes = {
 			"美梦",
@@ -594,7 +594,7 @@ local pack = {
 			"春梦",
 		},
 	},
-	["embarrass"] = {
+	["Bigfoot_embarrass"] = {
 		Name = "尴尬",
 		Shortcodes = {
 			"尴尬",
@@ -610,7 +610,7 @@ local pack = {
 			"窘",
 		},
 	},
-	["evil"] = {
+	["Bigfoot_evil"] = {
 		Name = "邪恶",
 		Shortcodes = {
 			"邪恶",
@@ -626,7 +626,7 @@ local pack = {
 			"邪恶",
 		},
 	},
-	["excited"] = {
+	["Bigfoot_excited"] = {
 		Name = "兴奋",
 		Shortcodes = {
 			"兴奋",
@@ -639,7 +639,7 @@ local pack = {
 			"条件刺激",
 		},
 	},
-	["faint"] = {
+	["Bigfoot_faint"] = {
 		Name = "晕",
 		Shortcodes = {
 			"晕",
@@ -655,7 +655,7 @@ local pack = {
 			"眩晕",
 		},
 	},
-	["fight"] = {
+	["Bigfoot_fight"] = {
 		Name = "打架",
 		Shortcodes = {
 			"打架",
@@ -671,7 +671,7 @@ local pack = {
 			"动武",
 		},
 	},
-	["flu"] = {
+	["Bigfoot_flu"] = {
 		Name = "流感",
 		Shortcodes = {
 			"流感",
@@ -681,7 +681,7 @@ local pack = {
 			"流感",
 		},
 	},
-	["freeze"] = {
+	["Bigfoot_freeze"] = {
 		Name = "呆",
 		Shortcodes = {
 			"呆",
@@ -697,7 +697,7 @@ local pack = {
 			"愣",
 		},
 	},
-	["frown"] = {
+	["Bigfoot_frown"] = {
 		Name = "皱眉",
 		Shortcodes = {
 			"皱眉",
@@ -708,10 +708,9 @@ local pack = {
 			"蹙眉",
 			"颦",
 			"愁眉不展",
-			"皱眉",
 		},
 	},
-	["greet"] = {
+	["Bigfoot_greet"] = {
 		Name = "致敬",
 		Shortcodes = {
 			"致敬",
@@ -726,7 +725,7 @@ local pack = {
 			"致敬",
 		},
 	},
-	["grimace"] = {
+	["Bigfoot_grimace"] = {
 		Name = "鬼脸",
 		Shortcodes = {
 			"鬼脸",
@@ -735,13 +734,13 @@ local pack = {
 			"鬼脸",
 		},
 	},
-	["growl"] = {
+	["Bigfoot_growl"] = {
 		Name = "龇牙",
 		Shortcodes = {
 			"龇牙",
 		},
 	},
-	["happy"] = {
+	["Bigfoot_happy"] = {
 		Name = "开心",
 		Shortcodes = {
 			"开心",
@@ -757,7 +756,7 @@ local pack = {
 			"打哈哈",
 		},
 	},
-	["heart"] = {
+	["Bigfoot_heart"] = {
 		Name = "心",
 		Shortcodes = {
 			"心",
@@ -773,7 +772,7 @@ local pack = {
 			"心房",
 		},
 	},
-	["horror"] = {
+	["Bigfoot_horror"] = {
 		Name = "恐惧",
 		Shortcodes = {
 			"恐惧",
@@ -789,7 +788,7 @@ local pack = {
 			"恐惧",
 		},
 	},
-	["ill"] = {
+	["Bigfoot_ill"] = {
 		Name = "生病",
 		Shortcodes = {
 			"生病",
@@ -805,7 +804,7 @@ local pack = {
 			"染病",
 		},
 	},
-	["innocent"] = {
+	["Bigfoot_innocent"] = {
 		Name = "无辜",
 		Shortcodes = {
 			"无辜",
@@ -816,7 +815,7 @@ local pack = {
 			"被冤枉者",
 		},
 	},
-	["kongfu"] = {
+	["Bigfoot_kongfu"] = {
 		Name = "功夫",
 		Shortcodes = {
 			"功夫",
@@ -829,19 +828,19 @@ local pack = {
 			"造诣",
 		},
 	},
-	["love"] = {
+	["Bigfoot_love"] = {
 		Name = "花痴",
 		Shortcodes = {
 			"花痴",
 		},
 	},
-	["mail"] = {
+	["Bigfoot_mail"] = {
 		Name = "邮件",
 		Shortcodes = {
 			"邮件",
 		},
 	},
-	["makeup"] = {
+	["Bigfoot_makeup"] = {
 		Name = "化妆",
 		Shortcodes = {
 			"化妆",
@@ -855,13 +854,13 @@ local pack = {
 			"美发",
 		},
 	},
-	["mario"] = {
+	["Bigfoot_mario"] = {
 		Name = "马里奥",
 		Shortcodes = {
 			"马里奥",
 		},
 	},
-	["meditate"] = {
+	["Bigfoot_meditate"] = {
 		Name = "沉思",
 		Shortcodes = {
 			"沉思",
@@ -877,7 +876,7 @@ local pack = {
 			"思想",
 		},
 	},
-	["miserable"] = {
+	["Bigfoot_miserable"] = {
 		Name = "可怜",
 		Shortcodes = {
 			"可怜",
@@ -893,7 +892,7 @@ local pack = {
 			"万分",
 		},
 	},
-	["okay"] = {
+	["Bigfoot_okay"] = {
 		Name = "好",
 		Shortcodes = {
 			"好",
@@ -905,7 +904,7 @@ local pack = {
 			"呔",
 		},
 	},
-	["pretty"] = {
+	["Bigfoot_pretty"] = {
 		Name = "漂亮",
 		Shortcodes = {
 			"漂亮",
@@ -921,7 +920,7 @@ local pack = {
 			"美",
 		},
 	},
-	["puke"] = {
+	["Bigfoot_puke"] = {
 		Name = "吐",
 		Shortcodes = {
 			"吐",
@@ -934,7 +933,7 @@ local pack = {
 			"吣",
 		},
 	},
-	["shake"] = {
+	["Bigfoot_shake"] = {
 		Name = "握手",
 		Shortcodes = {
 			"握手",
@@ -945,7 +944,7 @@ local pack = {
 			"抓手",
 		},
 	},
-	["shout"] = {
+	["Bigfoot_shout"] = {
 		Name = "喊",
 		Shortcodes = {
 			"喊",
@@ -961,13 +960,13 @@ local pack = {
 			"呼喊",
 		},
 	},
-	["silent"] = {
+	["Bigfoot_silent"] = {
 		Name = "闭嘴",
 		Shortcodes = {
 			"闭嘴",
 		},
 	},
-	["shy"] = {
+	["Bigfoot_shy"] = {
 		Name = "害羞",
 		Shortcodes = {
 			"害羞",
@@ -983,7 +982,7 @@ local pack = {
 			"羞怯",
 		},
 	},
-	["sleep"] = {
+	["Bigfoot_sleep"] = {
 		Name = "睡觉",
 		Shortcodes = {
 			"睡觉",
@@ -999,7 +998,7 @@ local pack = {
 			"歇息",
 		},
 	},
-	["smile"] = {
+	["Bigfoot_smile"] = {
 		Name = "微笑",
 		Shortcodes = {
 			"微笑",
@@ -1015,7 +1014,7 @@ local pack = {
 			"面带微笑",
 		},
 	},
-	["suprise"] = {
+	["Bigfoot_suprise"] = {
 		Name = "吃惊",
 		Shortcodes = {
 			"吃惊",
@@ -1030,7 +1029,7 @@ local pack = {
 			"惶惶然",
 		},
 	},
-	["surrender"] = {
+	["Bigfoot_surrender"] = {
 		Name = "失败",
 		Shortcodes = {
 			"失败",
@@ -1046,7 +1045,7 @@ local pack = {
 			"败",
 		},
 	},
-	["sweat"] = {
+	["Bigfoot_sweat"] = {
 		Name = "流汗",
 		Shortcodes = {
 			"流汗",
@@ -1062,7 +1061,7 @@ local pack = {
 			"满头大汗",
 		},
 	},
-	["tear"] = {
+	["Bigfoot_tear"] = {
 		Name = "流泪",
 		Shortcodes = {
 			"流泪",
@@ -1077,7 +1076,7 @@ local pack = {
 			"潸然泪下",
 		},
 	},
-	["tears"] = {
+	["Bigfoot_tears"] = {
 		Name = "悲剧",
 		Shortcodes = {
 			"悲剧",
@@ -1093,7 +1092,7 @@ local pack = {
 			"曲剧",
 		},
 	},
-	["think"] = {
+	["Bigfoot_think"] = {
 		Name = "想",
 		Shortcodes = {
 			"想",
@@ -1109,13 +1108,13 @@ local pack = {
 			"叨念",
 		},
 	},
-	["titter"] = {
+	["Bigfoot_titter"] = {
 		Name = "偷笑",
 		Shortcodes = {
 			"偷笑",
 		},
 	},
-	["ugly"] = {
+	["Bigfoot_ugly"] = {
 		Name = "猥琐",
 		Shortcodes = {
 			"猥琐",
@@ -1131,7 +1130,7 @@ local pack = {
 			"粗鄙",
 		},
 	},
-	["victory"] = {
+	["Bigfoot_victory"] = {
 		Name = "胜利",
 		Shortcodes = {
 			"胜利",
@@ -1147,7 +1146,7 @@ local pack = {
 			"大捷",
 		},
 	},
-	["volunteer"] = {
+	["Bigfoot_volunteer"] = {
 		Name = "雷锋",
 		Shortcodes = {
 			"雷锋",
@@ -1159,7 +1158,7 @@ local pack = {
 			"雷锋",
 		},
 	},
-	["wronged"] = {
+	["Bigfoot_wronged"] = {
 		Name = "委屈",
 		Shortcodes = {
 			"委屈",
@@ -1479,1224 +1478,1222 @@ local pack = {
 
 	KeywordIndexes = {
 		["惧怕"] = {
-			-- emoji: horror name: 恐惧
-			"horror",
+			-- emoji: Bigfoot_horror name: 恐惧
+			"Bigfoot_horror",
 		},
 		["满头大汗"] = {
-			-- emoji: sweat name: 流汗
-			"sweat",
+			-- emoji: Bigfoot_sweat name: 流汗
+			"Bigfoot_sweat",
 		},
 		["帅"] = {
-			-- emoji: pretty name: 漂亮
-			"pretty",
+			-- emoji: Bigfoot_pretty name: 漂亮
+			"Bigfoot_pretty",
 		},
 		["歇息"] = {
-			-- emoji: sleep name: 睡觉
-			"sleep",
+			-- emoji: Bigfoot_sleep name: 睡觉
+			"Bigfoot_sleep",
 		},
 		["淌汗"] = {
-			-- emoji: sweat name: 流汗
-			"sweat",
+			-- emoji: Bigfoot_sweat name: 流汗
+			"Bigfoot_sweat",
 		},
 		["嫣然一笑"] = {
-			-- emoji: smile name: 微笑
-			"smile",
+			-- emoji: Bigfoot_smile name: 微笑
+			"Bigfoot_smile",
 		},
 		["美发"] = {
-			-- emoji: makeup name: 化妆
-			"makeup",
+			-- emoji: Bigfoot_makeup name: 化妆
+			"Bigfoot_makeup",
 		},
 		["涕零"] = {
-			-- emoji: tear name: 流泪
-			"tear",
+			-- emoji: Bigfoot_tear name: 流泪
+			"Bigfoot_tear",
 		},
 		["拊掌"] = {
-			-- emoji: clap name: 鼓掌
-			"clap",
+			-- emoji: Bigfoot_clap name: 鼓掌
+			"Bigfoot_clap",
 		},
 		["昏"] = {
-			-- emoji: faint name: 晕
-			"faint",
+			-- emoji: Bigfoot_faint name: 晕
+			"Bigfoot_faint",
 		},
 		["谐谑"] = {
-			-- emoji: happy name: 开心
-			"happy",
+			-- emoji: Bigfoot_happy name: 开心
+			"Bigfoot_happy",
 		},
 		["吐"] = {
-			-- emoji: puke name: 吐
-			"puke",
+			-- emoji: Bigfoot_puke name: 吐
+			"Bigfoot_puke",
 		},
 		["谑"] = {
-			-- emoji: happy name: 开心
-			"happy",
+			-- emoji: Bigfoot_happy name: 开心
+			"Bigfoot_happy",
 		},
 		["吓"] = {
-			-- emoji: okay name: 好
-			"okay",
+			-- emoji: Bigfoot_okay name: 好
+			"Bigfoot_okay",
 		},
 		["抓手"] = {
-			-- emoji: shake name: 握手
-			"shake",
+			-- emoji: Bigfoot_shake name: 握手
+			"Bigfoot_shake",
 		},
 		["庸俗"] = {
-			-- emoji: ugly name: 猥琐
-			"ugly",
+			-- emoji: Bigfoot_ugly name: 猥琐
+			"Bigfoot_ugly",
 		},
 		["怕"] = {
-			-- emoji: horror name: 恐惧
-			"horror",
+			-- emoji: Bigfoot_horror name: 恐惧
+			"Bigfoot_horror",
 		},
 		["洒泪"] = {
-			-- emoji: tear name: 流泪
-			"tear",
+			-- emoji: Bigfoot_tear name: 流泪
+			"Bigfoot_tear",
 		},
 		["获胜"] = {
-			-- emoji: victory name: 胜利
-			"victory",
+			-- emoji: Bigfoot_victory name: 胜利
+			"Bigfoot_victory",
 		},
 		["抱委屈"] = {
-			-- emoji: wronged name: 委屈
-			"wronged",
+			-- emoji: Bigfoot_wronged name: 委屈
+			"Bigfoot_wronged",
 		},
 		["哈哈大笑"] = {
-			-- emoji: biglaugh name: 大笑
-			"biglaugh",
+			-- emoji: Bigfoot_biglaugh name: 大笑
+			"Bigfoot_biglaugh",
 		},
 		["失败"] = {
-			-- emoji: surrender name: 失败
-			"surrender",
+			-- emoji: Bigfoot_surrender name: 失败
+			"Bigfoot_surrender",
 		},
 		["吣"] = {
-			-- emoji: puke name: 吐
-			"puke",
+			-- emoji: Bigfoot_puke name: 吐
+			"Bigfoot_puke",
 		},
 		["错怪"] = {
-			-- emoji: wronged name: 委屈
-			"wronged",
+			-- emoji: Bigfoot_wronged name: 委屈
+			"Bigfoot_wronged",
 		},
 		["怕羞"] = {
-			-- emoji: shy name: 害羞
-			"shy",
+			-- emoji: Bigfoot_shy name: 害羞
+			"Bigfoot_shy",
 		},
 		["莞尔"] = {
-			-- emoji: smile name: 微笑
-			"smile",
+			-- emoji: Bigfoot_smile name: 微笑
+			"Bigfoot_smile",
 		},
 		["争斗"] = {
-			-- emoji: fight name: 打架
-			"fight",
+			-- emoji: Bigfoot_fight name: 打架
+			"Bigfoot_fight",
 		},
 		["可爱"] = {
-			-- emoji: cute name: 可爱
-			"cute",
+			-- emoji: Bigfoot_cute name: 可爱
+			"Bigfoot_cute",
 		},
 		["得胜"] = {
-			-- emoji: victory name: 胜利
-			"victory",
+			-- emoji: Bigfoot_victory name: 胜利
+			"Bigfoot_victory",
 		},
 		["传奇"] = {
-			-- emoji: tears name: 悲剧
-			"tears",
+			-- emoji: Bigfoot_tears name: 悲剧
+			"Bigfoot_tears",
 		},
 		["粗俗"] = {
-			-- emoji: ugly name: 猥琐
-			"ugly",
+			-- emoji: Bigfoot_ugly name: 猥琐
+			"Bigfoot_ugly",
 		},
 		["受挫"] = {
-			-- emoji: surrender name: 失败
-			"surrender",
+			-- emoji: Bigfoot_surrender name: 失败
+			"Bigfoot_surrender",
 		},
 		["害羞"] = {
-			-- emoji: shy name: 害羞
-			"shy",
+			-- emoji: Bigfoot_shy name: 害羞
+			"Bigfoot_shy",
 		},
 		["喜剧"] = {
-			-- emoji: tears name: 悲剧
-			"tears",
+			-- emoji: Bigfoot_tears name: 悲剧
+			"Bigfoot_tears",
 		},
 		["闹情绪"] = {
-			-- emoji: wronged name: 委屈
-			"wronged",
+			-- emoji: Bigfoot_wronged name: 委屈
+			"Bigfoot_wronged",
 		},
 		["眩晕"] = {
-			-- emoji: faint name: 晕
-			"faint",
+			-- emoji: Bigfoot_faint name: 晕
+			"Bigfoot_faint",
 		},
 		["呆"] = {
-			-- emoji: freeze name: 呆
-			"freeze",
+			-- emoji: Bigfoot_freeze name: 呆
+			"Bigfoot_freeze",
 		},
 		["光火"] = {
-			-- emoji: angry name: 生气
-			"angry",
+			-- emoji: Bigfoot_angry name: 生气
+			"Bigfoot_angry",
 		},
 		["跌交"] = {
-			-- emoji: surrender name: 失败
-			"surrender",
+			-- emoji: Bigfoot_surrender name: 失败
+			"Bigfoot_surrender",
 		},
 		["挥汗如雨"] = {
-			-- emoji: sweat name: 流汗
-			"sweat",
+			-- emoji: Bigfoot_sweat name: 流汗
+			"Bigfoot_sweat",
 		},
 		["大吃一惊"] = {
-			-- emoji: suprise name: 吃惊
-			"suprise",
+			-- emoji: Bigfoot_suprise name: 吃惊
+			"Bigfoot_suprise",
 		},
 		["昏乱"] = {
-			-- emoji: faint name: 晕
-			"faint",
+			-- emoji: Bigfoot_faint name: 晕
+			"Bigfoot_faint",
 		},
 		["呕吐"] = {
-			-- emoji: puke name: 吐
-			"puke",
+			-- emoji: Bigfoot_puke name: 吐
+			"Bigfoot_puke",
 		},
 		["拍掌"] = {
-			-- emoji: clap name: 鼓掌
-			"clap",
+			-- emoji: Bigfoot_clap name: 鼓掌
+			"Bigfoot_clap",
 		},
 		["素养"] = {
-			-- emoji: kongfu name: 功夫
-			"kongfu",
+			-- emoji: Bigfoot_kongfu name: 功夫
+			"Bigfoot_kongfu",
 		},
 		["呔"] = {
-			-- emoji: okay name: 好
-			"okay",
+			-- emoji: Bigfoot_okay name: 好
+			"Bigfoot_okay",
 		},
 		["晕"] = {
-			-- emoji: faint name: 晕
-			"faint",
+			-- emoji: Bigfoot_faint name: 晕
+			"Bigfoot_faint",
 		},
 		["呕"] = {
-			-- emoji: puke name: 吐
-			"puke",
+			-- emoji: Bigfoot_puke name: 吐
+			"Bigfoot_puke",
 		},
 		["格外"] = {
-			-- emoji: cool name: 酷
-			"cool",
-			-- emoji: miserable name: 可怜
-			"miserable",
+			-- emoji: Bigfoot_cool name: 酷
+			"Bigfoot_cool",
+			-- emoji: Bigfoot_miserable name: 可怜
+			"Bigfoot_miserable",
 		},
 		["昏沉"] = {
-			-- emoji: faint name: 晕
-			"faint",
+			-- emoji: Bigfoot_faint name: 晕
+			"Bigfoot_faint",
 		},
 		["装扮"] = {
-			-- emoji: makeup name: 化妆
-			"makeup",
+			-- emoji: Bigfoot_makeup name: 化妆
+			"Bigfoot_makeup",
 		},
 		["窘迫"] = {
-			-- emoji: embarrass name: 尴尬
-			"embarrass",
+			-- emoji: Bigfoot_embarrass name: 尴尬
+			"Bigfoot_embarrass",
 		},
 		["兴奋"] = {
-			-- emoji: excited name: 兴奋
-			"excited",
+			-- emoji: Bigfoot_excited name: 兴奋
+			"Bigfoot_excited",
 		},
 		["落泪"] = {
-			-- emoji: tear name: 流泪
-			"tear",
+			-- emoji: Bigfoot_tear name: 流泪
+			"Bigfoot_tear",
 		},
 		["羞怯"] = {
-			-- emoji: shy name: 害羞
-			"shy",
+			-- emoji: Bigfoot_shy name: 害羞
+			"Bigfoot_shy",
 		},
 		["染病"] = {
-			-- emoji: ill name: 生病
-			"ill",
+			-- emoji: Bigfoot_ill name: 生病
+			"Bigfoot_ill",
 		},
 		["请安"] = {
-			-- emoji: greet name: 致敬
-			"greet",
+			-- emoji: Bigfoot_greet name: 致敬
+			"Bigfoot_greet",
 		},
 		["心里"] = {
-			-- emoji: heart name: 心
-			"heart",
+			-- emoji: Bigfoot_heart name: 心
+			"Bigfoot_heart",
 		},
 		["功夫"] = {
-			-- emoji: kongfu name: 功夫
-			"kongfu",
+			-- emoji: Bigfoot_kongfu name: 功夫
+			"Bigfoot_kongfu",
 		},
 		["告捷"] = {
-			-- emoji: victory name: 胜利
-			"victory",
+			-- emoji: Bigfoot_victory name: 胜利
+			"Bigfoot_victory",
 		},
 		["挥泪"] = {
-			-- emoji: tear name: 流泪
-			"tear",
+			-- emoji: Bigfoot_tear name: 流泪
+			"Bigfoot_tear",
 		},
 		["良"] = {
-			-- emoji: pretty name: 漂亮
-			"pretty",
+			-- emoji: Bigfoot_pretty name: 漂亮
+			"Bigfoot_pretty",
 		},
 		["哭鼻子"] = {
-			-- emoji: cry name: 哭
-			"cry",
+			-- emoji: Bigfoot_cry name: 哭
+			"Bigfoot_cry",
 		},
 		["皱眉头"] = {
-			-- emoji: frown name: 皱眉
-			"frown",
+			-- emoji: Bigfoot_frown name: 皱眉
+			"Bigfoot_frown",
 		},
 		["噱"] = {
-			-- emoji: biglaugh name: 大笑
-			"biglaugh",
+			-- emoji: Bigfoot_biglaugh name: 大笑
+			"Bigfoot_biglaugh",
 		},
 		["尴尬"] = {
-			-- emoji: embarrass name: 尴尬
-			"embarrass",
+			-- emoji: Bigfoot_embarrass name: 尴尬
+			"Bigfoot_embarrass",
 		},
 		["皱眉"] = {
-			-- emoji: frown name: 皱眉
-			"frown",
-			-- emoji: frown name: 皱眉
-			"frown",
+			-- emoji: Bigfoot_frown name: 皱眉
+			"Bigfoot_frown",
 		},
 		["衷"] = {
-			-- emoji: heart name: 心
-			"heart",
+			-- emoji: Bigfoot_heart name: 心
+			"Bigfoot_heart",
 		},
 		["打扮"] = {
-			-- emoji: makeup name: 化妆
-			"makeup",
+			-- emoji: Bigfoot_makeup name: 化妆
+			"Bigfoot_makeup",
 		},
 		["害病"] = {
-			-- emoji: ill name: 生病
-			"ill",
+			-- emoji: Bigfoot_ill name: 生病
+			"Bigfoot_ill",
 		},
 		["思想"] = {
-			-- emoji: meditate name: 沉思
-			"meditate",
+			-- emoji: Bigfoot_meditate name: 沉思
+			"Bigfoot_meditate",
 		},
 		["思维"] = {
-			-- emoji: meditate name: 沉思
-			"meditate",
+			-- emoji: Bigfoot_meditate name: 沉思
+			"Bigfoot_meditate",
 		},
 		["呼"] = {
-			-- emoji: shout name: 喊
-			"shout",
+			-- emoji: Bigfoot_shout name: 喊
+			"Bigfoot_shout",
 		},
 		["害臊"] = {
-			-- emoji: shy name: 害羞
-			"shy",
+			-- emoji: Bigfoot_shy name: 害羞
+			"Bigfoot_shy",
 		},
 		["狂笑"] = {
-			-- emoji: biglaugh name: 大笑
-			"biglaugh",
+			-- emoji: Bigfoot_biglaugh name: 大笑
+			"Bigfoot_biglaugh",
 		},
 		["呼喊"] = {
-			-- emoji: shout name: 喊
-			"shout",
+			-- emoji: Bigfoot_shout name: 喊
+			"Bigfoot_shout",
 		},
 		["纪念"] = {
-			-- emoji: think name: 想
-			"think",
+			-- emoji: Bigfoot_think name: 想
+			"Bigfoot_think",
 		},
 		["握手"] = {
-			-- emoji: shake name: 握手
-			"shake",
+			-- emoji: Bigfoot_shake name: 握手
+			"Bigfoot_shake",
 		},
 		["睡觉"] = {
-			-- emoji: sleep name: 睡觉
-			"sleep",
+			-- emoji: Bigfoot_sleep name: 睡觉
+			"Bigfoot_sleep",
 		},
 		["非常"] = {
-			-- emoji: cool name: 酷
-			"cool",
-			-- emoji: miserable name: 可怜
-			"miserable",
+			-- emoji: Bigfoot_cool name: 酷
+			"Bigfoot_cool",
+			-- emoji: Bigfoot_miserable name: 可怜
+			"Bigfoot_miserable",
 		},
 		["生病"] = {
-			-- emoji: ill name: 生病
-			"ill",
+			-- emoji: Bigfoot_ill name: 生病
+			"Bigfoot_ill",
 		},
 		["嚎"] = {
-			-- emoji: shout name: 喊
-			"shout",
+			-- emoji: Bigfoot_shout name: 喊
+			"Bigfoot_shout",
 		},
 		["汗津津"] = {
-			-- emoji: sweat name: 流汗
-			"sweat",
+			-- emoji: Bigfoot_sweat name: 流汗
+			"Bigfoot_sweat",
 		},
 		["喜人"] = {
-			-- emoji: cute name: 可爱
-			"cute",
+			-- emoji: Bigfoot_cute name: 可爱
+			"Bigfoot_cute",
 		},
 		["宜人"] = {
-			-- emoji: cute name: 可爱
-			"cute",
+			-- emoji: Bigfoot_cute name: 可爱
+			"Bigfoot_cute",
 		},
 		["窘"] = {
-			-- emoji: embarrass name: 尴尬
-			"embarrass",
+			-- emoji: Bigfoot_embarrass name: 尴尬
+			"Bigfoot_embarrass",
 		},
 		["恐惧"] = {
-			-- emoji: horror name: 恐惧
-			"horror",
+			-- emoji: Bigfoot_horror name: 恐惧
+			"Bigfoot_horror",
 		},
 		["喷饭"] = {
-			-- emoji: biglaugh name: 大笑
-			"biglaugh",
+			-- emoji: Bigfoot_biglaugh name: 大笑
+			"Bigfoot_biglaugh",
 		},
 		["发呆"] = {
-			-- emoji: freeze name: 呆
-			"freeze",
+			-- emoji: Bigfoot_freeze name: 呆
+			"Bigfoot_freeze",
 		},
 		["功"] = {
-			-- emoji: kongfu name: 功夫
-			"kongfu",
+			-- emoji: Bigfoot_kongfu name: 功夫
+			"Bigfoot_kongfu",
 		},
 		["可人"] = {
-			-- emoji: cute name: 可爱
-			"cute",
+			-- emoji: Bigfoot_cute name: 可爱
+			"Bigfoot_cute",
 		},
 		["妆饰"] = {
-			-- emoji: makeup name: 化妆
-			"makeup",
+			-- emoji: Bigfoot_makeup name: 化妆
+			"Bigfoot_makeup",
 		},
 		["颦"] = {
-			-- emoji: frown name: 皱眉
-			"frown",
+			-- emoji: Bigfoot_frown name: 皱眉
+			"Bigfoot_frown",
 		},
 		["动手"] = {
-			-- emoji: fight name: 打架
-			"fight",
+			-- emoji: Bigfoot_fight name: 打架
+			"Bigfoot_fight",
 		},
 		["思索"] = {
-			-- emoji: meditate name: 沉思
-			"meditate",
+			-- emoji: Bigfoot_meditate name: 沉思
+			"Bigfoot_meditate",
 		},
 		["李逵"] = {
-			-- emoji: volunteer name: 雷锋
-			"volunteer",
+			-- emoji: Bigfoot_volunteer name: 雷锋
+			"Bigfoot_volunteer",
 		},
 		["出神"] = {
-			-- emoji: freeze name: 呆
-			"freeze",
+			-- emoji: Bigfoot_freeze name: 呆
+			"Bigfoot_freeze",
 		},
 		["拉手"] = {
-			-- emoji: shake name: 握手
-			"shake",
+			-- emoji: Bigfoot_shake name: 握手
+			"Bigfoot_shake",
 		},
 		["发火"] = {
-			-- emoji: angry name: 生气
-			"angry",
+			-- emoji: Bigfoot_angry name: 生气
+			"Bigfoot_angry",
 		},
 		["强暴"] = {
-			-- emoji: evil name: 邪恶
-			"evil",
+			-- emoji: Bigfoot_evil name: 邪恶
+			"Bigfoot_evil",
 		},
 		["震惊"] = {
-			-- emoji: suprise name: 吃惊
-			"suprise",
+			-- emoji: Bigfoot_suprise name: 吃惊
+			"Bigfoot_suprise",
 		},
 		["粲然一笑"] = {
-			-- emoji: smile name: 微笑
-			"smile",
+			-- emoji: Bigfoot_smile name: 微笑
+			"Bigfoot_smile",
 		},
 		["忖量"] = {
-			-- emoji: meditate name: 沉思
-			"meditate",
+			-- emoji: Bigfoot_meditate name: 沉思
+			"Bigfoot_meditate",
 		},
 		["嚷"] = {
-			-- emoji: shout name: 喊
-			"shout",
+			-- emoji: Bigfoot_shout name: 喊
+			"Bigfoot_shout",
 		},
 		["十二分"] = {
-			-- emoji: cool name: 酷
-			"cool",
-			-- emoji: miserable name: 可怜
-			"miserable",
+			-- emoji: Bigfoot_cool name: 酷
+			"Bigfoot_cool",
+			-- emoji: Bigfoot_miserable name: 可怜
+			"Bigfoot_miserable",
 		},
 		["精"] = {
-			-- emoji: pretty name: 漂亮
-			"pretty",
+			-- emoji: Bigfoot_pretty name: 漂亮
+			"Bigfoot_pretty",
 		},
 		["大笑"] = {
-			-- emoji: biglaugh name: 大笑
-			"biglaugh",
+			-- emoji: Bigfoot_biglaugh name: 大笑
+			"Bigfoot_biglaugh",
 		},
 		["挫折"] = {
-			-- emoji: surrender name: 失败
-			"surrender",
+			-- emoji: Bigfoot_surrender name: 失败
+			"Bigfoot_surrender",
 		},
 		["拍击"] = {
-			-- emoji: clap name: 鼓掌
-			"clap",
+			-- emoji: Bigfoot_clap name: 鼓掌
+			"Bigfoot_clap",
 		},
 		["哂"] = {
-			-- emoji: smile name: 微笑
-			"smile",
+			-- emoji: Bigfoot_smile name: 微笑
+			"Bigfoot_smile",
 		},
 		["胜利"] = {
-			-- emoji: victory name: 胜利
-			"victory",
+			-- emoji: Bigfoot_victory name: 胜利
+			"Bigfoot_victory",
 		},
 		["哭哭啼啼"] = {
-			-- emoji: cry name: 哭
-			"cry",
+			-- emoji: Bigfoot_cry name: 哭
+			"Bigfoot_cry",
 		},
 		["受病"] = {
-			-- emoji: ill name: 生病
-			"ill",
+			-- emoji: Bigfoot_ill name: 生病
+			"Bigfoot_ill",
 		},
 		["蔑视"] = {
-			-- emoji: despise name: 鄙视
-			"despise",
+			-- emoji: Bigfoot_despise name: 鄙视
+			"Bigfoot_despise",
 		},
 		["哄笑"] = {
-			-- emoji: biglaugh name: 大笑
-			"biglaugh",
+			-- emoji: Bigfoot_biglaugh name: 大笑
+			"Bigfoot_biglaugh",
 		},
 		["开心"] = {
-			-- emoji: happy name: 开心
-			"happy",
+			-- emoji: Bigfoot_happy name: 开心
+			"Bigfoot_happy",
 		},
 		["动火"] = {
-			-- emoji: angry name: 生气
-			"angry",
+			-- emoji: Bigfoot_angry name: 生气
+			"Bigfoot_angry",
 		},
 		["害怕"] = {
-			-- emoji: horror name: 恐惧
-			"horror",
+			-- emoji: Bigfoot_horror name: 恐惧
+			"Bigfoot_horror",
 		},
 		["鼓掌"] = {
-			-- emoji: clap name: 鼓掌
-			"clap",
+			-- emoji: Bigfoot_clap name: 鼓掌
+			"Bigfoot_clap",
 		},
 		["惊"] = {
-			-- emoji: suprise name: 吃惊
-			"suprise",
+			-- emoji: Bigfoot_suprise name: 吃惊
+			"Bigfoot_suprise",
 		},
 		["畏怯"] = {
-			-- emoji: horror name: 恐惧
-			"horror",
+			-- emoji: Bigfoot_horror name: 恐惧
+			"Bigfoot_horror",
 		},
 		["羞人"] = {
-			-- emoji: shy name: 害羞
-			"shy",
+			-- emoji: Bigfoot_shy name: 害羞
+			"Bigfoot_shy",
 		},
 		["内心"] = {
-			-- emoji: heart name: 心
-			"heart",
+			-- emoji: Bigfoot_heart name: 心
+			"Bigfoot_heart",
 		},
 		["哕"] = {
-			-- emoji: puke name: 吐
-			"puke",
+			-- emoji: Bigfoot_puke name: 吐
+			"Bigfoot_puke",
 		},
 		["安歇"] = {
-			-- emoji: sleep name: 睡觉
-			"sleep",
+			-- emoji: Bigfoot_sleep name: 睡觉
+			"Bigfoot_sleep",
 		},
 		["武松"] = {
-			-- emoji: volunteer name: 雷锋
-			"volunteer",
+			-- emoji: Bigfoot_volunteer name: 雷锋
+			"Bigfoot_volunteer",
 		},
 		["万分"] = {
-			-- emoji: cool name: 酷
-			"cool",
-			-- emoji: miserable name: 可怜
-			"miserable",
+			-- emoji: Bigfoot_cool name: 酷
+			"Bigfoot_cool",
+			-- emoji: Bigfoot_miserable name: 可怜
+			"Bigfoot_miserable",
 		},
 		["格斗"] = {
-			-- emoji: fight name: 打架
-			"fight",
+			-- emoji: Bigfoot_fight name: 打架
+			"Bigfoot_fight",
 		},
 		["小看"] = {
-			-- emoji: despise name: 鄙视
-			"despise",
+			-- emoji: Bigfoot_despise name: 鄙视
+			"Bigfoot_despise",
 		},
 		["美梦"] = {
-			-- emoji: dreamsmile name: 美梦
-			"dreamsmile",
+			-- emoji: Bigfoot_dreamsmile name: 美梦
+			"Bigfoot_dreamsmile",
 		},
 		["心房"] = {
-			-- emoji: heart name: 心
-			"heart",
+			-- emoji: Bigfoot_heart name: 心
+			"Bigfoot_heart",
 		},
 		["生怕"] = {
-			-- emoji: horror name: 恐惧
-			"horror",
+			-- emoji: Bigfoot_horror name: 恐惧
+			"Bigfoot_horror",
 		},
 		["含羞"] = {
-			-- emoji: shy name: 害羞
-			"shy",
+			-- emoji: Bigfoot_shy name: 害羞
+			"Bigfoot_shy",
 		},
 		["绝倒"] = {
-			-- emoji: biglaugh name: 大笑
-			"biglaugh",
+			-- emoji: Bigfoot_biglaugh name: 大笑
+			"Bigfoot_biglaugh",
 		},
 		["拍巴掌"] = {
-			-- emoji: clap name: 鼓掌
-			"clap",
+			-- emoji: Bigfoot_clap name: 鼓掌
+			"Bigfoot_clap",
 		},
 		["特别"] = {
-			-- emoji: cool name: 酷
-			"cool",
-			-- emoji: miserable name: 可怜
-			"miserable",
+			-- emoji: Bigfoot_cool name: 酷
+			"Bigfoot_cool",
+			-- emoji: Bigfoot_miserable name: 可怜
+			"Bigfoot_miserable",
 		},
 		["抓挠"] = {
-			-- emoji: fight name: 打架
-			"fight",
+			-- emoji: Bigfoot_fight name: 打架
+			"Bigfoot_fight",
 		},
 		["雷锋"] = {
-			-- emoji: volunteer name: 雷锋
-			"volunteer",
+			-- emoji: Bigfoot_volunteer name: 雷锋
+			"Bigfoot_volunteer",
 		},
 		["被冤枉者"] = {
-			-- emoji: innocent name: 无辜
-			"innocent",
+			-- emoji: Bigfoot_innocent name: 无辜
+			"Bigfoot_innocent",
 		},
 		["哭"] = {
-			-- emoji: cry name: 哭
-			"cry",
+			-- emoji: Bigfoot_cry name: 哭
+			"Bigfoot_cry",
 		},
 		["十分"] = {
-			-- emoji: cool name: 酷
-			"cool",
-			-- emoji: miserable name: 可怜
-			"miserable",
+			-- emoji: Bigfoot_cool name: 酷
+			"Bigfoot_cool",
+			-- emoji: Bigfoot_miserable name: 可怜
+			"Bigfoot_miserable",
 		},
 		["困"] = {
-			-- emoji: sleep name: 睡觉
-			"sleep",
+			-- emoji: Bigfoot_sleep name: 睡觉
+			"Bigfoot_sleep",
 		},
 		["叫喊"] = {
-			-- emoji: shout name: 喊
-			"shout",
+			-- emoji: Bigfoot_shout name: 喊
+			"Bigfoot_shout",
 		},
 		["昏眩"] = {
-			-- emoji: faint name: 晕
-			"faint",
+			-- emoji: Bigfoot_faint name: 晕
+			"Bigfoot_faint",
 		},
 		["胸"] = {
-			-- emoji: heart name: 心
-			"heart",
+			-- emoji: Bigfoot_heart name: 心
+			"Bigfoot_heart",
 		},
 		["安琪儿"] = {
-			-- emoji: angel name: 天使
-			"angel",
+			-- emoji: Bigfoot_angel name: 天使
+			"Bigfoot_angel",
 		},
 		["击掌"] = {
-			-- emoji: clap name: 鼓掌
-			"clap",
+			-- emoji: Bigfoot_clap name: 鼓掌
+			"Bigfoot_clap",
 		},
 		["啼哭"] = {
-			-- emoji: cry name: 哭
-			"cry",
+			-- emoji: Bigfoot_cry name: 哭
+			"Bigfoot_cry",
 		},
 		["开玩笑"] = {
-			-- emoji: happy name: 开心
-			"happy",
+			-- emoji: Bigfoot_happy name: 开心
+			"Bigfoot_happy",
 		},
 		["哼"] = {
-			-- emoji: okay name: 好
-			"okay",
+			-- emoji: Bigfoot_okay name: 好
+			"Bigfoot_okay",
 		},
 		["破产"] = {
-			-- emoji: surrender name: 失败
-			"surrender",
+			-- emoji: Bigfoot_surrender name: 失败
+			"Bigfoot_surrender",
 		},
 		["凶横"] = {
-			-- emoji: evil name: 邪恶
-			"evil",
+			-- emoji: Bigfoot_evil name: 邪恶
+			"Bigfoot_evil",
 		},
 		["闹病"] = {
-			-- emoji: ill name: 生病
-			"ill",
+			-- emoji: Bigfoot_ill name: 生病
+			"Bigfoot_ill",
 		},
 		["委屈"] = {
-			-- emoji: wronged name: 委屈
-			"wronged",
+			-- emoji: Bigfoot_wronged name: 委屈
+			"Bigfoot_wronged",
 		},
 		["木然"] = {
-			-- emoji: freeze name: 呆
-			"freeze",
+			-- emoji: Bigfoot_freeze name: 呆
+			"Bigfoot_freeze",
 		},
 		["得病"] = {
-			-- emoji: ill name: 生病
-			"ill",
+			-- emoji: Bigfoot_ill name: 生病
+			"Bigfoot_ill",
 		},
 		["震"] = {
-			-- emoji: suprise name: 吃惊
-			"suprise",
+			-- emoji: Bigfoot_suprise name: 吃惊
+			"Bigfoot_suprise",
 		},
 		["叨念"] = {
-			-- emoji: think name: 想
-			"think",
+			-- emoji: Bigfoot_think name: 想
+			"Bigfoot_think",
 		},
 		["悲喜剧"] = {
-			-- emoji: tears name: 悲剧
-			"tears",
+			-- emoji: Bigfoot_tears name: 悲剧
+			"Bigfoot_tears",
 		},
 		["条件刺激"] = {
-			-- emoji: excited name: 兴奋
-			"excited",
+			-- emoji: Bigfoot_excited name: 兴奋
+			"Bigfoot_excited",
 		},
 		["惶惶然"] = {
-			-- emoji: suprise name: 吃惊
-			"suprise",
+			-- emoji: Bigfoot_suprise name: 吃惊
+			"Bigfoot_suprise",
 		},
 		["两难"] = {
-			-- emoji: embarrass name: 尴尬
-			"embarrass",
+			-- emoji: Bigfoot_embarrass name: 尴尬
+			"Bigfoot_embarrass",
 		},
 		["拍手"] = {
-			-- emoji: clap name: 鼓掌
-			"clap",
+			-- emoji: Bigfoot_clap name: 鼓掌
+			"Bigfoot_clap",
 		},
 		["冒火"] = {
-			-- emoji: angry name: 生气
-			"angry",
+			-- emoji: Bigfoot_angry name: 生气
+			"Bigfoot_angry",
 		},
 		["俗气"] = {
-			-- emoji: ugly name: 猥琐
-			"ugly",
+			-- emoji: Bigfoot_ugly name: 猥琐
+			"Bigfoot_ugly",
 		},
 		["动人"] = {
-			-- emoji: cute name: 可爱
-			"cute",
+			-- emoji: Bigfoot_cute name: 可爱
+			"Bigfoot_cute",
 		},
 		["优"] = {
-			-- emoji: pretty name: 漂亮
-			"pretty",
+			-- emoji: Bigfoot_pretty name: 漂亮
+			"Bigfoot_pretty",
 		},
 		["缶掌"] = {
-			-- emoji: clap name: 鼓掌
-			"clap",
+			-- emoji: Bigfoot_clap name: 鼓掌
+			"Bigfoot_clap",
 		},
 		["面带微笑"] = {
-			-- emoji: smile name: 微笑
-			"smile",
+			-- emoji: Bigfoot_smile name: 微笑
+			"Bigfoot_smile",
 		},
 		["邪恶"] = {
-			-- emoji: evil name: 邪恶
-			"evil",
+			-- emoji: Bigfoot_evil name: 邪恶
+			"Bigfoot_evil",
 		},
 		["生恐"] = {
-			-- emoji: horror name: 恐惧
-			"horror",
+			-- emoji: Bigfoot_horror name: 恐惧
+			"Bigfoot_horror",
 		},
 		["愣"] = {
-			-- emoji: freeze name: 呆
-			"freeze",
+			-- emoji: Bigfoot_freeze name: 呆
+			"Bigfoot_freeze",
 		},
 		["败"] = {
-			-- emoji: surrender name: 失败
-			"surrender",
+			-- emoji: Bigfoot_surrender name: 失败
+			"Bigfoot_surrender",
 		},
 		["春梦"] = {
-			-- emoji: dreamsmile name: 美梦
-			"dreamsmile",
+			-- emoji: Bigfoot_dreamsmile name: 美梦
+			"Bigfoot_dreamsmile",
 		},
 		["崭"] = {
-			-- emoji: pretty name: 漂亮
-			"pretty",
+			-- emoji: Bigfoot_pretty name: 漂亮
+			"Bigfoot_pretty",
 		},
 		["吃惊"] = {
-			-- emoji: suprise name: 吃惊
-			"suprise",
+			-- emoji: Bigfoot_suprise name: 吃惊
+			"Bigfoot_suprise",
 		},
 		["微笑"] = {
-			-- emoji: smile name: 微笑
-			"smile",
+			-- emoji: Bigfoot_smile name: 微笑
+			"Bigfoot_smile",
 		},
 		["俚俗"] = {
-			-- emoji: ugly name: 猥琐
-			"ugly",
+			-- emoji: Bigfoot_ugly name: 猥琐
+			"Bigfoot_ugly",
 		},
 		["俎上肉"] = {
-			-- emoji: innocent name: 无辜
-			"innocent",
+			-- emoji: Bigfoot_innocent name: 无辜
+			"Bigfoot_innocent",
 		},
 		["化妆"] = {
-			-- emoji: makeup name: 化妆
-			"makeup",
+			-- emoji: Bigfoot_makeup name: 化妆
+			"Bigfoot_makeup",
 		},
 		["流汗"] = {
-			-- emoji: sweat name: 流汗
-			"sweat",
+			-- emoji: Bigfoot_sweat name: 流汗
+			"Bigfoot_sweat",
 		},
 		["大捷"] = {
-			-- emoji: victory name: 胜利
-			"victory",
+			-- emoji: Bigfoot_victory name: 胜利
+			"Bigfoot_victory",
 		},
 		["狼狈"] = {
-			-- emoji: embarrass name: 尴尬
-			"embarrass",
+			-- emoji: Bigfoot_embarrass name: 尴尬
+			"Bigfoot_embarrass",
 		},
 		["歇"] = {
-			-- emoji: sleep name: 睡觉
-			"sleep",
+			-- emoji: Bigfoot_sleep name: 睡觉
+			"Bigfoot_sleep",
 		},
 		["问安"] = {
-			-- emoji: greet name: 致敬
-			"greet",
+			-- emoji: Bigfoot_greet name: 致敬
+			"Bigfoot_greet",
 		},
 		["凶恶"] = {
-			-- emoji: evil name: 邪恶
-			"evil",
+			-- emoji: Bigfoot_evil name: 邪恶
+			"Bigfoot_evil",
 		},
 		["动肝火"] = {
-			-- emoji: angry name: 生气
-			"angry",
+			-- emoji: Bigfoot_angry name: 生气
+			"Bigfoot_angry",
 		},
 		["头昏"] = {
-			-- emoji: faint name: 晕
-			"faint",
+			-- emoji: Bigfoot_faint name: 晕
+			"Bigfoot_faint",
 		},
 		["流行性感冒"] = {
-			-- emoji: flu name: 流感
-			"flu",
+			-- emoji: Bigfoot_flu name: 流感
+			"Bigfoot_flu",
 		},
 		["思忖"] = {
-			-- emoji: meditate name: 沉思
-			"meditate",
+			-- emoji: Bigfoot_meditate name: 沉思
+			"Bigfoot_meditate",
 		},
 		["挫败"] = {
-			-- emoji: surrender name: 失败
-			"surrender",
+			-- emoji: Bigfoot_surrender name: 失败
+			"Bigfoot_surrender",
 		},
 		["白日梦"] = {
-			-- emoji: dreamsmile name: 美梦
-			"dreamsmile",
+			-- emoji: Bigfoot_dreamsmile name: 美梦
+			"Bigfoot_dreamsmile",
 		},
 		["腼腆"] = {
-			-- emoji: shy name: 害羞
-			"shy",
+			-- emoji: Bigfoot_shy name: 害羞
+			"Bigfoot_shy",
 		},
 		["拔苗助长"] = {
-			-- emoji: excited name: 兴奋
-			"excited",
+			-- emoji: Bigfoot_excited name: 兴奋
+			"Bigfoot_excited",
 		},
 		["凶悍"] = {
-			-- emoji: evil name: 邪恶
-			"evil",
+			-- emoji: Bigfoot_evil name: 邪恶
+			"Bigfoot_evil",
 		},
 		["问好"] = {
-			-- emoji: greet name: 致敬
-			"greet",
+			-- emoji: Bigfoot_greet name: 致敬
+			"Bigfoot_greet",
 		},
 		["思量"] = {
-			-- emoji: meditate name: 沉思
-			"meditate",
+			-- emoji: Bigfoot_meditate name: 沉思
+			"Bigfoot_meditate",
 		},
 		["睡"] = {
-			-- emoji: sleep name: 睡觉
-			"sleep",
+			-- emoji: Bigfoot_sleep name: 睡觉
+			"Bigfoot_sleep",
 		},
 		["诗剧"] = {
-			-- emoji: tears name: 悲剧
-			"tears",
+			-- emoji: Bigfoot_tears name: 悲剧
+			"Bigfoot_tears",
 		},
 		["恼火"] = {
-			-- emoji: angry name: 生气
-			"angry",
+			-- emoji: Bigfoot_angry name: 生气
+			"Bigfoot_angry",
 		},
 		["搏斗"] = {
-			-- emoji: fight name: 打架
-			"fight",
+			-- emoji: Bigfoot_fight name: 打架
+			"Bigfoot_fight",
 		},
 		["正剧"] = {
-			-- emoji: tears name: 悲剧
-			"tears",
+			-- emoji: Bigfoot_tears name: 悲剧
+			"Bigfoot_tears",
 		},
 		["杂剧"] = {
-			-- emoji: tears name: 悲剧
-			"tears",
+			-- emoji: Bigfoot_tears name: 悲剧
+			"Bigfoot_tears",
 		},
 		["媚人"] = {
-			-- emoji: cute name: 可爱
-			"cute",
+			-- emoji: Bigfoot_cute name: 可爱
+			"Bigfoot_cute",
 		},
 		["制胜"] = {
-			-- emoji: victory name: 胜利
-			"victory",
+			-- emoji: Bigfoot_victory name: 胜利
+			"Bigfoot_victory",
 		},
 		["粗鄙"] = {
-			-- emoji: ugly name: 猥琐
-			"ugly",
+			-- emoji: Bigfoot_ugly name: 猥琐
+			"Bigfoot_ugly",
 		},
 		["想念"] = {
-			-- emoji: think name: 想
-			"think",
+			-- emoji: Bigfoot_think name: 想
+			"Bigfoot_think",
 		},
 		["鬼脸"] = {
-			-- emoji: grimace name: 鬼脸
-			"grimace",
+			-- emoji: Bigfoot_grimace name: 鬼脸
+			"Bigfoot_grimace",
 		},
 		["痴想"] = {
-			-- emoji: dreamsmile name: 美梦
-			"dreamsmile",
+			-- emoji: Bigfoot_dreamsmile name: 美梦
+			"Bigfoot_dreamsmile",
 		},
 		["对打"] = {
-			-- emoji: fight name: 打架
-			"fight",
+			-- emoji: Bigfoot_fight name: 打架
+			"Bigfoot_fight",
 		},
 		["斗嘴"] = {
-			-- emoji: happy name: 开心
-			"happy",
+			-- emoji: Bigfoot_happy name: 开心
+			"Bigfoot_happy",
 		},
 		["佳"] = {
-			-- emoji: pretty name: 漂亮
-			"pretty",
+			-- emoji: Bigfoot_pretty name: 漂亮
+			"Bigfoot_pretty",
 		},
 		["凶暴"] = {
-			-- emoji: evil name: 邪恶
-			"evil",
+			-- emoji: Bigfoot_evil name: 邪恶
+			"Bigfoot_evil",
 		},
 		["思念"] = {
-			-- emoji: think name: 想
-			"think",
+			-- emoji: Bigfoot_think name: 想
+			"Bigfoot_think",
 		},
 		["畏惧"] = {
-			-- emoji: horror name: 恐惧
-			"horror",
+			-- emoji: Bigfoot_horror name: 恐惧
+			"Bigfoot_horror",
 		},
 		["发愣"] = {
-			-- emoji: freeze name: 呆
-			"freeze",
+			-- emoji: Bigfoot_freeze name: 呆
+			"Bigfoot_freeze",
 		},
 		["啼"] = {
-			-- emoji: cry name: 哭
-			"cry",
+			-- emoji: Bigfoot_cry name: 哭
+			"Bigfoot_cry",
 		},
 		["天使"] = {
-			-- emoji: angel name: 天使
-			"angel",
+			-- emoji: Bigfoot_angel name: 天使
+			"Bigfoot_angel",
 		},
 		["异常"] = {
-			-- emoji: cool name: 酷
-			"cool",
-			-- emoji: miserable name: 可怜
-			"miserable",
+			-- emoji: Bigfoot_cool name: 酷
+			"Bigfoot_cool",
+			-- emoji: Bigfoot_miserable name: 可怜
+			"Bigfoot_miserable",
 		},
 		["好"] = {
-			-- emoji: okay name: 好
-			"okay",
-			-- emoji: pretty name: 漂亮
-			"pretty",
+			-- emoji: Bigfoot_okay name: 好
+			"Bigfoot_okay",
+			-- emoji: Bigfoot_pretty name: 漂亮
+			"Bigfoot_pretty",
 		},
 		["愣神儿"] = {
-			-- emoji: freeze name: 呆
-			"freeze",
+			-- emoji: Bigfoot_freeze name: 呆
+			"Bigfoot_freeze",
 		},
 		["调笑"] = {
-			-- emoji: happy name: 开心
-			"happy",
+			-- emoji: Bigfoot_happy name: 开心
+			"Bigfoot_happy",
 		},
 		["提神"] = {
-			-- emoji: excited name: 兴奋
-			"excited",
+			-- emoji: Bigfoot_excited name: 兴奋
+			"Bigfoot_excited",
 		},
 		["惦记"] = {
-			-- emoji: think name: 想
-			"think",
+			-- emoji: Bigfoot_think name: 想
+			"Bigfoot_think",
 		},
 		["可喜"] = {
-			-- emoji: cute name: 可爱
-			"cute",
+			-- emoji: Bigfoot_cute name: 可爱
+			"Bigfoot_cute",
 		},
 		["满面笑容"] = {
-			-- emoji: smile name: 微笑
-			"smile",
+			-- emoji: Bigfoot_smile name: 微笑
+			"Bigfoot_smile",
 		},
 		["思考"] = {
-			-- emoji: meditate name: 沉思
-			"meditate",
+			-- emoji: Bigfoot_meditate name: 沉思
+			"Bigfoot_meditate",
 		},
 		["喊"] = {
-			-- emoji: shout name: 喊
-			"shout",
+			-- emoji: Bigfoot_shout name: 喊
+			"Bigfoot_shout",
 		},
 		["致意"] = {
-			-- emoji: greet name: 致敬
-			"greet",
+			-- emoji: Bigfoot_greet name: 致敬
+			"Bigfoot_greet",
 		},
 		["患病"] = {
-			-- emoji: ill name: 生病
-			"ill",
+			-- emoji: Bigfoot_ill name: 生病
+			"Bigfoot_ill",
 		},
 		["美"] = {
-			-- emoji: pretty name: 漂亮
-			"pretty",
+			-- emoji: Bigfoot_pretty name: 漂亮
+			"Bigfoot_pretty",
 		},
 		["眷念"] = {
-			-- emoji: think name: 想
-			"think",
+			-- emoji: Bigfoot_think name: 想
+			"Bigfoot_think",
 		},
 		["问讯"] = {
-			-- emoji: greet name: 致敬
-			"greet",
+			-- emoji: Bigfoot_greet name: 致敬
+			"Bigfoot_greet",
 		},
 		["出汗"] = {
-			-- emoji: sweat name: 流汗
-			"sweat",
+			-- emoji: Bigfoot_sweat name: 流汗
+			"Bigfoot_sweat",
 		},
 		["鄙薄"] = {
-			-- emoji: despise name: 鄙视
-			"despise",
+			-- emoji: Bigfoot_despise name: 鄙视
+			"Bigfoot_despise",
 		},
 		["伧俗"] = {
-			-- emoji: ugly name: 猥琐
-			"ugly",
+			-- emoji: Bigfoot_ugly name: 猥琐
+			"Bigfoot_ugly",
 		},
 		["小视"] = {
-			-- emoji: despise name: 鄙视
-			"despise",
+			-- emoji: Bigfoot_despise name: 鄙视
+			"Bigfoot_despise",
 		},
 		["哭丧着脸"] = {
-			-- emoji: cry name: 哭
-			"cry",
+			-- emoji: Bigfoot_cry name: 哭
+			"Bigfoot_cry",
 		},
 		["喝"] = {
-			-- emoji: shout name: 喊
-			"shout",
+			-- emoji: Bigfoot_shout name: 喊
+			"Bigfoot_shout",
 		},
 		["李大钊"] = {
-			-- emoji: volunteer name: 雷锋
-			"volunteer",
+			-- emoji: Bigfoot_volunteer name: 雷锋
+			"Bigfoot_volunteer",
 		},
 		["凶狠"] = {
-			-- emoji: evil name: 邪恶
-			"evil",
+			-- emoji: Bigfoot_evil name: 邪恶
+			"Bigfoot_evil",
 		},
 		["声泪俱下"] = {
-			-- emoji: tear name: 流泪
-			"tear",
+			-- emoji: Bigfoot_tear name: 流泪
+			"Bigfoot_tear",
 		},
 		["挂火"] = {
-			-- emoji: angry name: 生气
-			"angry",
+			-- emoji: Bigfoot_angry name: 生气
+			"Bigfoot_angry",
 		},
 		["上火"] = {
-			-- emoji: angry name: 生气
-			"angry",
+			-- emoji: Bigfoot_angry name: 生气
+			"Bigfoot_angry",
 		},
 		["坐困"] = {
-			-- emoji: embarrass name: 尴尬
-			"embarrass",
+			-- emoji: Bigfoot_embarrass name: 尴尬
+			"Bigfoot_embarrass",
 		},
 		["头晕"] = {
-			-- emoji: faint name: 晕
-			"faint",
+			-- emoji: Bigfoot_faint name: 晕
+			"Bigfoot_faint",
 		},
 		["受窘"] = {
-			-- emoji: embarrass name: 尴尬
-			"embarrass",
+			-- emoji: Bigfoot_embarrass name: 尴尬
+			"Bigfoot_embarrass",
 		},
 		["喊叫"] = {
-			-- emoji: shout name: 喊
-			"shout",
+			-- emoji: Bigfoot_shout name: 喊
+			"Bigfoot_shout",
 		},
 		["无辜"] = {
-			-- emoji: innocent name: 无辜
-			"innocent",
+			-- emoji: Bigfoot_innocent name: 无辜
+			"Bigfoot_innocent",
 		},
 		["迷人"] = {
-			-- emoji: cute name: 可爱
-			"cute",
+			-- emoji: Bigfoot_cute name: 可爱
+			"Bigfoot_cute",
 		},
 		["动武"] = {
-			-- emoji: fight name: 打架
-			"fight",
+			-- emoji: Bigfoot_fight name: 打架
+			"Bigfoot_fight",
 		},
 		["空想"] = {
-			-- emoji: dreamsmile name: 美梦
-			"dreamsmile",
+			-- emoji: Bigfoot_dreamsmile name: 美梦
+			"Bigfoot_dreamsmile",
 		},
 		["曲剧"] = {
-			-- emoji: tears name: 悲剧
-			"tears",
+			-- emoji: Bigfoot_tears name: 悲剧
+			"Bigfoot_tears",
 		},
 		["轻视"] = {
-			-- emoji: despise name: 鄙视
-			"despise",
+			-- emoji: Bigfoot_despise name: 鄙视
+			"Bigfoot_despise",
 		},
 		["抱屈"] = {
-			-- emoji: wronged name: 委屈
-			"wronged",
+			-- emoji: Bigfoot_wronged name: 委屈
+			"Bigfoot_wronged",
 		},
 		["蹙眉"] = {
-			-- emoji: frown name: 皱眉
-			"frown",
+			-- emoji: Bigfoot_frown name: 皱眉
+			"Bigfoot_frown",
 		},
 		["砸锅"] = {
-			-- emoji: surrender name: 失败
-			"surrender",
+			-- emoji: Bigfoot_surrender name: 失败
+			"Bigfoot_surrender",
 		},
 		["心"] = {
-			-- emoji: heart name: 心
-			"heart",
+			-- emoji: Bigfoot_heart name: 心
+			"Bigfoot_heart",
 		},
 		["惦念"] = {
-			-- emoji: think name: 想
-			"think",
+			-- emoji: Bigfoot_think name: 想
+			"Bigfoot_think",
 		},
 		["羞涩"] = {
-			-- emoji: shy name: 害羞
-			"shy",
+			-- emoji: Bigfoot_shy name: 害羞
+			"Bigfoot_shy",
 		},
 		["流泪"] = {
-			-- emoji: tear name: 流泪
-			"tear",
+			-- emoji: Bigfoot_tear name: 流泪
+			"Bigfoot_tear",
 		},
 		["横暴"] = {
-			-- emoji: evil name: 邪恶
-			"evil",
+			-- emoji: Bigfoot_evil name: 邪恶
+			"Bigfoot_evil",
 		},
 		["就寝"] = {
-			-- emoji: sleep name: 睡觉
-			"sleep",
+			-- emoji: Bigfoot_sleep name: 睡觉
+			"Bigfoot_sleep",
 		},
 		["战胜"] = {
-			-- emoji: victory name: 胜利
-			"victory",
+			-- emoji: Bigfoot_victory name: 胜利
+			"Bigfoot_victory",
 		},
 		["上床"] = {
-			-- emoji: sleep name: 睡觉
-			"sleep",
+			-- emoji: Bigfoot_sleep name: 睡觉
+			"Bigfoot_sleep",
 		},
 		["取胜"] = {
-			-- emoji: victory name: 胜利
-			"victory",
+			-- emoji: Bigfoot_victory name: 胜利
+			"Bigfoot_victory",
 		},
 		["为难"] = {
-			-- emoji: embarrass name: 尴尬
-			"embarrass",
+			-- emoji: Bigfoot_embarrass name: 尴尬
+			"Bigfoot_embarrass",
 		},
 		["打架"] = {
-			-- emoji: fight name: 打架
-			"fight",
+			-- emoji: Bigfoot_fight name: 打架
+			"Bigfoot_fight",
 		},
 		["鄙俗"] = {
-			-- emoji: ugly name: 猥琐
-			"ugly",
+			-- emoji: Bigfoot_ugly name: 猥琐
+			"Bigfoot_ugly",
 		},
 		["有病"] = {
-			-- emoji: ill name: 生病
-			"ill",
+			-- emoji: Bigfoot_ill name: 生病
+			"Bigfoot_ill",
 		},
 		["造诣"] = {
-			-- emoji: kongfu name: 功夫
-			"kongfu",
+			-- emoji: Bigfoot_kongfu name: 功夫
+			"Bigfoot_kongfu",
 		},
 		["幻想"] = {
-			-- emoji: dreamsmile name: 美梦
-			"dreamsmile",
+			-- emoji: Bigfoot_dreamsmile name: 美梦
+			"Bigfoot_dreamsmile",
 		},
 		["汗流浃背"] = {
-			-- emoji: sweat name: 流汗
-			"sweat",
+			-- emoji: Bigfoot_sweat name: 流汗
+			"Bigfoot_sweat",
 		},
 		["功力"] = {
-			-- emoji: kongfu name: 功夫
-			"kongfu",
+			-- emoji: Bigfoot_kongfu name: 功夫
+			"Bigfoot_kongfu",
 		},
 		["俗"] = {
-			-- emoji: ugly name: 猥琐
-			"ugly",
+			-- emoji: Bigfoot_ugly name: 猥琐
+			"Bigfoot_ugly",
 		},
 		["思虑"] = {
-			-- emoji: meditate name: 沉思
-			"meditate",
+			-- emoji: Bigfoot_meditate name: 沉思
+			"Bigfoot_meditate",
 		},
 		["受惊"] = {
-			-- emoji: suprise name: 吃惊
-			"suprise",
+			-- emoji: Bigfoot_suprise name: 吃惊
+			"Bigfoot_suprise",
 		},
 		["分外"] = {
-			-- emoji: cool name: 酷
-			"cool",
-			-- emoji: miserable name: 可怜
-			"miserable",
+			-- emoji: Bigfoot_cool name: 酷
+			"Bigfoot_cool",
+			-- emoji: Bigfoot_miserable name: 可怜
+			"Bigfoot_miserable",
 		},
 		["心头"] = {
-			-- emoji: heart name: 心
-			"heart",
+			-- emoji: Bigfoot_heart name: 心
+			"Bigfoot_heart",
 		},
 		["看轻"] = {
-			-- emoji: despise name: 鄙视
-			"despise",
+			-- emoji: Bigfoot_despise name: 鄙视
+			"Bigfoot_despise",
 		},
 		["挥汗"] = {
-			-- emoji: sweat name: 流汗
-			"sweat",
+			-- emoji: Bigfoot_sweat name: 流汗
+			"Bigfoot_sweat",
 		},
 		["鄙视"] = {
-			-- emoji: despise name: 鄙视
-			"despise",
+			-- emoji: Bigfoot_despise name: 鄙视
+			"Bigfoot_despise",
 		},
 		["心坎"] = {
-			-- emoji: heart name: 心
-			"heart",
+			-- emoji: Bigfoot_heart name: 心
+			"Bigfoot_heart",
 		},
 		["玄想"] = {
-			-- emoji: dreamsmile name: 美梦
-			"dreamsmile",
+			-- emoji: Bigfoot_dreamsmile name: 美梦
+			"Bigfoot_dreamsmile",
 		},
 		["妄想"] = {
-			-- emoji: dreamsmile name: 美梦
-			"dreamsmile",
+			-- emoji: Bigfoot_dreamsmile name: 美梦
+			"Bigfoot_dreamsmile",
 		},
 		["美容"] = {
-			-- emoji: makeup name: 化妆
-			"makeup",
+			-- emoji: Bigfoot_makeup name: 化妆
+			"Bigfoot_makeup",
 		},
 		["藐视"] = {
-			-- emoji: despise name: 鄙视
-			"despise",
+			-- emoji: Bigfoot_despise name: 鄙视
+			"Bigfoot_despise",
 		},
 		["致敬"] = {
-			-- emoji: greet name: 致敬
-			"greet",
+			-- emoji: Bigfoot_greet name: 致敬
+			"Bigfoot_greet",
 		},
 		["打哈哈"] = {
-			-- emoji: happy name: 开心
-			"happy",
+			-- emoji: Bigfoot_happy name: 开心
+			"Bigfoot_happy",
 		},
 		["傻眼"] = {
-			-- emoji: freeze name: 呆
-			"freeze",
+			-- emoji: Bigfoot_freeze name: 呆
+			"Bigfoot_freeze",
 		},
 		["鼓劲"] = {
-			-- emoji: excited name: 兴奋
-			"excited",
+			-- emoji: Bigfoot_excited name: 兴奋
+			"Bigfoot_excited",
 		},
 		["戏谑"] = {
-			-- emoji: happy name: 开心
-			"happy",
+			-- emoji: Bigfoot_happy name: 开心
+			"Bigfoot_happy",
 		},
 		["愁眉不展"] = {
-			-- emoji: frown name: 皱眉
-			"frown",
+			-- emoji: Bigfoot_frown name: 皱眉
+			"Bigfoot_frown",
 		},
 		["流感"] = {
-			-- emoji: flu name: 流感
-			"flu",
+			-- emoji: Bigfoot_flu name: 流感
+			"Bigfoot_flu",
 		},
 		["眉欢眼笑"] = {
-			-- emoji: smile name: 微笑
-			"smile",
+			-- emoji: Bigfoot_smile name: 微笑
+			"Bigfoot_smile",
 		},
 		["问候"] = {
-			-- emoji: greet name: 致敬
-			"greet",
+			-- emoji: Bigfoot_greet name: 致敬
+			"Bigfoot_greet",
 		},
 		["悲剧"] = {
-			-- emoji: tears name: 悲剧
-			"tears",
+			-- emoji: Bigfoot_tears name: 悲剧
+			"Bigfoot_tears",
 		},
 		["潸然泪下"] = {
-			-- emoji: tear name: 流泪
-			"tear",
+			-- emoji: Bigfoot_tear name: 流泪
+			"Bigfoot_tear",
 		},
 		["怀念"] = {
-			-- emoji: think name: 想
-			"think",
+			-- emoji: Bigfoot_think name: 想
+			"Bigfoot_think",
 		},
 		["仰天大笑"] = {
-			-- emoji: biglaugh name: 大笑
-			"biglaugh",
+			-- emoji: Bigfoot_biglaugh name: 大笑
+			"Bigfoot_biglaugh",
 		},
 	},
 

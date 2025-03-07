@@ -8,110 +8,110 @@ local pack = {
 	Icon = "Interface\\addOns\\Emoji-Bigfoot\\Icons\\icon.png",
 	IconDir = "Interface\\addOns\\Emoji-Bigfoot\\Icons\\",
 	Icons = {
-		-- emoji: angel
-		["angel"] = "angel.png",
-		-- emoji: angry
-		["angry"] = "angry.png",
-		-- emoji: biglaugh
-		["biglaugh"] = "biglaugh.png",
-		-- emoji: clap
-		["clap"] = "clap.png",
-		-- emoji: cool
-		["cool"] = "cool.png",
-		-- emoji: cry
-		["cry"] = "cry.png",
-		-- emoji: cute
-		["cute"] = "cute.png",
-		-- emoji: despise
-		["despise"] = "despise.png",
-		-- emoji: dreamsmile
-		["dreamsmile"] = "dreamsmile.png",
-		-- emoji: embarrass
-		["embarrass"] = "embarrass.png",
-		-- emoji: evil
-		["evil"] = "evil.png",
-		-- emoji: excited
-		["excited"] = "excited.png",
-		-- emoji: faint
-		["faint"] = "faint.png",
-		-- emoji: fight
-		["fight"] = "fight.png",
-		-- emoji: flu
-		["flu"] = "flu.png",
-		-- emoji: freeze
-		["freeze"] = "freeze.png",
-		-- emoji: frown
-		["frown"] = "frown.png",
-		-- emoji: greet
-		["greet"] = "greet.png",
-		-- emoji: grimace
-		["grimace"] = "grimace.png",
-		-- emoji: growl
-		["growl"] = "growl.png",
-		-- emoji: happy
-		["happy"] = "happy.png",
-		-- emoji: heart
-		["heart"] = "heart.png",
-		-- emoji: horror
-		["horror"] = "horror.png",
-		-- emoji: ill
-		["ill"] = "ill.png",
-		-- emoji: innocent
-		["innocent"] = "innocent.png",
-		-- emoji: kongfu
-		["kongfu"] = "kongfu.png",
-		-- emoji: love
-		["love"] = "love.png",
-		-- emoji: mail
-		["mail"] = "mail.png",
-		-- emoji: makeup
-		["makeup"] = "makeup.png",
-		-- emoji: mario
-		["mario"] = "mario.png",
-		-- emoji: meditate
-		["meditate"] = "meditate.png",
-		-- emoji: miserable
-		["miserable"] = "miserable.png",
-		-- emoji: okay
-		["okay"] = "okay.png",
-		-- emoji: pretty
-		["pretty"] = "pretty.png",
-		-- emoji: puke
-		["puke"] = "puke.png",
-		-- emoji: shake
-		["shake"] = "shake.png",
-		-- emoji: shout
-		["shout"] = "shout.png",
-		-- emoji: silent
-		["silent"] = "shuuuu.png",
-		-- emoji: shy
-		["shy"] = "shy.png",
-		-- emoji: sleep
-		["sleep"] = "sleep.png",
-		-- emoji: smile
-		["smile"] = "smile.png",
-		-- emoji: suprise
-		["suprise"] = "suprise.png",
-		-- emoji: surrender
-		["surrender"] = "surrender.png",
-		-- emoji: sweat
-		["sweat"] = "sweat.png",
-		-- emoji: tear
-		["tear"] = "tear.png",
-		-- emoji: tears
-		["tears"] = "tears.png",
-		-- emoji: think
-		["think"] = "think.png",
-		-- emoji: titter
-		["titter"] = "titter.png",
-		-- emoji: ugly
-		["ugly"] = "ugly.png",
-		-- emoji: victory
-		["victory"] = "victory.png",
-		-- emoji: volunteer
-		["volunteer"] = "volunteer.png",
-		-- emoji: wronged
-		["wronged"] = "wronged.png",
+		-- emoji: Bigfoot_angel
+		["Bigfoot_angel"] = "angel.png",
+		-- emoji: Bigfoot_angry
+		["Bigfoot_angry"] = "angry.png",
+		-- emoji: Bigfoot_biglaugh
+		["Bigfoot_biglaugh"] = "biglaugh.png",
+		-- emoji: Bigfoot_clap
+		["Bigfoot_clap"] = "clap.png",
+		-- emoji: Bigfoot_cool
+		["Bigfoot_cool"] = "cool.png",
+		-- emoji: Bigfoot_cry
+		["Bigfoot_cry"] = "cry.png",
+		-- emoji: Bigfoot_cute
+		["Bigfoot_cute"] = "cute.png",
+		-- emoji: Bigfoot_despise
+		["Bigfoot_despise"] = "despise.png",
+		-- emoji: Bigfoot_dreamsmile
+		["Bigfoot_dreamsmile"] = "dreamsmile.png",
+		-- emoji: Bigfoot_embarrass
+		["Bigfoot_embarrass"] = "embarrass.png",
+		-- emoji: Bigfoot_evil
+		["Bigfoot_evil"] = "evil.png",
+		-- emoji: Bigfoot_excited
+		["Bigfoot_excited"] = "excited.png",
+		-- emoji: Bigfoot_faint
+		["Bigfoot_faint"] = "faint.png",
+		-- emoji: Bigfoot_fight
+		["Bigfoot_fight"] = "fight.png",
+		-- emoji: Bigfoot_flu
+		["Bigfoot_flu"] = "flu.png",
+		-- emoji: Bigfoot_freeze
+		["Bigfoot_freeze"] = "freeze.png",
+		-- emoji: Bigfoot_frown
+		["Bigfoot_frown"] = "frown.png",
+		-- emoji: Bigfoot_greet
+		["Bigfoot_greet"] = "greet.png",
+		-- emoji: Bigfoot_grimace
+		["Bigfoot_grimace"] = "grimace.png",
+		-- emoji: Bigfoot_growl
+		["Bigfoot_growl"] = "growl.png",
+		-- emoji: Bigfoot_happy
+		["Bigfoot_happy"] = "happy.png",
+		-- emoji: Bigfoot_heart
+		["Bigfoot_heart"] = "heart.png",
+		-- emoji: Bigfoot_horror
+		["Bigfoot_horror"] = "horror.png",
+		-- emoji: Bigfoot_ill
+		["Bigfoot_ill"] = "ill.png",
+		-- emoji: Bigfoot_innocent
+		["Bigfoot_innocent"] = "innocent.png",
+		-- emoji: Bigfoot_kongfu
+		["Bigfoot_kongfu"] = "kongfu.png",
+		-- emoji: Bigfoot_love
+		["Bigfoot_love"] = "love.png",
+		-- emoji: Bigfoot_mail
+		["Bigfoot_mail"] = "mail.png",
+		-- emoji: Bigfoot_makeup
+		["Bigfoot_makeup"] = "makeup.png",
+		-- emoji: Bigfoot_mario
+		["Bigfoot_mario"] = "mario.png",
+		-- emoji: Bigfoot_meditate
+		["Bigfoot_meditate"] = "meditate.png",
+		-- emoji: Bigfoot_miserable
+		["Bigfoot_miserable"] = "miserable.png",
+		-- emoji: Bigfoot_okay
+		["Bigfoot_okay"] = "okay.png",
+		-- emoji: Bigfoot_pretty
+		["Bigfoot_pretty"] = "pretty.png",
+		-- emoji: Bigfoot_puke
+		["Bigfoot_puke"] = "puke.png",
+		-- emoji: Bigfoot_shake
+		["Bigfoot_shake"] = "shake.png",
+		-- emoji: Bigfoot_shout
+		["Bigfoot_shout"] = "shout.png",
+		-- emoji: Bigfoot_silent
+		["Bigfoot_silent"] = "shuuuu.png",
+		-- emoji: Bigfoot_shy
+		["Bigfoot_shy"] = "shy.png",
+		-- emoji: Bigfoot_sleep
+		["Bigfoot_sleep"] = "sleep.png",
+		-- emoji: Bigfoot_smile
+		["Bigfoot_smile"] = "smile.png",
+		-- emoji: Bigfoot_suprise
+		["Bigfoot_suprise"] = "suprise.png",
+		-- emoji: Bigfoot_surrender
+		["Bigfoot_surrender"] = "surrender.png",
+		-- emoji: Bigfoot_sweat
+		["Bigfoot_sweat"] = "sweat.png",
+		-- emoji: Bigfoot_tear
+		["Bigfoot_tear"] = "tear.png",
+		-- emoji: Bigfoot_tears
+		["Bigfoot_tears"] = "tears.png",
+		-- emoji: Bigfoot_think
+		["Bigfoot_think"] = "think.png",
+		-- emoji: Bigfoot_titter
+		["Bigfoot_titter"] = "titter.png",
+		-- emoji: Bigfoot_ugly
+		["Bigfoot_ugly"] = "ugly.png",
+		-- emoji: Bigfoot_victory
+		["Bigfoot_victory"] = "victory.png",
+		-- emoji: Bigfoot_volunteer
+		["Bigfoot_volunteer"] = "volunteer.png",
+		-- emoji: Bigfoot_wronged
+		["Bigfoot_wronged"] = "wronged.png",
 	},
 
 	GroupInfo = {
@@ -122,58 +122,58 @@ local pack = {
 			EmojiCount = 52,
 			{
 				EmojiCount = 52,
-				"angel",
-				"angry",
-				"biglaugh",
-				"clap",
-				"cool",
-				"cry",
-				"cute",
-				"despise",
-				"dreamsmile",
-				"embarrass",
-				"evil",
-				"excited",
-				"faint",
-				"fight",
-				"flu",
-				"freeze",
-				"frown",
-				"greet",
-				"grimace",
-				"growl",
-				"happy",
-				"heart",
-				"horror",
-				"ill",
-				"innocent",
-				"kongfu",
-				"love",
-				"mail",
-				"makeup",
-				"mario",
-				"meditate",
-				"miserable",
-				"okay",
-				"pretty",
-				"puke",
-				"shake",
-				"shout",
-				"silent",
-				"shy",
-				"sleep",
-				"smile",
-				"suprise",
-				"surrender",
-				"sweat",
-				"tear",
-				"tears",
-				"think",
-				"titter",
-				"ugly",
-				"victory",
-				"volunteer",
-				"wronged",
+				"Bigfoot_angel",
+				"Bigfoot_angry",
+				"Bigfoot_biglaugh",
+				"Bigfoot_clap",
+				"Bigfoot_cool",
+				"Bigfoot_cry",
+				"Bigfoot_cute",
+				"Bigfoot_despise",
+				"Bigfoot_dreamsmile",
+				"Bigfoot_embarrass",
+				"Bigfoot_evil",
+				"Bigfoot_excited",
+				"Bigfoot_faint",
+				"Bigfoot_fight",
+				"Bigfoot_flu",
+				"Bigfoot_freeze",
+				"Bigfoot_frown",
+				"Bigfoot_greet",
+				"Bigfoot_grimace",
+				"Bigfoot_growl",
+				"Bigfoot_happy",
+				"Bigfoot_heart",
+				"Bigfoot_horror",
+				"Bigfoot_ill",
+				"Bigfoot_innocent",
+				"Bigfoot_kongfu",
+				"Bigfoot_love",
+				"Bigfoot_mail",
+				"Bigfoot_makeup",
+				"Bigfoot_mario",
+				"Bigfoot_meditate",
+				"Bigfoot_miserable",
+				"Bigfoot_okay",
+				"Bigfoot_pretty",
+				"Bigfoot_puke",
+				"Bigfoot_shake",
+				"Bigfoot_shout",
+				"Bigfoot_silent",
+				"Bigfoot_shy",
+				"Bigfoot_sleep",
+				"Bigfoot_smile",
+				"Bigfoot_suprise",
+				"Bigfoot_surrender",
+				"Bigfoot_sweat",
+				"Bigfoot_tear",
+				"Bigfoot_tears",
+				"Bigfoot_think",
+				"Bigfoot_titter",
+				"Bigfoot_ugly",
+				"Bigfoot_victory",
+				"Bigfoot_volunteer",
+				"Bigfoot_wronged",
 			},
 
 		},
@@ -183,220 +183,220 @@ local pack = {
 	-- ========================  key to shortcode =========================
 	-- ====================================================================
 	KeyToShortcode = {
-		-- emoji:angel
-		["angel"] = "angel",
-		-- emoji:angry
-		["angry"] = "angry",
-		-- emoji:biglaugh
-		["biglaugh"] = "biglaugh",
-		-- emoji:clap
-		["clap"] = "clap",
-		-- emoji:cool
-		["cool"] = "cool",
-		-- emoji:cry
-		["cry"] = "cry",
-		-- emoji:cute
-		["cute"] = "cute",
-		-- emoji:despise
-		["despise"] = "despise",
-		-- emoji:dreamsmile
-		["dreamsmile"] = "dreamsmile",
-		-- emoji:embarrass
-		["embarrass"] = "embarrass",
-		-- emoji:evil
-		["evil"] = "evil",
-		-- emoji:excited
-		["excited"] = "excited",
-		-- emoji:faint
-		["faint"] = "faint",
-		-- emoji:fight
-		["fight"] = "fight",
-		-- emoji:flu
-		["flu"] = "flu",
-		-- emoji:freeze
-		["freeze"] = "freeze",
-		-- emoji:frown
-		["frown"] = "frown",
-		-- emoji:greet
-		["greet"] = "greet",
-		-- emoji:grimace
-		["grimace"] = "grimace",
-		-- emoji:growl
-		["growl"] = "growl",
-		-- emoji:happy
-		["happy"] = "happy",
-		-- emoji:heart
-		["heart"] = "heart",
-		-- emoji:horror
-		["horror"] = "horror",
-		-- emoji:ill
-		["ill"] = "ill",
-		-- emoji:innocent
-		["innocent"] = "innocent",
-		-- emoji:kongfu
-		["kongfu"] = "kongfu",
-		-- emoji:love
-		["love"] = "love",
-		-- emoji:mail
-		["mail"] = "mail",
-		-- emoji:makeup
-		["makeup"] = "makeup",
-		-- emoji:mario
-		["mario"] = "mario",
-		-- emoji:meditate
-		["meditate"] = "meditate",
-		-- emoji:miserable
-		["miserable"] = "miserable",
-		-- emoji:okay
-		["okay"] = "okay",
-		-- emoji:pretty
-		["pretty"] = "pretty",
-		-- emoji:puke
-		["puke"] = "puke",
-		-- emoji:shake
-		["shake"] = "shake",
-		-- emoji:shout
-		["shout"] = "shout",
-		-- emoji:silent
-		["silent"] = "silent",
-		-- emoji:shy
-		["shy"] = "shy",
-		-- emoji:sleep
-		["sleep"] = "sleep",
-		-- emoji:smile
-		["smile"] = "smile",
-		-- emoji:suprise
-		["suprise"] = "suprise",
-		-- emoji:surrender
-		["surrender"] = "surrender",
-		-- emoji:sweat
-		["sweat"] = "sweat",
-		-- emoji:tear
-		["tear"] = "tear",
-		-- emoji:tears
-		["tears"] = "tears",
-		-- emoji:think
-		["think"] = "think",
-		-- emoji:titter
-		["titter"] = "titter",
-		-- emoji:ugly
-		["ugly"] = "ugly",
-		-- emoji:victory
-		["victory"] = "victory",
-		-- emoji:volunteer
-		["volunteer"] = "volunteer",
-		-- emoji:wronged
-		["wronged"] = "wronged",
+		-- emoji:Bigfoot_angel
+		["Bigfoot_angel"] = "angel",
+		-- emoji:Bigfoot_angry
+		["Bigfoot_angry"] = "angry",
+		-- emoji:Bigfoot_biglaugh
+		["Bigfoot_biglaugh"] = "biglaugh",
+		-- emoji:Bigfoot_clap
+		["Bigfoot_clap"] = "clap",
+		-- emoji:Bigfoot_cool
+		["Bigfoot_cool"] = "cool",
+		-- emoji:Bigfoot_cry
+		["Bigfoot_cry"] = "cry",
+		-- emoji:Bigfoot_cute
+		["Bigfoot_cute"] = "cute",
+		-- emoji:Bigfoot_despise
+		["Bigfoot_despise"] = "despise",
+		-- emoji:Bigfoot_dreamsmile
+		["Bigfoot_dreamsmile"] = "dreamsmile",
+		-- emoji:Bigfoot_embarrass
+		["Bigfoot_embarrass"] = "embarrass",
+		-- emoji:Bigfoot_evil
+		["Bigfoot_evil"] = "evil",
+		-- emoji:Bigfoot_excited
+		["Bigfoot_excited"] = "excited",
+		-- emoji:Bigfoot_faint
+		["Bigfoot_faint"] = "faint",
+		-- emoji:Bigfoot_fight
+		["Bigfoot_fight"] = "fight",
+		-- emoji:Bigfoot_flu
+		["Bigfoot_flu"] = "flu",
+		-- emoji:Bigfoot_freeze
+		["Bigfoot_freeze"] = "freeze",
+		-- emoji:Bigfoot_frown
+		["Bigfoot_frown"] = "frown",
+		-- emoji:Bigfoot_greet
+		["Bigfoot_greet"] = "greet",
+		-- emoji:Bigfoot_grimace
+		["Bigfoot_grimace"] = "grimace",
+		-- emoji:Bigfoot_growl
+		["Bigfoot_growl"] = "growl",
+		-- emoji:Bigfoot_happy
+		["Bigfoot_happy"] = "happy",
+		-- emoji:Bigfoot_heart
+		["Bigfoot_heart"] = "heart",
+		-- emoji:Bigfoot_horror
+		["Bigfoot_horror"] = "horror",
+		-- emoji:Bigfoot_ill
+		["Bigfoot_ill"] = "ill",
+		-- emoji:Bigfoot_innocent
+		["Bigfoot_innocent"] = "innocent",
+		-- emoji:Bigfoot_kongfu
+		["Bigfoot_kongfu"] = "kongfu",
+		-- emoji:Bigfoot_love
+		["Bigfoot_love"] = "love",
+		-- emoji:Bigfoot_mail
+		["Bigfoot_mail"] = "mail",
+		-- emoji:Bigfoot_makeup
+		["Bigfoot_makeup"] = "makeup",
+		-- emoji:Bigfoot_mario
+		["Bigfoot_mario"] = "mario",
+		-- emoji:Bigfoot_meditate
+		["Bigfoot_meditate"] = "meditate",
+		-- emoji:Bigfoot_miserable
+		["Bigfoot_miserable"] = "miserable",
+		-- emoji:Bigfoot_okay
+		["Bigfoot_okay"] = "okay",
+		-- emoji:Bigfoot_pretty
+		["Bigfoot_pretty"] = "pretty",
+		-- emoji:Bigfoot_puke
+		["Bigfoot_puke"] = "puke",
+		-- emoji:Bigfoot_shake
+		["Bigfoot_shake"] = "shake",
+		-- emoji:Bigfoot_shout
+		["Bigfoot_shout"] = "shout",
+		-- emoji:Bigfoot_silent
+		["Bigfoot_silent"] = "silent",
+		-- emoji:Bigfoot_shy
+		["Bigfoot_shy"] = "shy",
+		-- emoji:Bigfoot_sleep
+		["Bigfoot_sleep"] = "sleep",
+		-- emoji:Bigfoot_smile
+		["Bigfoot_smile"] = "smile",
+		-- emoji:Bigfoot_suprise
+		["Bigfoot_suprise"] = "suprise",
+		-- emoji:Bigfoot_surrender
+		["Bigfoot_surrender"] = "surrender",
+		-- emoji:Bigfoot_sweat
+		["Bigfoot_sweat"] = "sweat",
+		-- emoji:Bigfoot_tear
+		["Bigfoot_tear"] = "tear",
+		-- emoji:Bigfoot_tears
+		["Bigfoot_tears"] = "tears",
+		-- emoji:Bigfoot_think
+		["Bigfoot_think"] = "think",
+		-- emoji:Bigfoot_titter
+		["Bigfoot_titter"] = "titter",
+		-- emoji:Bigfoot_ugly
+		["Bigfoot_ugly"] = "ugly",
+		-- emoji:Bigfoot_victory
+		["Bigfoot_victory"] = "victory",
+		-- emoji:Bigfoot_volunteer
+		["Bigfoot_volunteer"] = "volunteer",
+		-- emoji:Bigfoot_wronged
+		["Bigfoot_wronged"] = "wronged",
 	},
 
 	-- ====================================================================
 	-- ======================= short code(s) to key =======================
 	-- ====================================================================
 	ShortcodesToKey = {
-		-- emoji:angel
-		["angel"] = "angel",
-		-- emoji:angry
-		["angry"] = "angry",
-		-- emoji:biglaugh
-		["biglaugh"] = "biglaugh",
-		-- emoji:clap
-		["clap"] = "clap",
-		-- emoji:cool
-		["cool"] = "cool",
-		-- emoji:cry
-		["cry"] = "cry",
-		-- emoji:cute
-		["cute"] = "cute",
-		-- emoji:despise
-		["despise"] = "despise",
-		-- emoji:dreamsmile
-		["dreamsmile"] = "dreamsmile",
-		-- emoji:embarrass
-		["embarrass"] = "embarrass",
-		-- emoji:evil
-		["evil"] = "evil",
-		-- emoji:excited
-		["excited"] = "excited",
-		-- emoji:faint
-		["faint"] = "faint",
-		-- emoji:fight
-		["fight"] = "fight",
-		-- emoji:flu
-		["flu"] = "flu",
-		-- emoji:freeze
-		["freeze"] = "freeze",
-		-- emoji:frown
-		["frown"] = "frown",
-		-- emoji:greet
-		["greet"] = "greet",
-		-- emoji:grimace
-		["grimace"] = "grimace",
-		-- emoji:growl
-		["growl"] = "growl",
-		-- emoji:happy
-		["happy"] = "happy",
-		-- emoji:heart
-		["heart"] = "heart",
-		-- emoji:horror
-		["horror"] = "horror",
-		-- emoji:ill
-		["ill"] = "ill",
-		-- emoji:innocent
-		["innocent"] = "innocent",
-		-- emoji:kongfu
-		["kongfu"] = "kongfu",
-		-- emoji:love
-		["love"] = "love",
-		-- emoji:mail
-		["mail"] = "mail",
-		-- emoji:makeup
-		["makeup"] = "makeup",
-		-- emoji:mario
-		["mario"] = "mario",
-		-- emoji:meditate
-		["meditate"] = "meditate",
-		-- emoji:miserable
-		["miserable"] = "miserable",
-		-- emoji:okay
-		["okay"] = "okay",
-		-- emoji:pretty
-		["pretty"] = "pretty",
-		-- emoji:puke
-		["puke"] = "puke",
-		-- emoji:shake
-		["shake"] = "shake",
-		-- emoji:shout
-		["shout"] = "shout",
-		-- emoji:silent
-		["silent"] = "silent",
-		-- emoji:shy
-		["shy"] = "shy",
-		-- emoji:sleep
-		["sleep"] = "sleep",
-		-- emoji:smile
-		["smile"] = "smile",
-		-- emoji:suprise
-		["suprise"] = "suprise",
-		-- emoji:surrender
-		["surrender"] = "surrender",
-		-- emoji:sweat
-		["sweat"] = "sweat",
-		-- emoji:tear
-		["tear"] = "tear",
-		-- emoji:tears
-		["tears"] = "tears",
-		-- emoji:think
-		["think"] = "think",
-		-- emoji:titter
-		["titter"] = "titter",
-		-- emoji:ugly
-		["ugly"] = "ugly",
-		-- emoji:victory
-		["victory"] = "victory",
-		-- emoji:volunteer
-		["volunteer"] = "volunteer",
-		-- emoji:wronged
-		["wronged"] = "wronged",
+		-- emoji:Bigfoot_angel
+		["angel"] = "Bigfoot_angel",
+		-- emoji:Bigfoot_angry
+		["angry"] = "Bigfoot_angry",
+		-- emoji:Bigfoot_biglaugh
+		["biglaugh"] = "Bigfoot_biglaugh",
+		-- emoji:Bigfoot_clap
+		["clap"] = "Bigfoot_clap",
+		-- emoji:Bigfoot_cool
+		["cool"] = "Bigfoot_cool",
+		-- emoji:Bigfoot_cry
+		["cry"] = "Bigfoot_cry",
+		-- emoji:Bigfoot_cute
+		["cute"] = "Bigfoot_cute",
+		-- emoji:Bigfoot_despise
+		["despise"] = "Bigfoot_despise",
+		-- emoji:Bigfoot_dreamsmile
+		["dreamsmile"] = "Bigfoot_dreamsmile",
+		-- emoji:Bigfoot_embarrass
+		["embarrass"] = "Bigfoot_embarrass",
+		-- emoji:Bigfoot_evil
+		["evil"] = "Bigfoot_evil",
+		-- emoji:Bigfoot_excited
+		["excited"] = "Bigfoot_excited",
+		-- emoji:Bigfoot_faint
+		["faint"] = "Bigfoot_faint",
+		-- emoji:Bigfoot_fight
+		["fight"] = "Bigfoot_fight",
+		-- emoji:Bigfoot_flu
+		["flu"] = "Bigfoot_flu",
+		-- emoji:Bigfoot_freeze
+		["freeze"] = "Bigfoot_freeze",
+		-- emoji:Bigfoot_frown
+		["frown"] = "Bigfoot_frown",
+		-- emoji:Bigfoot_greet
+		["greet"] = "Bigfoot_greet",
+		-- emoji:Bigfoot_grimace
+		["grimace"] = "Bigfoot_grimace",
+		-- emoji:Bigfoot_growl
+		["growl"] = "Bigfoot_growl",
+		-- emoji:Bigfoot_happy
+		["happy"] = "Bigfoot_happy",
+		-- emoji:Bigfoot_heart
+		["heart"] = "Bigfoot_heart",
+		-- emoji:Bigfoot_horror
+		["horror"] = "Bigfoot_horror",
+		-- emoji:Bigfoot_ill
+		["ill"] = "Bigfoot_ill",
+		-- emoji:Bigfoot_innocent
+		["innocent"] = "Bigfoot_innocent",
+		-- emoji:Bigfoot_kongfu
+		["kongfu"] = "Bigfoot_kongfu",
+		-- emoji:Bigfoot_love
+		["love"] = "Bigfoot_love",
+		-- emoji:Bigfoot_mail
+		["mail"] = "Bigfoot_mail",
+		-- emoji:Bigfoot_makeup
+		["makeup"] = "Bigfoot_makeup",
+		-- emoji:Bigfoot_mario
+		["mario"] = "Bigfoot_mario",
+		-- emoji:Bigfoot_meditate
+		["meditate"] = "Bigfoot_meditate",
+		-- emoji:Bigfoot_miserable
+		["miserable"] = "Bigfoot_miserable",
+		-- emoji:Bigfoot_okay
+		["okay"] = "Bigfoot_okay",
+		-- emoji:Bigfoot_pretty
+		["pretty"] = "Bigfoot_pretty",
+		-- emoji:Bigfoot_puke
+		["puke"] = "Bigfoot_puke",
+		-- emoji:Bigfoot_shake
+		["shake"] = "Bigfoot_shake",
+		-- emoji:Bigfoot_shout
+		["shout"] = "Bigfoot_shout",
+		-- emoji:Bigfoot_silent
+		["silent"] = "Bigfoot_silent",
+		-- emoji:Bigfoot_shy
+		["shy"] = "Bigfoot_shy",
+		-- emoji:Bigfoot_sleep
+		["sleep"] = "Bigfoot_sleep",
+		-- emoji:Bigfoot_smile
+		["smile"] = "Bigfoot_smile",
+		-- emoji:Bigfoot_suprise
+		["suprise"] = "Bigfoot_suprise",
+		-- emoji:Bigfoot_surrender
+		["surrender"] = "Bigfoot_surrender",
+		-- emoji:Bigfoot_sweat
+		["sweat"] = "Bigfoot_sweat",
+		-- emoji:Bigfoot_tear
+		["tear"] = "Bigfoot_tear",
+		-- emoji:Bigfoot_tears
+		["tears"] = "Bigfoot_tears",
+		-- emoji:Bigfoot_think
+		["think"] = "Bigfoot_think",
+		-- emoji:Bigfoot_titter
+		["titter"] = "Bigfoot_titter",
+		-- emoji:Bigfoot_ugly
+		["ugly"] = "Bigfoot_ugly",
+		-- emoji:Bigfoot_victory
+		["victory"] = "Bigfoot_victory",
+		-- emoji:Bigfoot_volunteer
+		["volunteer"] = "Bigfoot_volunteer",
+		-- emoji:Bigfoot_wronged
+		["wronged"] = "Bigfoot_wronged",
 	},
 
 	-- ====================================================================
@@ -458,7 +458,7 @@ local pack = {
 		ShortcodeCount = 52,
 	},
 
-	["angel"] = {
+	["Bigfoot_angel"] = {
 		Name = "angel",
 		Shortcodes = {
 			"angel",
@@ -473,7 +473,7 @@ local pack = {
 			"Angel Falls",
 		},
 	},
-	["angry"] = {
+	["Bigfoot_angry"] = {
 		Name = "angry",
 		Shortcodes = {
 			"angry",
@@ -486,13 +486,13 @@ local pack = {
 			"wild",
 		},
 	},
-	["biglaugh"] = {
+	["Bigfoot_biglaugh"] = {
 		Name = "biglaugh",
 		Shortcodes = {
 			"biglaugh",
 		},
 	},
-	["clap"] = {
+	["Bigfoot_clap"] = {
 		Name = "clap",
 		Shortcodes = {
 			"clap",
@@ -511,7 +511,7 @@ local pack = {
 			"acclaim",
 		},
 	},
-	["cool"] = {
+	["Bigfoot_cool"] = {
 		Name = "cool",
 		Shortcodes = {
 			"cool",
@@ -535,7 +535,7 @@ local pack = {
 			"hunky-dory",
 		},
 	},
-	["cry"] = {
+	["Bigfoot_cry"] = {
 		Name = "cry",
 		Shortcodes = {
 			"cry",
@@ -563,7 +563,7 @@ local pack = {
 			"blazon out",
 		},
 	},
-	["cute"] = {
+	["Bigfoot_cute"] = {
 		Name = "cute",
 		Shortcodes = {
 			"cute",
@@ -574,7 +574,7 @@ local pack = {
 			"precious",
 		},
 	},
-	["despise"] = {
+	["Bigfoot_despise"] = {
 		Name = "despise",
 		Shortcodes = {
 			"despise",
@@ -586,13 +586,13 @@ local pack = {
 			"disdain",
 		},
 	},
-	["dreamsmile"] = {
+	["Bigfoot_dreamsmile"] = {
 		Name = "dreamsmile",
 		Shortcodes = {
 			"dreamsmile",
 		},
 	},
-	["embarrass"] = {
+	["Bigfoot_embarrass"] = {
 		Name = "embarrass",
 		Shortcodes = {
 			"embarrass",
@@ -608,7 +608,7 @@ local pack = {
 			"stymy",
 		},
 	},
-	["evil"] = {
+	["Bigfoot_evil"] = {
 		Name = "evil",
 		Shortcodes = {
 			"evil",
@@ -625,7 +625,7 @@ local pack = {
 			"malign",
 		},
 	},
-	["excited"] = {
+	["Bigfoot_excited"] = {
 		Name = "excited",
 		Shortcodes = {
 			"excited",
@@ -642,7 +642,7 @@ local pack = {
 			"activated",
 		},
 	},
-	["faint"] = {
+	["Bigfoot_faint"] = {
 		Name = "faint",
 		Shortcodes = {
 			"faint",
@@ -669,7 +669,7 @@ local pack = {
 			"faint-hearted",
 		},
 	},
-	["fight"] = {
+	["Bigfoot_fight"] = {
 		Name = "fight",
 		Shortcodes = {
 			"fight",
@@ -696,7 +696,7 @@ local pack = {
 			"agitate",
 		},
 	},
-	["flu"] = {
+	["Bigfoot_flu"] = {
 		Name = "flu",
 		Shortcodes = {
 			"flu",
@@ -707,7 +707,7 @@ local pack = {
 			"grippe",
 		},
 	},
-	["freeze"] = {
+	["Bigfoot_freeze"] = {
 		Name = "freeze",
 		Shortcodes = {
 			"freeze",
@@ -726,7 +726,7 @@ local pack = {
 			"immobilise",
 		},
 	},
-	["frown"] = {
+	["Bigfoot_frown"] = {
 		Name = "frown",
 		Shortcodes = {
 			"frown",
@@ -739,7 +739,7 @@ local pack = {
 			"lower",
 		},
 	},
-	["greet"] = {
+	["Bigfoot_greet"] = {
 		Name = "greet",
 		Shortcodes = {
 			"greet",
@@ -750,7 +750,7 @@ local pack = {
 			"recognise",
 		},
 	},
-	["grimace"] = {
+	["Bigfoot_grimace"] = {
 		Name = "grimace",
 		Shortcodes = {
 			"grimace",
@@ -762,7 +762,7 @@ local pack = {
 			"pull a face",
 		},
 	},
-	["growl"] = {
+	["Bigfoot_growl"] = {
 		Name = "growl",
 		Shortcodes = {
 			"growl",
@@ -774,7 +774,7 @@ local pack = {
 			"rumble",
 		},
 	},
-	["happy"] = {
+	["Bigfoot_happy"] = {
 		Name = "happy",
 		Shortcodes = {
 			"happy",
@@ -786,7 +786,7 @@ local pack = {
 			"well-chosen",
 		},
 	},
-	["heart"] = {
+	["Bigfoot_heart"] = {
 		Name = "heart",
 		Shortcodes = {
 			"heart",
@@ -826,7 +826,7 @@ local pack = {
 			"philia",
 		},
 	},
-	["horror"] = {
+	["Bigfoot_horror"] = {
 		Name = "horror",
 		Shortcodes = {
 			"horror",
@@ -838,7 +838,7 @@ local pack = {
 			"revulsion",
 		},
 	},
-	["ill"] = {
+	["Bigfoot_ill"] = {
 		Name = "ill",
 		Shortcodes = {
 			"ill",
@@ -854,7 +854,7 @@ local pack = {
 			"poorly",
 		},
 	},
-	["innocent"] = {
+	["Bigfoot_innocent"] = {
 		Name = "innocent",
 		Shortcodes = {
 			"innocent",
@@ -875,13 +875,13 @@ local pack = {
 			"free",
 		},
 	},
-	["kongfu"] = {
+	["Bigfoot_kongfu"] = {
 		Name = "kongfu",
 		Shortcodes = {
 			"kongfu",
 		},
 	},
-	["love"] = {
+	["Bigfoot_love"] = {
 		Name = "love",
 		Shortcodes = {
 			"love",
@@ -925,7 +925,7 @@ local pack = {
 			"bonk",
 		},
 	},
-	["mail"] = {
+	["Bigfoot_mail"] = {
 		Name = "mail",
 		Shortcodes = {
 			"mail",
@@ -945,7 +945,7 @@ local pack = {
 			"send",
 		},
 	},
-	["makeup"] = {
+	["Bigfoot_makeup"] = {
 		Name = "makeup",
 		Shortcodes = {
 			"makeup",
@@ -959,13 +959,13 @@ local pack = {
 			"physical composition",
 		},
 	},
-	["mario"] = {
+	["Bigfoot_mario"] = {
 		Name = "mario",
 		Shortcodes = {
 			"mario",
 		},
 	},
-	["meditate"] = {
+	["Bigfoot_meditate"] = {
 		Name = "meditate",
 		Shortcodes = {
 			"meditate",
@@ -986,7 +986,7 @@ local pack = {
 			"study",
 		},
 	},
-	["miserable"] = {
+	["Bigfoot_miserable"] = {
 		Name = "miserable",
 		Shortcodes = {
 			"miserable",
@@ -1014,7 +1014,7 @@ local pack = {
 			"paltry",
 		},
 	},
-	["okay"] = {
+	["Bigfoot_okay"] = {
 		Name = "okay",
 		Shortcodes = {
 			"okay",
@@ -1036,7 +1036,7 @@ local pack = {
 			"alright",
 		},
 	},
-	["pretty"] = {
+	["Bigfoot_pretty"] = {
 		Name = "pretty",
 		Shortcodes = {
 			"pretty",
@@ -1052,7 +1052,7 @@ local pack = {
 			"passably",
 		},
 	},
-	["puke"] = {
+	["Bigfoot_puke"] = {
 		Name = "puke",
 		Shortcodes = {
 			"puke",
@@ -1092,7 +1092,7 @@ local pack = {
 			"throw up",
 		},
 	},
-	["shake"] = {
+	["Bigfoot_shake"] = {
 		Name = "shake",
 		Shortcodes = {
 			"shake",
@@ -1124,7 +1124,7 @@ local pack = {
 			"escape from",
 		},
 	},
-	["shout"] = {
+	["Bigfoot_shout"] = {
 		Name = "shout",
 		Shortcodes = {
 			"shout",
@@ -1149,7 +1149,7 @@ local pack = {
 			"blackguard",
 		},
 	},
-	["silent"] = {
+	["Bigfoot_silent"] = {
 		Name = "silent",
 		Shortcodes = {
 			"silent",
@@ -1166,7 +1166,7 @@ local pack = {
 			"mute",
 		},
 	},
-	["shy"] = {
+	["Bigfoot_shy"] = {
 		Name = "shy",
 		Shortcodes = {
 			"shy",
@@ -1178,7 +1178,7 @@ local pack = {
 			"unsure",
 		},
 	},
-	["sleep"] = {
+	["Bigfoot_sleep"] = {
 		Name = "sleep",
 		Shortcodes = {
 			"sleep",
@@ -1197,7 +1197,7 @@ local pack = {
 			"catch some Z's",
 		},
 	},
-	["smile"] = {
+	["Bigfoot_smile"] = {
 		Name = "smile",
 		Shortcodes = {
 			"smile",
@@ -1209,13 +1209,13 @@ local pack = {
 			"grinning",
 		},
 	},
-	["suprise"] = {
+	["Bigfoot_suprise"] = {
 		Name = "suprise",
 		Shortcodes = {
 			"suprise",
 		},
 	},
-	["surrender"] = {
+	["Bigfoot_surrender"] = {
 		Name = "surrender",
 		Shortcodes = {
 			"surrender",
@@ -1232,7 +1232,7 @@ local pack = {
 			"deliver",
 		},
 	},
-	["sweat"] = {
+	["Bigfoot_sweat"] = {
 		Name = "sweat",
 		Shortcodes = {
 			"sweat",
@@ -1253,7 +1253,7 @@ local pack = {
 			"perspire",
 		},
 	},
-	["tear"] = {
+	["Bigfoot_tear"] = {
 		Name = "tear",
 		Shortcodes = {
 			"tear",
@@ -1281,7 +1281,7 @@ local pack = {
 			"displume",
 		},
 	},
-	["tears"] = {
+	["Bigfoot_tears"] = {
 		Name = "tears",
 		Shortcodes = {
 			"tears",
@@ -1292,7 +1292,7 @@ local pack = {
 			"tears",
 		},
 	},
-	["think"] = {
+	["Bigfoot_think"] = {
 		Name = "think",
 		Shortcodes = {
 			"think",
@@ -1319,7 +1319,7 @@ local pack = {
 			"mean",
 		},
 	},
-	["titter"] = {
+	["Bigfoot_titter"] = {
 		Name = "titter",
 		Shortcodes = {
 			"titter",
@@ -1329,7 +1329,7 @@ local pack = {
 			"giggle",
 		},
 	},
-	["ugly"] = {
+	["Bigfoot_ugly"] = {
 		Name = "ugly",
 		Shortcodes = {
 			"ugly",
@@ -1349,7 +1349,7 @@ local pack = {
 			"horrible",
 		},
 	},
-	["victory"] = {
+	["Bigfoot_victory"] = {
 		Name = "victory",
 		Shortcodes = {
 			"victory",
@@ -1359,7 +1359,7 @@ local pack = {
 			"triumph",
 		},
 	},
-	["volunteer"] = {
+	["Bigfoot_volunteer"] = {
 		Name = "volunteer",
 		Shortcodes = {
 			"volunteer",
@@ -1375,7 +1375,7 @@ local pack = {
 			"unpaid",
 		},
 	},
-	["wronged"] = {
+	["Bigfoot_wronged"] = {
 		Name = "wronged",
 		Shortcodes = {
 			"wronged",
@@ -1880,2026 +1880,2026 @@ local pack = {
 
 	KeywordIndexes = {
 		["vague"] = {
-			-- emoji: faint name: faint
-			"faint",
+			-- emoji: Bigfoot_faint name: faint
+			"Bigfoot_faint",
 		},
 		["dearest"] = {
-			-- emoji: love name: love
-			"love",
+			-- emoji: Bigfoot_love name: love
+			"Bigfoot_love",
 		},
 		["crusade"] = {
-			-- emoji: fight name: fight
-			"fight",
+			-- emoji: Bigfoot_fight name: fight
+			"Bigfoot_fight",
 		},
 		["innocent"] = {
-			-- emoji: innocent name: innocent
-			"innocent",
+			-- emoji: Bigfoot_innocent name: innocent
+			"Bigfoot_innocent",
 		},
 		["worked up"] = {
-			-- emoji: excited name: excited
-			"excited",
+			-- emoji: Bigfoot_excited name: excited
+			"Bigfoot_excited",
 		},
 		["bam"] = {
-			-- emoji: clap name: clap
-			"clap",
+			-- emoji: Bigfoot_clap name: clap
+			"Bigfoot_clap",
 		},
 		["rupture"] = {
-			-- emoji: tear name: tear
-			"tear",
+			-- emoji: Bigfoot_tear name: tear
+			"Bigfoot_tear",
 		},
 		["opine"] = {
-			-- emoji: think name: think
-			"think",
+			-- emoji: Bigfoot_think name: think
+			"Bigfoot_think",
 		},
 		["offer"] = {
-			-- emoji: volunteer name: volunteer
-			"volunteer",
+			-- emoji: Bigfoot_volunteer name: volunteer
+			"Bigfoot_volunteer",
 		},
 		["poor"] = {
-			-- emoji: miserable name: miserable
-			"miserable",
+			-- emoji: Bigfoot_miserable name: miserable
+			"Bigfoot_miserable",
 		},
 		["scorn"] = {
-			-- emoji: despise name: despise
-			"despise",
+			-- emoji: Bigfoot_despise name: despise
+			"Bigfoot_despise",
 		},
 		["have sex"] = {
-			-- emoji: love name: love
-			"love",
+			-- emoji: Bigfoot_love name: love
+			"Bigfoot_love",
 		},
 		["execrable"] = {
-			-- emoji: miserable name: miserable
-			"miserable",
+			-- emoji: Bigfoot_miserable name: miserable
+			"Bigfoot_miserable",
 		},
 		["rat"] = {
-			-- emoji: puke name: puke
-			"puke",
+			-- emoji: Bigfoot_puke name: puke
+			"Bigfoot_puke",
 		},
 		["excited"] = {
-			-- emoji: excited name: excited
-			"excited",
+			-- emoji: Bigfoot_excited name: excited
+			"Bigfoot_excited",
 		},
 		["military volunteer"] = {
-			-- emoji: volunteer name: volunteer
-			"volunteer",
+			-- emoji: Bigfoot_volunteer name: volunteer
+			"Bigfoot_volunteer",
 		},
 		["Angel"] = {
-			-- emoji: angel name: angel
-			"angel",
+			-- emoji: Bigfoot_angel name: angel
+			"Bigfoot_angel",
 		},
 		["fairly"] = {
-			-- emoji: pretty name: pretty
-			"pretty",
+			-- emoji: Bigfoot_pretty name: pretty
+			"Bigfoot_pretty",
 		},
 		["have it away"] = {
-			-- emoji: love name: love
-			"love",
+			-- emoji: Bigfoot_love name: love
+			"Bigfoot_love",
 		},
 		["excogitate"] = {
-			-- emoji: meditate name: meditate
-			"meditate",
+			-- emoji: Bigfoot_meditate name: meditate
+			"Bigfoot_meditate",
 		},
 		["regorge"] = {
-			-- emoji: puke name: puke
-			"puke",
+			-- emoji: Bigfoot_puke name: puke
+			"Bigfoot_puke",
 		},
 		["angry"] = {
-			-- emoji: angry name: angry
-			"angry",
+			-- emoji: Bigfoot_angry name: angry
+			"Bigfoot_angry",
 		},
 		["ailment"] = {
-			-- emoji: ill name: ill
-			"ill",
+			-- emoji: Bigfoot_ill name: ill
+			"Bigfoot_ill",
 		},
 		["sleep together"] = {
-			-- emoji: love name: love
-			"love",
+			-- emoji: Bigfoot_love name: love
+			"Bigfoot_love",
 		},
 		["marrow"] = {
-			-- emoji: heart name: heart
-			"heart",
+			-- emoji: Bigfoot_heart name: heart
+			"Bigfoot_heart",
 		},
 		["cool down"] = {
-			-- emoji: cool name: cool
-			"cool",
+			-- emoji: Bigfoot_cool name: cool
+			"Bigfoot_cool",
 		},
 		["guess"] = {
-			-- emoji: think name: think
-			"think",
+			-- emoji: Bigfoot_think name: think
+			"Bigfoot_think",
 		},
 		["have it off"] = {
-			-- emoji: love name: love
-			"love",
+			-- emoji: Bigfoot_love name: love
+			"Bigfoot_love",
 		},
 		["scum bag"] = {
-			-- emoji: puke name: puke
-			"puke",
+			-- emoji: Bigfoot_puke name: puke
+			"Bigfoot_puke",
 		},
 		["frantic"] = {
-			-- emoji: excited name: excited
-			"excited",
+			-- emoji: Bigfoot_excited name: excited
+			"Bigfoot_excited",
 		},
 		["throw off"] = {
-			-- emoji: shake name: shake
-			"shake",
+			-- emoji: Bigfoot_shake name: shake
+			"Bigfoot_shake",
 		},
 		["poorly"] = {
-			-- emoji: ill name: ill
-			"ill",
+			-- emoji: Bigfoot_ill name: ill
+			"Bigfoot_ill",
 		},
 		["poise"] = {
-			-- emoji: cool name: cool
-			"cool",
+			-- emoji: Bigfoot_cool name: cool
+			"Bigfoot_cool",
 		},
 		["abuse"] = {
-			-- emoji: shout name: shout
-			"shout",
+			-- emoji: Bigfoot_shout name: shout
+			"Bigfoot_shout",
 		},
 		["essence"] = {
-			-- emoji: heart name: heart
-			"heart",
+			-- emoji: Bigfoot_heart name: heart
+			"Bigfoot_heart",
 		},
 		["shiver"] = {
-			-- emoji: shake name: shake
-			"shake",
+			-- emoji: Bigfoot_shake name: shake
+			"Bigfoot_shake",
 		},
 		["resignation"] = {
-			-- emoji: surrender name: surrender
-			"surrender",
+			-- emoji: Bigfoot_surrender name: surrender
+			"Bigfoot_surrender",
 		},
 		["cede"] = {
-			-- emoji: surrender name: surrender
-			"surrender",
+			-- emoji: Bigfoot_surrender name: surrender
+			"Bigfoot_surrender",
 		},
 		["make out"] = {
-			-- emoji: love name: love
-			"love",
+			-- emoji: Bigfoot_love name: love
+			"Bigfoot_love",
 		},
 		["deliquium"] = {
-			-- emoji: faint name: faint
-			"faint",
+			-- emoji: Bigfoot_faint name: faint
+			"Bigfoot_faint",
 		},
 		["sleep"] = {
-			-- emoji: sleep name: sleep
-			"sleep",
+			-- emoji: Bigfoot_sleep name: sleep
+			"Bigfoot_sleep",
 		},
 		["pitiable"] = {
-			-- emoji: miserable name: miserable
-			"miserable",
+			-- emoji: Bigfoot_miserable name: miserable
+			"Bigfoot_miserable",
 		},
 		["sang-froid"] = {
-			-- emoji: cool name: cool
-			"cool",
+			-- emoji: Bigfoot_cool name: cool
+			"Bigfoot_cool",
 		},
 		["crumb"] = {
-			-- emoji: puke name: puke
-			"puke",
+			-- emoji: Bigfoot_puke name: puke
+			"Bigfoot_puke",
 		},
 		["composition"] = {
-			-- emoji: makeup name: makeup
-			"makeup",
+			-- emoji: Bigfoot_makeup name: makeup
+			"Bigfoot_makeup",
 		},
 		["slimy"] = {
-			-- emoji: ugly name: ugly
-			"ugly",
+			-- emoji: Bigfoot_ugly name: ugly
+			"Bigfoot_ugly",
 		},
 		["dear"] = {
-			-- emoji: love name: love
-			"love",
+			-- emoji: Bigfoot_love name: love
+			"Bigfoot_love",
 		},
 		["immobilize"] = {
-			-- emoji: freeze name: freeze
-			"freeze",
+			-- emoji: Bigfoot_freeze name: freeze
+			"Bigfoot_freeze",
 		},
 		["saint"] = {
-			-- emoji: angel name: angel
-			"angel",
+			-- emoji: Bigfoot_angel name: angel
+			"Bigfoot_angel",
 		},
 		["charge"] = {
-			-- emoji: tear name: tear
-			"tear",
+			-- emoji: Bigfoot_tear name: tear
+			"Bigfoot_tear",
 		},
 		["kernel"] = {
-			-- emoji: heart name: heart
-			"heart",
+			-- emoji: Bigfoot_heart name: heart
+			"Bigfoot_heart",
 		},
 		["emotional"] = {
-			-- emoji: excited name: excited
-			"excited",
+			-- emoji: Bigfoot_excited name: excited
+			"Bigfoot_excited",
 		},
 		["stop dead"] = {
-			-- emoji: freeze name: freeze
-			"freeze",
+			-- emoji: Bigfoot_freeze name: freeze
+			"Bigfoot_freeze",
 		},
 		["weeping"] = {
-			-- emoji: tears name: tears
-			"tears",
+			-- emoji: Bigfoot_tears name: tears
+			"Bigfoot_tears",
 		},
 		["log Z's"] = {
-			-- emoji: sleep name: sleep
-			"sleep",
+			-- emoji: Bigfoot_sleep name: sleep
+			"Bigfoot_sleep",
 		},
 		["flu"] = {
-			-- emoji: flu name: flu
-			"flu",
+			-- emoji: Bigfoot_flu name: flu
+			"Bigfoot_flu",
 		},
 		["blast"] = {
-			-- emoji: clap name: clap
-			"clap",
+			-- emoji: Bigfoot_clap name: clap
+			"Bigfoot_clap",
 		},
 		["disdain"] = {
-			-- emoji: despise name: despise
-			"despise",
+			-- emoji: Bigfoot_despise name: despise
+			"Bigfoot_despise",
 		},
 		["battle"] = {
-			-- emoji: fight name: fight
-			"fight",
+			-- emoji: Bigfoot_fight name: fight
+			"Bigfoot_fight",
 		},
 		["halt"] = {
-			-- emoji: freeze name: freeze
-			"freeze",
+			-- emoji: Bigfoot_freeze name: freeze
+			"Bigfoot_freeze",
 		},
 		["repulsion"] = {
-			-- emoji: horror name: horror
-			"horror",
+			-- emoji: Bigfoot_horror name: horror
+			"Bigfoot_horror",
 		},
 		["give up"] = {
-			-- emoji: surrender name: surrender
-			"surrender",
+			-- emoji: Bigfoot_surrender name: surrender
+			"Bigfoot_surrender",
 		},
 		["holler"] = {
-			-- emoji: cry name: cry
-			"cry",
-			-- emoji: shout name: shout
-			"shout",
+			-- emoji: Bigfoot_cry name: cry
+			"Bigfoot_cry",
+			-- emoji: Bigfoot_shout name: shout
+			"Bigfoot_shout",
 		},
 		["grumble"] = {
-			-- emoji: growl name: growl
-			"growl",
+			-- emoji: Bigfoot_growl name: growl
+			"Bigfoot_growl",
 		},
 		["ruminate"] = {
-			-- emoji: meditate name: meditate
-			"meditate",
+			-- emoji: Bigfoot_meditate name: meditate
+			"Bigfoot_meditate",
 		},
 		["somewhat"] = {
-			-- emoji: pretty name: pretty
-			"pretty",
+			-- emoji: Bigfoot_pretty name: pretty
+			"Bigfoot_pretty",
 		},
 		["eternal rest"] = {
-			-- emoji: sleep name: sleep
-			"sleep",
+			-- emoji: Bigfoot_sleep name: sleep
+			"Bigfoot_sleep",
 		},
 		["bed"] = {
-			-- emoji: love name: love
-			"love",
+			-- emoji: Bigfoot_love name: love
+			"Bigfoot_love",
 		},
 		["passably"] = {
-			-- emoji: pretty name: pretty
-			"pretty",
+			-- emoji: Bigfoot_pretty name: pretty
+			"Bigfoot_pretty",
 		},
 		["misfortunate"] = {
-			-- emoji: miserable name: miserable
-			"miserable",
+			-- emoji: Bigfoot_miserable name: miserable
+			"Bigfoot_miserable",
 		},
 		["chill"] = {
-			-- emoji: cool name: cool
-			"cool",
+			-- emoji: Bigfoot_cool name: cool
+			"Bigfoot_cool",
 		},
 		["teardrop"] = {
-			-- emoji: tear name: tear
-			"tear",
+			-- emoji: Bigfoot_tear name: tear
+			"Bigfoot_tear",
 		},
 		["dim"] = {
-			-- emoji: faint name: faint
-			"faint",
+			-- emoji: Bigfoot_faint name: faint
+			"Bigfoot_faint",
 		},
 		["acclaim"] = {
-			-- emoji: clap name: clap
-			"clap",
+			-- emoji: Bigfoot_clap name: clap
+			"Bigfoot_clap",
 		},
 		["woeful"] = {
-			-- emoji: miserable name: miserable
-			"miserable",
+			-- emoji: Bigfoot_miserable name: miserable
+			"Bigfoot_miserable",
 		},
 		["be sick"] = {
-			-- emoji: puke name: puke
-			"puke",
+			-- emoji: Bigfoot_puke name: puke
+			"Bigfoot_puke",
 		},
 		["heart and soul"] = {
-			-- emoji: heart name: heart
-			"heart",
+			-- emoji: Bigfoot_heart name: heart
+			"Bigfoot_heart",
 		},
 		["wretched"] = {
-			-- emoji: miserable name: miserable
-			"miserable",
-			-- emoji: ugly name: ugly
-			"ugly",
+			-- emoji: Bigfoot_miserable name: miserable
+			"Bigfoot_miserable",
+			-- emoji: Bigfoot_ugly name: ugly
+			"Bigfoot_ugly",
 		},
 		["post"] = {
-			-- emoji: mail name: mail
-			"mail",
+			-- emoji: Bigfoot_mail name: mail
+			"Bigfoot_mail",
 		},
 		["blockade"] = {
-			-- emoji: embarrass name: embarrass
-			"embarrass",
+			-- emoji: Bigfoot_embarrass name: embarrass
+			"Bigfoot_embarrass",
 		},
 		["holy person"] = {
-			-- emoji: angel name: angel
-			"angel",
+			-- emoji: Bigfoot_angel name: angel
+			"Bigfoot_angel",
 		},
 		["faint"] = {
-			-- emoji: faint name: faint
-			"faint",
+			-- emoji: Bigfoot_faint name: faint
+			"Bigfoot_faint",
 		},
 		["lie with"] = {
-			-- emoji: love name: love
-			"love",
+			-- emoji: Bigfoot_love name: love
+			"Bigfoot_love",
 		},
 		["surrender"] = {
-			-- emoji: surrender name: surrender
-			"surrender",
+			-- emoji: Bigfoot_surrender name: surrender
+			"Bigfoot_surrender",
 		},
 		["vicious"] = {
-			-- emoji: evil name: evil
-			"evil",
+			-- emoji: Bigfoot_evil name: evil
+			"Bigfoot_evil",
 		},
 		["think over"] = {
-			-- emoji: meditate name: meditate
-			"meditate",
+			-- emoji: Bigfoot_meditate name: meditate
+			"Bigfoot_meditate",
 		},
 		["fight back"] = {
-			-- emoji: fight name: fight
-			"fight",
+			-- emoji: Bigfoot_fight name: fight
+			"Bigfoot_fight",
 		},
 		["middling"] = {
-			-- emoji: pretty name: pretty
-			"pretty",
+			-- emoji: Bigfoot_pretty name: pretty
+			"Bigfoot_pretty",
 		},
 		["waggle"] = {
-			-- emoji: shake name: shake
-			"shake",
+			-- emoji: Bigfoot_shake name: shake
+			"Bigfoot_shake",
 		},
 		["unsounded"] = {
-			-- emoji: silent name: silent
-			"silent",
+			-- emoji: Bigfoot_silent name: silent
+			"Bigfoot_silent",
 		},
 		["have intercourse"] = {
-			-- emoji: love name: love
-			"love",
+			-- emoji: Bigfoot_love name: love
+			"Bigfoot_love",
 		},
 		["chuck"] = {
-			-- emoji: puke name: puke
-			"puke",
+			-- emoji: Bigfoot_puke name: puke
+			"Bigfoot_puke",
 		},
 		["reckon"] = {
-			-- emoji: think name: think
-			"think",
+			-- emoji: Bigfoot_think name: think
+			"Bigfoot_think",
 		},
 		["influenza"] = {
-			-- emoji: flu name: flu
-			"flu",
+			-- emoji: Bigfoot_flu name: flu
+			"Bigfoot_flu",
 		},
 		["nerveless"] = {
-			-- emoji: cool name: cool
-			"cool",
+			-- emoji: Bigfoot_cool name: cool
+			"Bigfoot_cool",
 		},
 		["growling"] = {
-			-- emoji: growl name: growl
-			"growl",
+			-- emoji: Bigfoot_growl name: growl
+			"Bigfoot_growl",
 		},
 		["clapperclaw"] = {
-			-- emoji: shout name: shout
-			"shout",
+			-- emoji: Bigfoot_shout name: shout
+			"Bigfoot_shout",
 		},
 		["tears"] = {
-			-- emoji: tears name: tears
-			"tears",
+			-- emoji: Bigfoot_tears name: tears
+			"Bigfoot_tears",
 		},
 		["raging"] = {
-			-- emoji: angry name: angry
-			"angry",
+			-- emoji: Bigfoot_angry name: angry
+			"Bigfoot_angry",
 		},
 		["shy"] = {
-			-- emoji: shy name: shy
-			"shy",
+			-- emoji: Bigfoot_shy name: shy
+			"Bigfoot_shy",
 		},
 		["vomit up"] = {
-			-- emoji: puke name: puke
-			"puke",
+			-- emoji: Bigfoot_puke name: puke
+			"Bigfoot_puke",
 		},
 		["catch some Z's"] = {
-			-- emoji: sleep name: sleep
-			"sleep",
+			-- emoji: Bigfoot_sleep name: sleep
+			"Bigfoot_sleep",
 		},
 		["competitiveness"] = {
-			-- emoji: fight name: fight
-			"fight",
+			-- emoji: Bigfoot_fight name: fight
+			"Bigfoot_fight",
 		},
 		["blackguard"] = {
-			-- emoji: shout name: shout
-			"shout",
+			-- emoji: Bigfoot_shout name: shout
+			"Bigfoot_shout",
 		},
 		["make a face"] = {
-			-- emoji: grimace name: grimace
-			"grimace",
+			-- emoji: Bigfoot_grimace name: grimace
+			"Bigfoot_grimace",
 		},
 		["lather"] = {
-			-- emoji: sweat name: sweat
-			"sweat",
+			-- emoji: Bigfoot_sweat name: sweat
+			"Bigfoot_sweat",
 		},
 		["erotic love"] = {
-			-- emoji: love name: love
-			"love",
+			-- emoji: Bigfoot_love name: love
+			"Bigfoot_love",
 		},
 		["titter"] = {
-			-- emoji: titter name: titter
-			"titter",
+			-- emoji: Bigfoot_titter name: titter
+			"Bigfoot_titter",
 		},
 		["battle cry"] = {
-			-- emoji: cry name: cry
-			"cry",
+			-- emoji: Bigfoot_cry name: cry
+			"Bigfoot_cry",
 		},
 		["be intimate"] = {
-			-- emoji: love name: love
-			"love",
+			-- emoji: Bigfoot_love name: love
+			"Bigfoot_love",
 		},
 		["sanction"] = {
-			-- emoji: okay name: okay
-			"okay",
+			-- emoji: Bigfoot_okay name: okay
+			"Bigfoot_okay",
 		},
 		["light-headed"] = {
-			-- emoji: faint name: faint
-			"faint",
+			-- emoji: Bigfoot_faint name: faint
+			"Bigfoot_faint",
 		},
 		["diffident"] = {
-			-- emoji: shy name: shy
-			"shy",
+			-- emoji: Bigfoot_shy name: shy
+			"Bigfoot_shy",
 		},
 		["applaud"] = {
-			-- emoji: clap name: clap
-			"clap",
+			-- emoji: Bigfoot_clap name: clap
+			"Bigfoot_clap",
 		},
 		["contend"] = {
-			-- emoji: fight name: fight
-			"fight",
+			-- emoji: Bigfoot_fight name: fight
+			"Bigfoot_fight",
 		},
 		["tenderness"] = {
-			-- emoji: heart name: heart
-			"heart",
+			-- emoji: Bigfoot_heart name: heart
+			"Bigfoot_heart",
 		},
 		["ticker"] = {
-			-- emoji: heart name: heart
-			"heart",
+			-- emoji: Bigfoot_heart name: heart
+			"Bigfoot_heart",
 		},
 		["contemn"] = {
-			-- emoji: despise name: despise
-			"despise",
+			-- emoji: Bigfoot_despise name: despise
+			"Bigfoot_despise",
 		},
 		["aplomb"] = {
-			-- emoji: cool name: cool
-			"cool",
+			-- emoji: Bigfoot_cool name: cool
+			"Bigfoot_cool",
 		},
 		["victory"] = {
-			-- emoji: victory name: victory
-			"victory",
+			-- emoji: Bigfoot_victory name: victory
+			"Bigfoot_victory",
 		},
 		["fight down"] = {
-			-- emoji: fight name: fight
-			"fight",
+			-- emoji: Bigfoot_fight name: fight
+			"Bigfoot_fight",
 		},
 		["warmheartedness"] = {
-			-- emoji: heart name: heart
-			"heart",
+			-- emoji: Bigfoot_heart name: heart
+			"Bigfoot_heart",
 		},
 		["quietus"] = {
-			-- emoji: sleep name: sleep
-			"sleep",
+			-- emoji: Bigfoot_sleep name: sleep
+			"Bigfoot_sleep",
 		},
 		["complaint"] = {
-			-- emoji: ill name: ill
-			"ill",
+			-- emoji: Bigfoot_ill name: ill
+			"Bigfoot_ill",
 		},
 		["sweat"] = {
-			-- emoji: sweat name: sweat
-			"sweat",
+			-- emoji: Bigfoot_sweat name: sweat
+			"Bigfoot_sweat",
 		},
 		["atrocious"] = {
-			-- emoji: ugly name: ugly
-			"ugly",
+			-- emoji: Bigfoot_ugly name: ugly
+			"Bigfoot_ugly",
 		},
 		["shake off"] = {
-			-- emoji: shake name: shake
-			"shake",
+			-- emoji: Bigfoot_shake name: shake
+			"Bigfoot_shake",
 		},
 		["sopor"] = {
-			-- emoji: sleep name: sleep
-			"sleep",
+			-- emoji: Bigfoot_sleep name: sleep
+			"Bigfoot_sleep",
 		},
 		["love life"] = {
-			-- emoji: love name: love
-			"love",
+			-- emoji: Bigfoot_love name: love
+			"Bigfoot_love",
 		},
 		["deplorable"] = {
-			-- emoji: miserable name: miserable
-			"miserable",
+			-- emoji: Bigfoot_miserable name: miserable
+			"Bigfoot_miserable",
 		},
 		["sick"] = {
-			-- emoji: ill name: ill
-			"ill",
-			-- emoji: puke name: puke
-			"puke",
+			-- emoji: Bigfoot_ill name: ill
+			"Bigfoot_ill",
+			-- emoji: Bigfoot_puke name: puke
+			"Bigfoot_puke",
 		},
 		["unpaid"] = {
-			-- emoji: volunteer name: volunteer
-			"volunteer",
+			-- emoji: Bigfoot_volunteer name: volunteer
+			"Bigfoot_volunteer",
 		},
 		["recognise"] = {
-			-- emoji: greet name: greet
-			"greet",
+			-- emoji: Bigfoot_greet name: greet
+			"Bigfoot_greet",
 		},
 		["contemplate"] = {
-			-- emoji: meditate name: meditate
-			"meditate",
+			-- emoji: Bigfoot_meditate name: meditate
+			"Bigfoot_meditate",
 		},
 		["rip"] = {
-			-- emoji: tear name: tear
-			"tear",
+			-- emoji: Bigfoot_tear name: tear
+			"Bigfoot_tear",
 		},
 		["block"] = {
-			-- emoji: embarrass name: embarrass
-			"embarrass",
-			-- emoji: freeze name: freeze
-			"freeze",
+			-- emoji: Bigfoot_embarrass name: embarrass
+			"Bigfoot_embarrass",
+			-- emoji: Bigfoot_freeze name: freeze
+			"Bigfoot_freeze",
 		},
 		["lowlife"] = {
-			-- emoji: puke name: puke
-			"puke",
+			-- emoji: Bigfoot_puke name: puke
+			"Bigfoot_puke",
 		},
 		["mull"] = {
-			-- emoji: meditate name: meditate
-			"meditate",
+			-- emoji: Bigfoot_meditate name: meditate
+			"Bigfoot_meditate",
 		},
 		["skunk"] = {
-			-- emoji: puke name: puke
-			"puke",
+			-- emoji: Bigfoot_puke name: puke
+			"Bigfoot_puke",
 		},
 		["nap"] = {
-			-- emoji: sleep name: sleep
-			"sleep",
+			-- emoji: Bigfoot_sleep name: sleep
+			"Bigfoot_sleep",
 		},
 		["swooning"] = {
-			-- emoji: faint name: faint
-			"faint",
+			-- emoji: Bigfoot_faint name: faint
+			"Bigfoot_faint",
 		},
 		["timid"] = {
-			-- emoji: faint name: faint
-			"faint",
-			-- emoji: shy name: shy
-			"shy",
+			-- emoji: Bigfoot_faint name: faint
+			"Bigfoot_faint",
+			-- emoji: Bigfoot_shy name: shy
+			"Bigfoot_shy",
 		},
 		["lower"] = {
-			-- emoji: frown name: frown
-			"frown",
+			-- emoji: Bigfoot_frown name: frown
+			"Bigfoot_frown",
 		},
 		["exertion"] = {
-			-- emoji: sweat name: sweat
-			"sweat",
+			-- emoji: Bigfoot_sweat name: sweat
+			"Bigfoot_sweat",
 		},
 		["alright"] = {
-			-- emoji: okay name: okay
-			"okay",
+			-- emoji: Bigfoot_okay name: okay
+			"Bigfoot_okay",
 		},
 		["sudor"] = {
-			-- emoji: sweat name: sweat
-			"sweat",
+			-- emoji: Bigfoot_sweat name: sweat
+			"Bigfoot_sweat",
 		},
 		["handclasp"] = {
-			-- emoji: shake name: shake
-			"shake",
+			-- emoji: Bigfoot_shake name: shake
+			"Bigfoot_shake",
 		},
 		["malign"] = {
-			-- emoji: evil name: evil
-			"evil",
+			-- emoji: Bigfoot_evil name: evil
+			"Bigfoot_evil",
 		},
 		["shadowy"] = {
-			-- emoji: faint name: faint
-			"faint",
+			-- emoji: Bigfoot_faint name: faint
+			"Bigfoot_faint",
 		},
 		["honk"] = {
-			-- emoji: puke name: puke
-			"puke",
+			-- emoji: Bigfoot_puke name: puke
+			"Bigfoot_puke",
 		},
 		["assuredness"] = {
-			-- emoji: cool name: cool
-			"cool",
+			-- emoji: Bigfoot_cool name: cool
+			"Bigfoot_cool",
 		},
 		["malevolent"] = {
-			-- emoji: evil name: evil
-			"evil",
+			-- emoji: Bigfoot_evil name: evil
+			"Bigfoot_evil",
 		},
 		["roll in the hay"] = {
-			-- emoji: love name: love
-			"love",
+			-- emoji: Bigfoot_love name: love
+			"Bigfoot_love",
 		},
 		["repugnance"] = {
-			-- emoji: horror name: horror
-			"horror",
+			-- emoji: Bigfoot_horror name: horror
+			"Bigfoot_horror",
 		},
 		["iniquity"] = {
-			-- emoji: evil name: evil
-			"evil",
+			-- emoji: Bigfoot_evil name: evil
+			"Bigfoot_evil",
 		},
 		["gonorrhea"] = {
-			-- emoji: clap name: clap
-			"clap",
+			-- emoji: Bigfoot_clap name: clap
+			"Bigfoot_clap",
 		},
 		["cogitate"] = {
-			-- emoji: think name: think
-			"think",
+			-- emoji: Bigfoot_think name: think
+			"Bigfoot_think",
 		},
 		["fuck"] = {
-			-- emoji: love name: love
-			"love",
+			-- emoji: Bigfoot_love name: love
+			"Bigfoot_love",
 		},
 		["deliver"] = {
-			-- emoji: surrender name: surrender
-			"surrender",
+			-- emoji: Bigfoot_surrender name: surrender
+			"Bigfoot_surrender",
 		},
 		["pull a face"] = {
-			-- emoji: grimace name: grimace
-			"grimace",
+			-- emoji: Bigfoot_grimace name: grimace
+			"Bigfoot_grimace",
 		},
 		["unpaid worker"] = {
-			-- emoji: volunteer name: volunteer
-			"volunteer",
+			-- emoji: Bigfoot_volunteer name: volunteer
+			"Bigfoot_volunteer",
 		},
 		["mad"] = {
-			-- emoji: excited name: excited
-			"excited",
+			-- emoji: Bigfoot_excited name: excited
+			"Bigfoot_excited",
 		},
 		["scrap"] = {
-			-- emoji: fight name: fight
-			"fight",
+			-- emoji: Bigfoot_fight name: fight
+			"Bigfoot_fight",
 		},
 		["do it"] = {
-			-- emoji: love name: love
-			"love",
+			-- emoji: Bigfoot_love name: love
+			"Bigfoot_love",
 		},
 		["Tennessean"] = {
-			-- emoji: volunteer name: volunteer
-			"volunteer",
+			-- emoji: Bigfoot_volunteer name: volunteer
+			"Bigfoot_volunteer",
 		},
 		["surly"] = {
-			-- emoji: ugly name: ugly
-			"ugly",
+			-- emoji: Bigfoot_ugly name: ugly
+			"Bigfoot_ugly",
 		},
 		["travail"] = {
-			-- emoji: sweat name: sweat
-			"sweat",
+			-- emoji: Bigfoot_sweat name: sweat
+			"Bigfoot_sweat",
 		},
 		["hollo"] = {
-			-- emoji: cry name: cry
-			"cry",
-			-- emoji: shout name: shout
-			"shout",
+			-- emoji: Bigfoot_cry name: cry
+			"Bigfoot_cry",
+			-- emoji: Bigfoot_shout name: shout
+			"Bigfoot_shout",
 		},
 		["spirit"] = {
-			-- emoji: heart name: heart
-			"heart",
+			-- emoji: Bigfoot_heart name: heart
+			"Bigfoot_heart",
 		},
 		["measly"] = {
-			-- emoji: miserable name: miserable
-			"miserable",
+			-- emoji: Bigfoot_miserable name: miserable
+			"Bigfoot_miserable",
 		},
 		["meditate"] = {
-			-- emoji: meditate name: meditate
-			"meditate",
+			-- emoji: Bigfoot_meditate name: meditate
+			"Bigfoot_meditate",
 		},
 		["milkshake"] = {
-			-- emoji: shake name: shake
-			"shake",
+			-- emoji: Bigfoot_shake name: shake
+			"Bigfoot_shake",
 		},
 		["recollect"] = {
-			-- emoji: think name: think
-			"think",
+			-- emoji: Bigfoot_think name: think
+			"Bigfoot_think",
 		},
 		["milk shake"] = {
-			-- emoji: shake name: shake
-			"shake",
+			-- emoji: Bigfoot_shake name: shake
+			"Bigfoot_shake",
 		},
 		["scummy"] = {
-			-- emoji: miserable name: miserable
-			"miserable",
+			-- emoji: Bigfoot_miserable name: miserable
+			"Bigfoot_miserable",
 		},
 		["shingle"] = {
-			-- emoji: shake name: shake
-			"shake",
+			-- emoji: Bigfoot_shake name: shake
+			"Bigfoot_shake",
 		},
 		["displume"] = {
-			-- emoji: tear name: tear
-			"tear",
+			-- emoji: Bigfoot_tear name: tear
+			"Bigfoot_tear",
 		},
 		["shake"] = {
-			-- emoji: shake name: shake
-			"shake",
+			-- emoji: Bigfoot_shake name: shake
+			"Bigfoot_shake",
 		},
 		["mail"] = {
-			-- emoji: mail name: mail
-			"mail",
+			-- emoji: Bigfoot_mail name: mail
+			"Bigfoot_mail",
 		},
 		["chain armor"] = {
-			-- emoji: mail name: mail
-			"mail",
+			-- emoji: Bigfoot_mail name: mail
+			"Bigfoot_mail",
 		},
 		["cerebrate"] = {
-			-- emoji: think name: think
-			"think",
+			-- emoji: Bigfoot_think name: think
+			"Bigfoot_think",
 		},
 		["angel"] = {
-			-- emoji: angel name: angel
-			"angel",
+			-- emoji: Bigfoot_angel name: angel
+			"Bigfoot_angel",
 		},
 		["get laid"] = {
-			-- emoji: love name: love
-			"love",
+			-- emoji: Bigfoot_love name: love
+			"Bigfoot_love",
 		},
 		["smile"] = {
-			-- emoji: smile name: smile
-			"smile",
+			-- emoji: Bigfoot_smile name: smile
+			"Bigfoot_smile",
 		},
 		["abject"] = {
-			-- emoji: miserable name: miserable
-			"miserable",
+			-- emoji: Bigfoot_miserable name: miserable
+			"Bigfoot_miserable",
 		},
 		["split"] = {
-			-- emoji: tear name: tear
-			"tear",
+			-- emoji: Bigfoot_tear name: tear
+			"Bigfoot_tear",
 		},
 		["fine"] = {
-			-- emoji: cool name: cool
-			"cool",
-			-- emoji: okay name: okay
-			"okay",
+			-- emoji: Bigfoot_cool name: cool
+			"Bigfoot_cool",
+			-- emoji: Bigfoot_okay name: okay
+			"Bigfoot_okay",
 		},
 		["scurvy"] = {
-			-- emoji: miserable name: miserable
-			"miserable",
+			-- emoji: Bigfoot_miserable name: miserable
+			"Bigfoot_miserable",
 		},
 		["spue"] = {
-			-- emoji: puke name: puke
-			"puke",
+			-- emoji: Bigfoot_puke name: puke
+			"Bigfoot_puke",
 		},
 		["make love"] = {
-			-- emoji: love name: love
-			"love",
+			-- emoji: Bigfoot_love name: love
+			"Bigfoot_love",
 		},
 		["physical composition"] = {
-			-- emoji: makeup name: makeup
-			"makeup",
+			-- emoji: Bigfoot_makeup name: makeup
+			"Bigfoot_makeup",
 		},
 		["jolly"] = {
-			-- emoji: pretty name: pretty
-			"pretty",
+			-- emoji: Bigfoot_pretty name: pretty
+			"Bigfoot_pretty",
 		},
 		["perspiration"] = {
-			-- emoji: sweat name: sweat
-			"sweat",
+			-- emoji: Bigfoot_sweat name: sweat
+			"Bigfoot_sweat",
 		},
 		["suspend"] = {
-			-- emoji: freeze name: freeze
-			"freeze",
+			-- emoji: Bigfoot_freeze name: freeze
+			"Bigfoot_freeze",
 		},
 		["have a go at it"] = {
-			-- emoji: love name: love
-			"love",
+			-- emoji: Bigfoot_love name: love
+			"Bigfoot_love",
 		},
 		["felicitous"] = {
-			-- emoji: happy name: happy
-			"happy",
+			-- emoji: Bigfoot_happy name: happy
+			"Bigfoot_happy",
 		},
 		["sexual love"] = {
-			-- emoji: love name: love
-			"love",
+			-- emoji: Bigfoot_love name: love
+			"Bigfoot_love",
 		},
 		["sway"] = {
-			-- emoji: shake name: shake
-			"shake",
+			-- emoji: Bigfoot_shake name: shake
+			"Bigfoot_shake",
 		},
 		["heart"] = {
-			-- emoji: heart name: heart
-			"heart",
+			-- emoji: Bigfoot_heart name: heart
+			"Bigfoot_heart",
 		},
 		["binge"] = {
-			-- emoji: tear name: tear
-			"tear",
+			-- emoji: Bigfoot_tear name: tear
+			"Bigfoot_tear",
 		},
 		["yell"] = {
-			-- emoji: cry name: cry
-			"cry",
-			-- emoji: shout name: shout
-			"shout",
+			-- emoji: Bigfoot_cry name: cry
+			"Bigfoot_cry",
+			-- emoji: Bigfoot_shout name: shout
+			"Bigfoot_shout",
 		},
 		["immobilise"] = {
-			-- emoji: freeze name: freeze
-			"freeze",
+			-- emoji: Bigfoot_freeze name: freeze
+			"Bigfoot_freeze",
 		},
 		["scowl"] = {
-			-- emoji: frown name: frown
-			"frown",
+			-- emoji: Bigfoot_frown name: frown
+			"Bigfoot_frown",
 		},
 		["stinkpot"] = {
-			-- emoji: puke name: puke
-			"puke",
+			-- emoji: Bigfoot_puke name: puke
+			"Bigfoot_puke",
 		},
 		["retrieve"] = {
-			-- emoji: think name: think
-			"think",
+			-- emoji: Bigfoot_think name: think
+			"Bigfoot_think",
 		},
 		["evil"] = {
-			-- emoji: evil name: evil
-			"evil",
+			-- emoji: Bigfoot_evil name: evil
+			"Bigfoot_evil",
 		},
 		["badly"] = {
-			-- emoji: ill name: ill
-			"ill",
+			-- emoji: Bigfoot_ill name: ill
+			"Bigfoot_ill",
 		},
 		["constitution"] = {
-			-- emoji: makeup name: makeup
-			"makeup",
+			-- emoji: Bigfoot_makeup name: makeup
+			"Bigfoot_makeup",
 		},
 		["muse"] = {
-			-- emoji: meditate name: meditate
-			"meditate",
+			-- emoji: Bigfoot_meditate name: meditate
+			"Bigfoot_meditate",
 		},
 		["dumb"] = {
-			-- emoji: silent name: silent
-			"silent",
+			-- emoji: Bigfoot_silent name: silent
+			"Bigfoot_silent",
 		},
 		["combat"] = {
-			-- emoji: fight name: fight
-			"fight",
+			-- emoji: Bigfoot_fight name: fight
+			"Bigfoot_fight",
 		},
 		["conceive"] = {
-			-- emoji: think name: think
-			"think",
+			-- emoji: Bigfoot_think name: think
+			"Bigfoot_think",
 		},
 		["hunky-dory"] = {
-			-- emoji: cool name: cool
-			"cool",
-			-- emoji: okay name: okay
-			"okay",
+			-- emoji: Bigfoot_cool name: cool
+			"Bigfoot_cool",
+			-- emoji: Bigfoot_okay name: okay
+			"Bigfoot_okay",
 		},
 		["despise"] = {
-			-- emoji: despise name: despise
-			"despise",
+			-- emoji: Bigfoot_despise name: despise
+			"Bigfoot_despise",
 		},
 		["lovemaking"] = {
-			-- emoji: love name: love
-			"love",
+			-- emoji: Bigfoot_love name: love
+			"Bigfoot_love",
 		},
 		["sleep with"] = {
-			-- emoji: love name: love
-			"love",
+			-- emoji: Bigfoot_love name: love
+			"Bigfoot_love",
 		},
 		["tacit"] = {
-			-- emoji: silent name: silent
-			"silent",
+			-- emoji: Bigfoot_silent name: silent
+			"Bigfoot_silent",
 		},
 		["deplume"] = {
-			-- emoji: tear name: tear
-			"tear",
+			-- emoji: Bigfoot_tear name: tear
+			"Bigfoot_tear",
 		},
 		["bust"] = {
-			-- emoji: tear name: tear
-			"tear",
+			-- emoji: Bigfoot_tear name: tear
+			"Bigfoot_tear",
 		},
 		["hapless"] = {
-			-- emoji: miserable name: miserable
-			"miserable",
+			-- emoji: Bigfoot_miserable name: miserable
+			"Bigfoot_miserable",
 		},
 		["ok"] = {
-			-- emoji: cool name: cool
-			"cool",
-			-- emoji: okay name: okay
-			"okay",
+			-- emoji: Bigfoot_cool name: cool
+			"Bigfoot_cool",
+			-- emoji: Bigfoot_okay name: okay
+			"Bigfoot_okay",
 		},
 		["agitate"] = {
-			-- emoji: fight name: fight
-			"fight",
-			-- emoji: shake name: shake
-			"shake",
+			-- emoji: Bigfoot_fight name: fight
+			"Bigfoot_fight",
+			-- emoji: Bigfoot_shake name: shake
+			"Bigfoot_shake",
 		},
 		["OK"] = {
-			-- emoji: okay name: okay
-			"okay",
+			-- emoji: Bigfoot_okay name: okay
+			"Bigfoot_okay",
 		},
 		["fight"] = {
-			-- emoji: fight name: fight
-			"fight",
+			-- emoji: Bigfoot_fight name: fight
+			"Bigfoot_fight",
 		},
 		["pretty"] = {
-			-- emoji: pretty name: pretty
-			"pretty",
+			-- emoji: Bigfoot_pretty name: pretty
+			"Bigfoot_pretty",
 		},
 		["inexperienced person"] = {
-			-- emoji: innocent name: innocent
-			"innocent",
+			-- emoji: Bigfoot_innocent name: innocent
+			"Bigfoot_innocent",
 		},
 		["cry"] = {
-			-- emoji: cry name: cry
-			"cry",
-			-- emoji: shout name: shout
-			"shout",
+			-- emoji: Bigfoot_cry name: cry
+			"Bigfoot_cry",
+			-- emoji: Bigfoot_shout name: shout
+			"Bigfoot_shout",
 		},
 		["frightful"] = {
-			-- emoji: ugly name: ugly
-			"ugly",
+			-- emoji: Bigfoot_ugly name: ugly
+			"Bigfoot_ugly",
 		},
 		["freezing"] = {
-			-- emoji: freeze name: freeze
-			"freeze",
+			-- emoji: Bigfoot_freeze name: freeze
+			"Bigfoot_freeze",
 		},
 		["all right"] = {
-			-- emoji: cool name: cool
-			"cool",
-			-- emoji: okay name: okay
-			"okay",
+			-- emoji: Bigfoot_cool name: cool
+			"Bigfoot_cool",
+			-- emoji: Bigfoot_okay name: okay
+			"Bigfoot_okay",
 		},
 		["devoid"] = {
-			-- emoji: innocent name: innocent
-			"innocent",
+			-- emoji: Bigfoot_innocent name: innocent
+			"Bigfoot_innocent",
 		},
 		["activated"] = {
-			-- emoji: excited name: excited
-			"excited",
+			-- emoji: Bigfoot_excited name: excited
+			"Bigfoot_excited",
 		},
 		["clean-handed"] = {
-			-- emoji: innocent name: innocent
-			"innocent",
+			-- emoji: Bigfoot_innocent name: innocent
+			"Bigfoot_innocent",
 		},
 		["giving up"] = {
-			-- emoji: surrender name: surrender
-			"surrender",
+			-- emoji: Bigfoot_surrender name: surrender
+			"Bigfoot_surrender",
 		},
 		["cunning"] = {
-			-- emoji: cute name: cute
-			"cute",
+			-- emoji: Bigfoot_cute name: cute
+			"Bigfoot_cute",
 		},
 		["moderately"] = {
-			-- emoji: pretty name: pretty
-			"pretty",
+			-- emoji: Bigfoot_pretty name: pretty
+			"Bigfoot_pretty",
 		},
 		["coolheaded"] = {
-			-- emoji: cool name: cool
-			"cool",
+			-- emoji: Bigfoot_cool name: cool
+			"Bigfoot_cool",
 		},
 		["capitulation"] = {
-			-- emoji: surrender name: surrender
-			"surrender",
+			-- emoji: Bigfoot_surrender name: surrender
+			"Bigfoot_surrender",
 		},
 		["stinker"] = {
-			-- emoji: puke name: puke
-			"puke",
+			-- emoji: Bigfoot_puke name: puke
+			"Bigfoot_puke",
 		},
 		["scream"] = {
-			-- emoji: cry name: cry
-			"cry",
-			-- emoji: shout name: shout
-			"shout",
+			-- emoji: Bigfoot_cry name: cry
+			"Bigfoot_cry",
+			-- emoji: Bigfoot_shout name: shout
+			"Bigfoot_shout",
 		},
 		["syncope"] = {
-			-- emoji: faint name: faint
-			"faint",
+			-- emoji: Bigfoot_faint name: faint
+			"Bigfoot_faint",
 		},
 		["fighting"] = {
-			-- emoji: fight name: fight
-			"fight",
+			-- emoji: Bigfoot_fight name: fight
+			"Bigfoot_fight",
 		},
 		["ponder"] = {
-			-- emoji: meditate name: meditate
-			"meditate",
+			-- emoji: Bigfoot_meditate name: meditate
+			"Bigfoot_meditate",
 		},
 		["revulsion"] = {
-			-- emoji: horror name: horror
-			"horror",
+			-- emoji: Bigfoot_horror name: horror
+			"Bigfoot_horror",
 		},
 		["reflect"] = {
-			-- emoji: meditate name: meditate
-			"meditate",
+			-- emoji: Bigfoot_meditate name: meditate
+			"Bigfoot_meditate",
 		},
 		["freeze"] = {
-			-- emoji: freeze name: freeze
-			"freeze",
+			-- emoji: Bigfoot_freeze name: freeze
+			"Bigfoot_freeze",
 		},
 		["bang"] = {
-			-- emoji: clap name: clap
-			"clap",
-			-- emoji: love name: love
-			"love",
+			-- emoji: Bigfoot_clap name: clap
+			"Bigfoot_clap",
+			-- emoji: Bigfoot_love name: love
+			"Bigfoot_love",
 		},
 		["hinder"] = {
-			-- emoji: embarrass name: embarrass
-			"embarrass",
+			-- emoji: Bigfoot_embarrass name: embarrass
+			"Bigfoot_embarrass",
 		},
 		["horrible"] = {
-			-- emoji: ugly name: ugly
-			"ugly",
+			-- emoji: Bigfoot_ugly name: ugly
+			"Bigfoot_ugly",
 		},
 		["pith"] = {
-			-- emoji: heart name: heart
-			"heart",
+			-- emoji: Bigfoot_heart name: heart
+			"Bigfoot_heart",
 		},
 		["press"] = {
-			-- emoji: fight name: fight
-			"fight",
+			-- emoji: Bigfoot_fight name: fight
+			"Bigfoot_fight",
 		},
 		["wickedness"] = {
-			-- emoji: evil name: evil
-			"evil",
+			-- emoji: Bigfoot_evil name: evil
+			"Bigfoot_evil",
 		},
 		["clack"] = {
-			-- emoji: clap name: clap
-			"clap",
+			-- emoji: Bigfoot_clap name: clap
+			"Bigfoot_clap",
 		},
 		["freeze down"] = {
-			-- emoji: freeze name: freeze
-			"freeze",
+			-- emoji: Bigfoot_freeze name: freeze
+			"Bigfoot_freeze",
 		},
 		["miserable"] = {
-			-- emoji: miserable name: miserable
-			"miserable",
+			-- emoji: Bigfoot_miserable name: miserable
+			"Bigfoot_miserable",
 		},
 		["nitty-gritty"] = {
-			-- emoji: heart name: heart
-			"heart",
+			-- emoji: Bigfoot_heart name: heart
+			"Bigfoot_heart",
 		},
 		["exclaim"] = {
-			-- emoji: cry name: cry
-			"cry",
-			-- emoji: shout name: shout
-			"shout",
+			-- emoji: Bigfoot_cry name: cry
+			"Bigfoot_cry",
+			-- emoji: Bigfoot_shout name: shout
+			"Bigfoot_shout",
 		},
 		["mute"] = {
-			-- emoji: silent name: silent
-			"silent",
+			-- emoji: Bigfoot_silent name: silent
+			"Bigfoot_silent",
 		},
 		["puke"] = {
-			-- emoji: puke name: puke
-			"puke",
+			-- emoji: Bigfoot_puke name: puke
+			"Bigfoot_puke",
 		},
 		["recognize"] = {
-			-- emoji: greet name: greet
-			"greet",
+			-- emoji: Bigfoot_greet name: greet
+			"Bigfoot_greet",
 		},
 		["lightheaded"] = {
-			-- emoji: faint name: faint
-			"faint",
+			-- emoji: Bigfoot_faint name: faint
+			"Bigfoot_faint",
 		},
 		["eye"] = {
-			-- emoji: heart name: heart
-			"heart",
+			-- emoji: Bigfoot_heart name: heart
+			"Bigfoot_heart",
 		},
 		["rotter"] = {
-			-- emoji: puke name: puke
-			"puke",
+			-- emoji: Bigfoot_puke name: puke
+			"Bigfoot_puke",
 		},
 		["pathetic"] = {
-			-- emoji: miserable name: miserable
-			"miserable",
+			-- emoji: Bigfoot_miserable name: miserable
+			"Bigfoot_miserable",
 		},
 		["oppose"] = {
-			-- emoji: fight name: fight
-			"fight",
+			-- emoji: Bigfoot_fight name: fight
+			"Bigfoot_fight",
 		},
 		["sum"] = {
-			-- emoji: heart name: heart
-			"heart",
+			-- emoji: Bigfoot_heart name: heart
+			"Bigfoot_heart",
 		},
 		["fret"] = {
-			-- emoji: sweat name: sweat
-			"sweat",
+			-- emoji: Bigfoot_sweat name: sweat
+			"Bigfoot_sweat",
 		},
 		["believe"] = {
-			-- emoji: think name: think
-			"think",
+			-- emoji: Bigfoot_think name: think
+			"Bigfoot_think",
 		},
 		["cute"] = {
-			-- emoji: cute name: cute
-			"cute",
+			-- emoji: Bigfoot_cute name: cute
+			"Bigfoot_cute",
 		},
 		["vomit"] = {
-			-- emoji: puke name: puke
-			"puke",
+			-- emoji: Bigfoot_puke name: puke
+			"Bigfoot_puke",
 		},
 		["war cry"] = {
-			-- emoji: cry name: cry
-			"cry",
+			-- emoji: Bigfoot_cry name: cry
+			"Bigfoot_cry",
 		},
 		["remember"] = {
-			-- emoji: think name: think
-			"think",
+			-- emoji: Bigfoot_think name: think
+			"Bigfoot_think",
 		},
 		["elbow grease"] = {
-			-- emoji: sweat name: sweat
-			"sweat",
+			-- emoji: Bigfoot_sweat name: sweat
+			"Bigfoot_sweat",
 		},
 		["cry out"] = {
-			-- emoji: cry name: cry
-			"cry",
-			-- emoji: shout name: shout
-			"shout",
+			-- emoji: Bigfoot_cry name: cry
+			"Bigfoot_cry",
+			-- emoji: Bigfoot_shout name: shout
+			"Bigfoot_shout",
 		},
 		["mettle"] = {
-			-- emoji: heart name: heart
-			"heart",
+			-- emoji: Bigfoot_heart name: heart
+			"Bigfoot_heart",
 		},
 		["inwardness"] = {
-			-- emoji: heart name: heart
-			"heart",
+			-- emoji: Bigfoot_heart name: heart
+			"Bigfoot_heart",
 		},
 		["tear"] = {
-			-- emoji: tear name: tear
-			"tear",
+			-- emoji: Bigfoot_tear name: tear
+			"Bigfoot_tear",
 		},
 		["holy man"] = {
-			-- emoji: angel name: angel
-			"angel",
+			-- emoji: Bigfoot_angel name: angel
+			"Bigfoot_angel",
 		},
 		["shout"] = {
-			-- emoji: cry name: cry
-			"cry",
-			-- emoji: shout name: shout
-			"shout",
+			-- emoji: Bigfoot_cry name: cry
+			"Bigfoot_cry",
+			-- emoji: Bigfoot_shout name: shout
+			"Bigfoot_shout",
 		},
 		["pump"] = {
-			-- emoji: heart name: heart
-			"heart",
+			-- emoji: Bigfoot_heart name: heart
+			"Bigfoot_heart",
 		},
 		["free"] = {
-			-- emoji: innocent name: innocent
-			"innocent",
+			-- emoji: Bigfoot_innocent name: innocent
+			"Bigfoot_innocent",
 		},
 		["swither"] = {
-			-- emoji: sweat name: sweat
-			"sweat",
+			-- emoji: Bigfoot_sweat name: sweat
+			"Bigfoot_sweat",
 		},
 		["think"] = {
-			-- emoji: think name: think
-			"think",
+			-- emoji: Bigfoot_think name: think
+			"Bigfoot_think",
 		},
 		["silent"] = {
-			-- emoji: silent name: silent
-			"silent",
+			-- emoji: Bigfoot_silent name: silent
+			"Bigfoot_silent",
 		},
 		["triumph"] = {
-			-- emoji: victory name: victory
-			"victory",
+			-- emoji: Bigfoot_victory name: victory
+			"Bigfoot_victory",
 		},
 		["middle"] = {
-			-- emoji: heart name: heart
-			"heart",
+			-- emoji: Bigfoot_heart name: heart
+			"Bigfoot_heart",
 		},
 		["horror"] = {
-			-- emoji: horror name: horror
-			"horror",
+			-- emoji: Bigfoot_horror name: horror
+			"Bigfoot_horror",
 		},
 		["slumber"] = {
-			-- emoji: sleep name: sleep
-			"sleep",
+			-- emoji: Bigfoot_sleep name: sleep
+			"Bigfoot_sleep",
 		},
 		["vomitus"] = {
-			-- emoji: puke name: puke
-			"puke",
+			-- emoji: Bigfoot_puke name: puke
+			"Bigfoot_puke",
 		},
 		["speculate"] = {
-			-- emoji: meditate name: meditate
-			"meditate",
+			-- emoji: Bigfoot_meditate name: meditate
+			"Bigfoot_meditate",
 		},
 		["beloved"] = {
-			-- emoji: love name: love
-			"love",
+			-- emoji: Bigfoot_love name: love
+			"Bigfoot_love",
 		},
 		["call"] = {
-			-- emoji: cry name: cry
-			"cry",
-			-- emoji: shout name: shout
-			"shout",
+			-- emoji: Bigfoot_cry name: cry
+			"Bigfoot_cry",
+			-- emoji: Bigfoot_shout name: shout
+			"Bigfoot_shout",
 		},
 		["pull"] = {
-			-- emoji: tear name: tear
-			"tear",
+			-- emoji: Bigfoot_tear name: tear
+			"Bigfoot_tear",
 		},
 		["freeze out"] = {
-			-- emoji: freeze name: freeze
-			"freeze",
+			-- emoji: Bigfoot_freeze name: freeze
+			"Bigfoot_freeze",
 		},
 		["face"] = {
-			-- emoji: grimace name: grimace
-			"grimace",
+			-- emoji: Bigfoot_grimace name: grimace
+			"Bigfoot_grimace",
 		},
 		["unacquainted"] = {
-			-- emoji: innocent name: innocent
-			"innocent",
+			-- emoji: Bigfoot_innocent name: innocent
+			"Bigfoot_innocent",
 		},
 		["handshaking"] = {
-			-- emoji: shake name: shake
-			"shake",
+			-- emoji: Bigfoot_shake name: shake
+			"Bigfoot_shake",
 		},
 		["clap"] = {
-			-- emoji: clap name: clap
-			"clap",
+			-- emoji: Bigfoot_clap name: clap
+			"Bigfoot_clap",
 		},
 		["philia"] = {
-			-- emoji: heart name: heart
-			"heart",
+			-- emoji: Bigfoot_heart name: heart
+			"Bigfoot_heart",
 		},
 		["bum"] = {
-			-- emoji: puke name: puke
-			"puke",
+			-- emoji: Bigfoot_puke name: puke
+			"Bigfoot_puke",
 		},
 		["regurgitate"] = {
-			-- emoji: puke name: puke
-			"puke",
+			-- emoji: Bigfoot_puke name: puke
+			"Bigfoot_puke",
 		},
 		["pluck"] = {
-			-- emoji: tear name: tear
-			"tear",
+			-- emoji: Bigfoot_tear name: tear
+			"Bigfoot_tear",
 		},
 		["understood"] = {
-			-- emoji: silent name: silent
-			"silent",
+			-- emoji: Bigfoot_silent name: silent
+			"Bigfoot_silent",
 		},
 		["throw up"] = {
-			-- emoji: puke name: puke
-			"puke",
+			-- emoji: Bigfoot_puke name: puke
+			"Bigfoot_puke",
 		},
 		["makeup"] = {
-			-- emoji: makeup name: makeup
-			"makeup",
+			-- emoji: Bigfoot_makeup name: makeup
+			"Bigfoot_makeup",
 		},
 		["engagement"] = {
-			-- emoji: fight name: fight
-			"fight",
+			-- emoji: Bigfoot_fight name: fight
+			"Bigfoot_fight",
 		},
 		["jazz"] = {
-			-- emoji: love name: love
-			"love",
+			-- emoji: Bigfoot_love name: love
+			"Bigfoot_love",
 		},
 		["suffering"] = {
-			-- emoji: miserable name: miserable
-			"miserable",
+			-- emoji: Bigfoot_miserable name: miserable
+			"Bigfoot_miserable",
 		},
 		["making love"] = {
-			-- emoji: love name: love
-			"love",
+			-- emoji: Bigfoot_love name: love
+			"Bigfoot_love",
 		},
 		["piteous"] = {
-			-- emoji: miserable name: miserable
-			"miserable",
+			-- emoji: Bigfoot_miserable name: miserable
+			"Bigfoot_miserable",
 		},
 		["shoot"] = {
-			-- emoji: tear name: tear
-			"tear",
+			-- emoji: Bigfoot_tear name: tear
+			"Bigfoot_tear",
 		},
 		["passion"] = {
-			-- emoji: love name: love
-			"love",
+			-- emoji: Bigfoot_love name: love
+			"Bigfoot_love",
 		},
 		["barf"] = {
-			-- emoji: puke name: puke
-			"puke",
+			-- emoji: Bigfoot_puke name: puke
+			"Bigfoot_puke",
 		},
 		["smiling"] = {
-			-- emoji: smile name: smile
-			"smile",
+			-- emoji: Bigfoot_smile name: smile
+			"Bigfoot_smile",
 		},
 		["evilness"] = {
-			-- emoji: evil name: evil
-			"evil",
+			-- emoji: Bigfoot_evil name: evil
+			"Bigfoot_evil",
 		},
 		["imagine"] = {
-			-- emoji: think name: think
-			"think",
+			-- emoji: Bigfoot_think name: think
+			"Bigfoot_think",
 		},
 		["dirty dog"] = {
-			-- emoji: puke name: puke
-			"puke",
+			-- emoji: Bigfoot_puke name: puke
+			"Bigfoot_puke",
 		},
 		["upchuck"] = {
-			-- emoji: puke name: puke
-			"puke",
+			-- emoji: Bigfoot_puke name: puke
+			"Bigfoot_puke",
 		},
 		["impeccant"] = {
-			-- emoji: innocent name: innocent
-			"innocent",
+			-- emoji: Bigfoot_innocent name: innocent
+			"Bigfoot_innocent",
 		},
 		["reasonably"] = {
-			-- emoji: pretty name: pretty
-			"pretty",
+			-- emoji: Bigfoot_pretty name: pretty
+			"Bigfoot_pretty",
 		},
 		["sinless"] = {
-			-- emoji: innocent name: innocent
-			"innocent",
+			-- emoji: Bigfoot_innocent name: innocent
+			"Bigfoot_innocent",
 		},
 		["suppose"] = {
-			-- emoji: think name: think
-			"think",
+			-- emoji: Bigfoot_think name: think
+			"Bigfoot_think",
 		},
 		["retch"] = {
-			-- emoji: puke name: puke
-			"puke",
+			-- emoji: Bigfoot_puke name: puke
+			"Bigfoot_puke",
 		},
 		["shake up"] = {
-			-- emoji: shake name: shake
-			"shake",
+			-- emoji: Bigfoot_shake name: shake
+			"Bigfoot_shake",
 		},
 		["chew over"] = {
-			-- emoji: meditate name: meditate
-			"meditate",
+			-- emoji: Bigfoot_meditate name: meditate
+			"Bigfoot_meditate",
 		},
 		["volunteer"] = {
-			-- emoji: volunteer name: volunteer
-			"volunteer",
+			-- emoji: Bigfoot_volunteer name: volunteer
+			"Bigfoot_volunteer",
 		},
 		["campaign"] = {
-			-- emoji: fight name: fight
-			"fight",
+			-- emoji: Bigfoot_fight name: fight
+			"Bigfoot_fight",
 		},
 		["know"] = {
-			-- emoji: love name: love
-			"love",
+			-- emoji: Bigfoot_love name: love
+			"Bigfoot_love",
 		},
 		["mull over"] = {
-			-- emoji: meditate name: meditate
-			"meditate",
+			-- emoji: Bigfoot_meditate name: meditate
+			"Bigfoot_meditate",
 		},
 		["war paint"] = {
-			-- emoji: makeup name: makeup
-			"makeup",
+			-- emoji: Bigfoot_makeup name: makeup
+			"Bigfoot_makeup",
 		},
 		["immorality"] = {
-			-- emoji: evil name: evil
-			"evil",
+			-- emoji: Bigfoot_evil name: evil
+			"Bigfoot_evil",
 		},
 		["conflict"] = {
-			-- emoji: fight name: fight
-			"fight",
+			-- emoji: Bigfoot_fight name: fight
+			"Bigfoot_fight",
 		},
 		["gonorrhoea"] = {
-			-- emoji: clap name: clap
-			"clap",
+			-- emoji: Bigfoot_clap name: clap
+			"Bigfoot_clap",
 		},
 		["squall"] = {
-			-- emoji: cry name: cry
-			"cry",
-			-- emoji: shout name: shout
-			"shout",
+			-- emoji: Bigfoot_cry name: cry
+			"Bigfoot_cry",
+			-- emoji: Bigfoot_shout name: shout
+			"Bigfoot_shout",
 		},
 		["purge"] = {
-			-- emoji: puke name: puke
-			"puke",
+			-- emoji: Bigfoot_puke name: puke
+			"Bigfoot_puke",
 		},
 		["effort"] = {
-			-- emoji: sweat name: sweat
-			"sweat",
+			-- emoji: Bigfoot_sweat name: sweat
+			"Bigfoot_sweat",
 		},
 		["get off"] = {
-			-- emoji: mail name: mail
-			"mail",
+			-- emoji: Bigfoot_mail name: mail
+			"Bigfoot_mail",
 		},
 		["despicable"] = {
-			-- emoji: ugly name: ugly
-			"ugly",
+			-- emoji: Bigfoot_ugly name: ugly
+			"Bigfoot_ugly",
 		},
 		["kip"] = {
-			-- emoji: sleep name: sleep
-			"sleep",
+			-- emoji: Bigfoot_sleep name: sleep
+			"Bigfoot_sleep",
 		},
 		["defend"] = {
-			-- emoji: fight name: fight
-			"fight",
+			-- emoji: Bigfoot_fight name: fight
+			"Bigfoot_fight",
 		},
 		["honey"] = {
-			-- emoji: love name: love
-			"love",
+			-- emoji: Bigfoot_love name: love
+			"Bigfoot_love",
 		},
 		["crying"] = {
-			-- emoji: tears name: tears
-			"tears",
+			-- emoji: Bigfoot_tears name: tears
+			"Bigfoot_tears",
 		},
 		["destitute"] = {
-			-- emoji: innocent name: innocent
-			"innocent",
+			-- emoji: Bigfoot_innocent name: innocent
+			"Bigfoot_innocent",
 		},
 		["screw"] = {
-			-- emoji: love name: love
-			"love",
+			-- emoji: Bigfoot_love name: love
+			"Bigfoot_love",
 		},
 		["wag"] = {
-			-- emoji: shake name: shake
-			"shake",
+			-- emoji: Bigfoot_shake name: shake
+			"Bigfoot_shake",
 		},
 		["pass out"] = {
-			-- emoji: faint name: faint
-			"faint",
+			-- emoji: Bigfoot_faint name: faint
+			"Bigfoot_faint",
 		},
 		["guiltless"] = {
-			-- emoji: innocent name: innocent
-			"innocent",
+			-- emoji: Bigfoot_innocent name: innocent
+			"Bigfoot_innocent",
 		},
 		["ring armour"] = {
-			-- emoji: mail name: mail
-			"mail",
+			-- emoji: Bigfoot_mail name: mail
+			"Bigfoot_mail",
 		},
 		["bonk"] = {
-			-- emoji: love name: love
-			"love",
+			-- emoji: Bigfoot_love name: love
+			"Bigfoot_love",
 		},
 		["stew"] = {
-			-- emoji: sweat name: sweat
-			"sweat",
+			-- emoji: Bigfoot_sweat name: sweat
+			"Bigfoot_sweat",
 		},
 		["deplumate"] = {
-			-- emoji: tear name: tear
-			"tear",
+			-- emoji: Bigfoot_tear name: tear
+			"Bigfoot_tear",
 		},
 		["center"] = {
-			-- emoji: heart name: heart
-			"heart",
+			-- emoji: Bigfoot_heart name: heart
+			"Bigfoot_heart",
 		},
 		["substance"] = {
-			-- emoji: heart name: heart
-			"heart",
+			-- emoji: Bigfoot_heart name: heart
+			"Bigfoot_heart",
 		},
 		["frown"] = {
-			-- emoji: frown name: frown
-			"frown",
+			-- emoji: Bigfoot_frown name: frown
+			"Bigfoot_frown",
 		},
 		["greet"] = {
-			-- emoji: greet name: greet
-			"greet",
+			-- emoji: Bigfoot_greet name: greet
+			"Bigfoot_greet",
 		},
 		["escape from"] = {
-			-- emoji: shake name: shake
-			"shake",
+			-- emoji: Bigfoot_shake name: shake
+			"Bigfoot_shake",
 		},
 		["obstruct"] = {
-			-- emoji: embarrass name: embarrass
-			"embarrass",
+			-- emoji: Bigfoot_embarrass name: embarrass
+			"Bigfoot_embarrass",
 		},
 		["gist"] = {
-			-- emoji: heart name: heart
-			"heart",
+			-- emoji: Bigfoot_heart name: heart
+			"Bigfoot_heart",
 		},
 		["trill"] = {
-			-- emoji: shake name: shake
-			"shake",
+			-- emoji: Bigfoot_shake name: shake
+			"Bigfoot_shake",
 		},
 		["pitiful"] = {
-			-- emoji: miserable name: miserable
-			"miserable",
+			-- emoji: Bigfoot_miserable name: miserable
+			"Bigfoot_miserable",
 		},
 		["inauspicious"] = {
-			-- emoji: ill name: ill
-			"ill",
+			-- emoji: Bigfoot_ill name: ill
+			"Bigfoot_ill",
 		},
 		["grippe"] = {
-			-- emoji: flu name: flu
-			"flu",
+			-- emoji: Bigfoot_flu name: flu
+			"Bigfoot_flu",
 		},
 		["horrifying"] = {
-			-- emoji: ugly name: ugly
-			"ugly",
+			-- emoji: Bigfoot_ugly name: ugly
+			"Bigfoot_ugly",
 		},
 		["postal service"] = {
-			-- emoji: mail name: mail
-			"mail",
+			-- emoji: Bigfoot_mail name: mail
+			"Bigfoot_mail",
 		},
 		["aroused"] = {
-			-- emoji: excited name: excited
-			"excited",
+			-- emoji: Bigfoot_excited name: excited
+			"Bigfoot_excited",
 		},
 		["tempestuous"] = {
-			-- emoji: angry name: angry
-			"angry",
+			-- emoji: Bigfoot_angry name: angry
+			"Bigfoot_angry",
 		},
 		["vociferation"] = {
-			-- emoji: cry name: cry
-			"cry",
-			-- emoji: shout name: shout
-			"shout",
+			-- emoji: Bigfoot_cry name: cry
+			"Bigfoot_cry",
+			-- emoji: Bigfoot_shout name: shout
+			"Bigfoot_shout",
 		},
 		["conk"] = {
-			-- emoji: faint name: faint
-			"faint",
+			-- emoji: Bigfoot_faint name: faint
+			"Bigfoot_faint",
 		},
 		["happy"] = {
-			-- emoji: happy name: happy
-			"happy",
+			-- emoji: Bigfoot_happy name: happy
+			"Bigfoot_happy",
 		},
 		["faint-hearted"] = {
-			-- emoji: faint name: faint
-			"faint",
+			-- emoji: Bigfoot_faint name: faint
+			"Bigfoot_faint",
 		},
 		["watchword"] = {
-			-- emoji: cry name: cry
-			"cry",
+			-- emoji: Bigfoot_cry name: cry
+			"Bigfoot_cry",
 		},
 		["rent"] = {
-			-- emoji: tear name: tear
-			"tear",
+			-- emoji: Bigfoot_tear name: tear
+			"Bigfoot_tear",
 		},
 		["cast"] = {
-			-- emoji: puke name: puke
-			"puke",
+			-- emoji: Bigfoot_puke name: puke
+			"Bigfoot_puke",
 		},
 		["call out"] = {
-			-- emoji: cry name: cry
-			"cry",
-			-- emoji: shout name: shout
-			"shout",
+			-- emoji: Bigfoot_cry name: cry
+			"Bigfoot_cry",
+			-- emoji: Bigfoot_shout name: shout
+			"Bigfoot_shout",
 		},
 		["glower"] = {
-			-- emoji: frown name: frown
-			"frown",
+			-- emoji: Bigfoot_frown name: frown
+			"Bigfoot_frown",
 		},
 		["backer"] = {
-			-- emoji: angel name: angel
-			"angel",
+			-- emoji: Bigfoot_angel name: angel
+			"Bigfoot_angel",
 		},
 		["wispy"] = {
-			-- emoji: faint name: faint
-			"faint",
+			-- emoji: Bigfoot_faint name: faint
+			"Bigfoot_faint",
 		},
 		["frost"] = {
-			-- emoji: freeze name: freeze
-			"freeze",
+			-- emoji: Bigfoot_freeze name: freeze
+			"Bigfoot_freeze",
 		},
 		["voluntary"] = {
-			-- emoji: volunteer name: volunteer
-			"volunteer",
+			-- emoji: Bigfoot_volunteer name: volunteer
+			"Bigfoot_volunteer",
 		},
 		["struggle"] = {
-			-- emoji: fight name: fight
-			"fight",
+			-- emoji: Bigfoot_fight name: fight
+			"Bigfoot_fight",
 		},
 		["ring armor"] = {
-			-- emoji: mail name: mail
-			"mail",
+			-- emoji: Bigfoot_mail name: mail
+			"Bigfoot_mail",
 		},
 		["okay"] = {
-			-- emoji: cool name: cool
-			"cool",
-			-- emoji: okay name: okay
-			"okay",
+			-- emoji: Bigfoot_cool name: cool
+			"Bigfoot_cool",
+			-- emoji: Bigfoot_okay name: okay
+			"Bigfoot_okay",
 		},
 		["still"] = {
-			-- emoji: silent name: silent
-			"silent",
+			-- emoji: Bigfoot_silent name: silent
+			"Bigfoot_silent",
 		},
 		["affectionateness"] = {
-			-- emoji: heart name: heart
-			"heart",
+			-- emoji: Bigfoot_heart name: heart
+			"Bigfoot_heart",
 		},
 		["ominous"] = {
-			-- emoji: ill name: ill
-			"ill",
+			-- emoji: Bigfoot_ill name: ill
+			"Bigfoot_ill",
 		},
 		["swoon"] = {
-			-- emoji: faint name: faint
-			"faint",
+			-- emoji: Bigfoot_faint name: faint
+			"Bigfoot_faint",
 		},
 		["shoot down"] = {
-			-- emoji: tear name: tear
-			"tear",
+			-- emoji: Bigfoot_tear name: tear
+			"Bigfoot_tear",
 		},
 		["chain mail"] = {
-			-- emoji: mail name: mail
-			"mail",
+			-- emoji: Bigfoot_mail name: mail
+			"Bigfoot_mail",
 		},
 		["soundless"] = {
-			-- emoji: silent name: silent
-			"silent",
+			-- emoji: Bigfoot_silent name: silent
+			"Bigfoot_silent",
 		},
 		["well-chosen"] = {
-			-- emoji: happy name: happy
-			"happy",
+			-- emoji: Bigfoot_happy name: happy
+			"Bigfoot_happy",
 		},
 		["push"] = {
-			-- emoji: fight name: fight
-			"fight",
+			-- emoji: Bigfoot_fight name: fight
+			"Bigfoot_fight",
 		},
 		["call up"] = {
-			-- emoji: think name: think
-			"think",
+			-- emoji: Bigfoot_think name: think
+			"Bigfoot_think",
 		},
 		["o.k."] = {
-			-- emoji: cool name: cool
-			"cool",
-			-- emoji: okay name: okay
-			"okay",
+			-- emoji: Bigfoot_cool name: cool
+			"Bigfoot_cool",
+			-- emoji: Bigfoot_okay name: okay
+			"Bigfoot_okay",
 		},
 		["abash"] = {
-			-- emoji: embarrass name: embarrass
-			"embarrass",
+			-- emoji: Bigfoot_embarrass name: embarrass
+			"Bigfoot_embarrass",
 		},
 		["light"] = {
-			-- emoji: faint name: faint
-			"faint",
+			-- emoji: Bigfoot_faint name: faint
+			"Bigfoot_faint",
 		},
 		["so-and-so"] = {
-			-- emoji: puke name: puke
-			"puke",
+			-- emoji: Bigfoot_puke name: puke
+			"Bigfoot_puke",
 		},
 		["love"] = {
-			-- emoji: love name: love
-			"love",
+			-- emoji: Bigfoot_love name: love
+			"Bigfoot_love",
 		},
 		["hump"] = {
-			-- emoji: love name: love
-			"love",
+			-- emoji: Bigfoot_love name: love
+			"Bigfoot_love",
 		},
 		["study"] = {
-			-- emoji: meditate name: meditate
-			"meditate",
+			-- emoji: Bigfoot_meditate name: meditate
+			"Bigfoot_meditate",
 		},
 		["make-up"] = {
-			-- emoji: makeup name: makeup
-			"makeup",
+			-- emoji: Bigfoot_makeup name: makeup
+			"Bigfoot_makeup",
 		},
 		["enjoy"] = {
-			-- emoji: love name: love
-			"love",
+			-- emoji: Bigfoot_love name: love
+			"Bigfoot_love",
 		},
 		["okeh"] = {
-			-- emoji: okay name: okay
-			"okay",
+			-- emoji: Bigfoot_okay name: okay
+			"Bigfoot_okay",
 		},
 		["cool off"] = {
-			-- emoji: cool name: cool
-			"cool",
+			-- emoji: Bigfoot_cool name: cool
+			"Bigfoot_cool",
 		},
 		["weak"] = {
-			-- emoji: faint name: faint
-			"faint",
+			-- emoji: Bigfoot_faint name: faint
+			"Bigfoot_faint",
 		},
 		["call back"] = {
-			-- emoji: think name: think
-			"think",
+			-- emoji: Bigfoot_think name: think
+			"Bigfoot_think",
 		},
 		["ingenuous"] = {
-			-- emoji: innocent name: innocent
-			"innocent",
+			-- emoji: Bigfoot_innocent name: innocent
+			"Bigfoot_innocent",
 		},
 		["rock"] = {
-			-- emoji: shake name: shake
-			"shake",
+			-- emoji: Bigfoot_shake name: shake
+			"Bigfoot_shake",
 		},
 		["lour"] = {
-			-- emoji: frown name: frown
-			"frown",
+			-- emoji: Bigfoot_frown name: frown
+			"Bigfoot_frown",
 		},
 		["fall"] = {
-			-- emoji: surrender name: surrender
-			"surrender",
+			-- emoji: Bigfoot_surrender name: surrender
+			"Bigfoot_surrender",
 		},
 		["low"] = {
-			-- emoji: miserable name: miserable
-			"miserable",
+			-- emoji: Bigfoot_miserable name: miserable
+			"Bigfoot_miserable",
 		},
 		["recall"] = {
-			-- emoji: think name: think
-			"think",
+			-- emoji: Bigfoot_think name: think
+			"Bigfoot_think",
 		},
 		["growl"] = {
-			-- emoji: growl name: growl
-			"growl",
+			-- emoji: Bigfoot_growl name: growl
+			"Bigfoot_growl",
 		},
 		["vile"] = {
-			-- emoji: ugly name: ugly
-			"ugly",
+			-- emoji: Bigfoot_ugly name: ugly
+			"Bigfoot_ugly",
 		},
 		["grin"] = {
-			-- emoji: smile name: smile
-			"smile",
+			-- emoji: Bigfoot_smile name: smile
+			"Bigfoot_smile",
 		},
 		["innocuous"] = {
-			-- emoji: innocent name: innocent
-			"innocent",
+			-- emoji: Bigfoot_innocent name: innocent
+			"Bigfoot_innocent",
 		},
 		["precious"] = {
-			-- emoji: cute name: cute
-			"cute",
+			-- emoji: Bigfoot_cute name: cute
+			"Bigfoot_cute",
 		},
 		["yielding"] = {
-			-- emoji: surrender name: surrender
-			"surrender",
+			-- emoji: Bigfoot_surrender name: surrender
+			"Bigfoot_surrender",
 		},
 		["spat"] = {
-			-- emoji: clap name: clap
-			"clap",
+			-- emoji: Bigfoot_clap name: clap
+			"Bigfoot_clap",
 		},
 		["O.K."] = {
-			-- emoji: okay name: okay
-			"okay",
+			-- emoji: Bigfoot_okay name: okay
+			"Bigfoot_okay",
 		},
 		["cool"] = {
-			-- emoji: cool name: cool
-			"cool",
-			-- emoji: okay name: okay
-			"okay",
+			-- emoji: Bigfoot_cool name: cool
+			"Bigfoot_cool",
+			-- emoji: Bigfoot_okay name: okay
+			"Bigfoot_okay",
 		},
 		["tremble"] = {
-			-- emoji: shake name: shake
-			"shake",
+			-- emoji: Bigfoot_shake name: shake
+			"Bigfoot_shake",
 		},
 		["centre"] = {
-			-- emoji: heart name: heart
-			"heart",
+			-- emoji: Bigfoot_heart name: heart
+			"Bigfoot_heart",
 		},
 		["stymy"] = {
-			-- emoji: embarrass name: embarrass
-			"embarrass",
+			-- emoji: Bigfoot_embarrass name: embarrass
+			"Bigfoot_embarrass",
 		},
 		["barren"] = {
-			-- emoji: innocent name: innocent
-			"innocent",
+			-- emoji: Bigfoot_innocent name: innocent
+			"Bigfoot_innocent",
 		},
 		["eruption"] = {
-			-- emoji: clap name: clap
-			"clap",
+			-- emoji: Bigfoot_clap name: clap
+			"Bigfoot_clap",
 		},
 		["judder"] = {
-			-- emoji: shake name: shake
-			"shake",
+			-- emoji: Bigfoot_shake name: shake
+			"Bigfoot_shake",
 		},
 		["nub"] = {
-			-- emoji: heart name: heart
-			"heart",
+			-- emoji: Bigfoot_heart name: heart
+			"Bigfoot_heart",
 		},
 		["stir"] = {
-			-- emoji: shake name: shake
-			"shake",
+			-- emoji: Bigfoot_shake name: shake
+			"Bigfoot_shake",
 		},
 		["malefic"] = {
-			-- emoji: evil name: evil
-			"evil",
+			-- emoji: Bigfoot_evil name: evil
+			"Bigfoot_evil",
 		},
 		["giggle"] = {
-			-- emoji: titter name: titter
-			"titter",
+			-- emoji: Bigfoot_titter name: titter
+			"Bigfoot_titter",
 		},
 		["bout"] = {
-			-- emoji: tear name: tear
-			"tear",
+			-- emoji: Bigfoot_tear name: tear
+			"Bigfoot_tear",
 		},
 		["perspire"] = {
-			-- emoji: sweat name: sweat
-			"sweat",
+			-- emoji: Bigfoot_sweat name: sweat
+			"Bigfoot_sweat",
 		},
 		["grinning"] = {
-			-- emoji: smile name: smile
-			"smile",
+			-- emoji: Bigfoot_smile name: smile
+			"Bigfoot_smile",
 		},
 		["disgorge"] = {
-			-- emoji: puke name: puke
-			"puke",
+			-- emoji: Bigfoot_puke name: puke
+			"Bigfoot_puke",
 		},
 		["consider"] = {
-			-- emoji: think name: think
-			"think",
+			-- emoji: Bigfoot_think name: think
+			"Bigfoot_think",
 		},
 		["furious"] = {
-			-- emoji: angry name: angry
-			"angry",
+			-- emoji: Bigfoot_angry name: angry
+			"Bigfoot_angry",
 		},
 		["shout out"] = {
-			-- emoji: cry name: cry
-			"cry",
-			-- emoji: shout name: shout
-			"shout",
+			-- emoji: Bigfoot_cry name: cry
+			"Bigfoot_cry",
+			-- emoji: Bigfoot_shout name: shout
+			"Bigfoot_shout",
 		},
 		["okey"] = {
-			-- emoji: okay name: okay
-			"okay",
+			-- emoji: Bigfoot_okay name: okay
+			"Bigfoot_okay",
 		},
 		["chain armour"] = {
-			-- emoji: mail name: mail
-			"mail",
+			-- emoji: Bigfoot_mail name: mail
+			"Bigfoot_mail",
 		},
 		["ill"] = {
-			-- emoji: ill name: ill
-			"ill",
+			-- emoji: Bigfoot_ill name: ill
+			"Bigfoot_ill",
 		},
 		["didder"] = {
-			-- emoji: shake name: shake
-			"shake",
+			-- emoji: Bigfoot_shake name: shake
+			"Bigfoot_shake",
 		},
 		["excite"] = {
-			-- emoji: shake name: shake
-			"shake",
+			-- emoji: Bigfoot_shake name: shake
+			"Bigfoot_shake",
 		},
 		["ugly"] = {
-			-- emoji: ugly name: ugly
-			"ugly",
+			-- emoji: Bigfoot_ugly name: ugly
+			"Bigfoot_ugly",
 		},
 		["stimulate"] = {
-			-- emoji: shake name: shake
-			"shake",
+			-- emoji: Bigfoot_shake name: shake
+			"Bigfoot_shake",
 		},
 		["core"] = {
-			-- emoji: heart name: heart
-			"heart",
+			-- emoji: Bigfoot_heart name: heart
+			"Bigfoot_heart",
 		},
 		["nerve"] = {
-			-- emoji: heart name: heart
-			"heart",
+			-- emoji: Bigfoot_heart name: heart
+			"Bigfoot_heart",
 		},
 		["affection"] = {
-			-- emoji: heart name: heart
-			"heart",
+			-- emoji: Bigfoot_heart name: heart
+			"Bigfoot_heart",
 		},
 		["rumble"] = {
-			-- emoji: growl name: growl
-			"growl",
+			-- emoji: Bigfoot_growl name: growl
+			"Bigfoot_growl",
 		},
 		["bosom"] = {
-			-- emoji: heart name: heart
-			"heart",
+			-- emoji: Bigfoot_heart name: heart
+			"Bigfoot_heart",
 		},
 		["send"] = {
-			-- emoji: mail name: mail
-			"mail",
+			-- emoji: Bigfoot_mail name: mail
+			"Bigfoot_mail",
 		},
 		["unworthy"] = {
-			-- emoji: ugly name: ugly
-			"ugly",
+			-- emoji: Bigfoot_ugly name: ugly
+			"Bigfoot_ugly",
 		},
 		["embarrass"] = {
-			-- emoji: embarrass name: embarrass
-			"embarrass",
+			-- emoji: Bigfoot_embarrass name: embarrass
+			"Bigfoot_embarrass",
 		},
 		["handshake"] = {
-			-- emoji: shake name: shake
-			"shake",
+			-- emoji: Bigfoot_shake name: shake
+			"Bigfoot_shake",
 		},
 		["mum"] = {
-			-- emoji: silent name: silent
-			"silent",
+			-- emoji: Bigfoot_silent name: silent
+			"Bigfoot_silent",
 		},
 		["unsure"] = {
-			-- emoji: shy name: shy
-			"shy",
+			-- emoji: Bigfoot_shy name: shy
+			"Bigfoot_shy",
 		},
 		["Volunteer"] = {
-			-- emoji: volunteer name: volunteer
-			"volunteer",
+			-- emoji: Bigfoot_volunteer name: volunteer
+			"Bigfoot_volunteer",
 		},
 		["stymie"] = {
-			-- emoji: embarrass name: embarrass
-			"embarrass",
+			-- emoji: Bigfoot_embarrass name: embarrass
+			"Bigfoot_embarrass",
 		},
 		["outcry"] = {
-			-- emoji: cry name: cry
-			"cry",
-			-- emoji: shout name: shout
-			"shout",
+			-- emoji: Bigfoot_cry name: cry
+			"Bigfoot_cry",
+			-- emoji: Bigfoot_shout name: shout
+			"Bigfoot_shout",
 		},
 		["sudate"] = {
-			-- emoji: sweat name: sweat
-			"sweat",
+			-- emoji: Bigfoot_sweat name: sweat
+			"Bigfoot_sweat",
 		},
 		["weep"] = {
-			-- emoji: cry name: cry
-			"cry",
+			-- emoji: Bigfoot_cry name: cry
+			"Bigfoot_cry",
 		},
 		["git"] = {
-			-- emoji: puke name: puke
-			"puke",
+			-- emoji: Bigfoot_puke name: puke
+			"Bigfoot_puke",
 		},
 		["unrestrained"] = {
-			-- emoji: excited name: excited
-			"excited",
+			-- emoji: Bigfoot_excited name: excited
+			"Bigfoot_excited",
 		},
 		["buck"] = {
-			-- emoji: tear name: tear
-			"tear",
+			-- emoji: Bigfoot_tear name: tear
+			"Bigfoot_tear",
 		},
 		["cat"] = {
-			-- emoji: puke name: puke
-			"puke",
+			-- emoji: Bigfoot_puke name: puke
+			"Bigfoot_puke",
 		},
 		["feeble"] = {
-			-- emoji: faint name: faint
-			"faint",
+			-- emoji: Bigfoot_faint name: faint
+			"Bigfoot_faint",
 		},
 		["ring mail"] = {
-			-- emoji: mail name: mail
-			"mail",
+			-- emoji: Bigfoot_mail name: mail
+			"Bigfoot_mail",
 		},
 		["blazon out"] = {
-			-- emoji: cry name: cry
-			"cry",
+			-- emoji: Bigfoot_cry name: cry
+			"Bigfoot_cry",
 		},
 		["get it on"] = {
-			-- emoji: love name: love
-			"love",
+			-- emoji: Bigfoot_love name: love
+			"Bigfoot_love",
 		},
 		["rest"] = {
-			-- emoji: sleep name: sleep
-			"sleep",
+			-- emoji: Bigfoot_sleep name: sleep
+			"Bigfoot_sleep",
 		},
 		["fondness"] = {
-			-- emoji: heart name: heart
-			"heart",
+			-- emoji: Bigfoot_heart name: heart
+			"Bigfoot_heart",
 		},
 		["eff"] = {
-			-- emoji: love name: love
-			"love",
+			-- emoji: Bigfoot_love name: love
+			"Bigfoot_love",
 		},
 		["paltry"] = {
-			-- emoji: miserable name: miserable
-			"miserable",
+			-- emoji: Bigfoot_miserable name: miserable
+			"Bigfoot_miserable",
 		},
 		["eternal sleep"] = {
-			-- emoji: sleep name: sleep
-			"sleep",
+			-- emoji: Bigfoot_sleep name: sleep
+			"Bigfoot_sleep",
 		},
 		["rallying cry"] = {
-			-- emoji: cry name: cry
-			"cry",
+			-- emoji: Bigfoot_cry name: cry
+			"Bigfoot_cry",
 		},
 		["delirious"] = {
-			-- emoji: excited name: excited
-			"excited",
+			-- emoji: Bigfoot_excited name: excited
+			"Bigfoot_excited",
 		},
 		["grimace"] = {
-			-- emoji: grimace name: grimace
-			"grimace",
+			-- emoji: Bigfoot_grimace name: grimace
+			"Bigfoot_grimace",
 		},
 		["worthless"] = {
-			-- emoji: ugly name: ugly
-			"ugly",
+			-- emoji: Bigfoot_ugly name: ugly
+			"Bigfoot_ugly",
 		},
 		["snag"] = {
-			-- emoji: tear name: tear
-			"tear",
+			-- emoji: Bigfoot_tear name: tear
+			"Bigfoot_tear",
 		},
 		["approve"] = {
-			-- emoji: okay name: okay
-			"okay",
+			-- emoji: Bigfoot_okay name: okay
+			"Bigfoot_okay",
 		},
 		["mean"] = {
-			-- emoji: think name: think
-			"think",
+			-- emoji: Bigfoot_think name: think
+			"Bigfoot_think",
 		},
 		["low-down"] = {
-			-- emoji: miserable name: miserable
-			"miserable",
+			-- emoji: Bigfoot_miserable name: miserable
+			"Bigfoot_miserable",
 		},
 		["glad"] = {
-			-- emoji: happy name: happy
-			"happy",
+			-- emoji: Bigfoot_happy name: happy
+			"Bigfoot_happy",
 		},
 		["meat"] = {
-			-- emoji: heart name: heart
-			"heart",
+			-- emoji: Bigfoot_heart name: heart
+			"Bigfoot_heart",
 		},
 		["warmness"] = {
-			-- emoji: heart name: heart
-			"heart",
+			-- emoji: Bigfoot_heart name: heart
+			"Bigfoot_heart",
 		},
 		["Angel Falls"] = {
-			-- emoji: angel name: angel
-			"angel",
+			-- emoji: Bigfoot_angel name: angel
+			"Bigfoot_angel",
 		},
 		["spew"] = {
-			-- emoji: puke name: puke
-			"puke",
+			-- emoji: Bigfoot_puke name: puke
+			"Bigfoot_puke",
 		},
 		["fainthearted"] = {
-			-- emoji: faint name: faint
-			"faint",
+			-- emoji: Bigfoot_faint name: faint
+			"Bigfoot_faint",
 		},
 		["spunk"] = {
-			-- emoji: heart name: heart
-			"heart",
+			-- emoji: Bigfoot_heart name: heart
+			"Bigfoot_heart",
 		},
 		["wild"] = {
-			-- emoji: angry name: angry
-			"angry",
+			-- emoji: Bigfoot_angry name: angry
+			"Bigfoot_angry",
 		},
 		["intend"] = {
-			-- emoji: think name: think
-			"think",
+			-- emoji: Bigfoot_think name: think
+			"Bigfoot_think",
 		},
 		["mail service"] = {
-			-- emoji: mail name: mail
-			"mail",
+			-- emoji: Bigfoot_mail name: mail
+			"Bigfoot_mail",
 		},
 		["snap"] = {
-			-- emoji: tear name: tear
-			"tear",
+			-- emoji: Bigfoot_tear name: tear
+			"Bigfoot_tear",
 		},
 	},
 

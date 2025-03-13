@@ -5,6 +5,7 @@ if GetLocale() ~= "enUS" then return end
 local pack = {
 	ID = "Bigfoot",
 	Name = "Bigfoot emojis",
+	ShortcodePrefix = "",
 	Icon = "Interface\\addOns\\Emoji-Bigfoot\\Icons\\icon.png",
 	IconDir = "Interface\\addOns\\Emoji-Bigfoot\\Icons\\",
 	Icons = {
@@ -3904,4 +3905,9 @@ local pack = {
 	},
 
 }
-Emojis:RegisterStickerPack(pack)
+
+local function OnAddonLoaded()
+    Emojis:RegisterStickerPack(pack)
+end
+
+EventUtil.ContinueOnAddOnLoaded(addonName, OnAddonLoaded)
